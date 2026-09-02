@@ -1,0 +1,405 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-24238
+  m_EditorClassIdentifier: 
+  number: 245
+  backgroundReference:
+    m_AssetGUID: f1d3c69d224bfc24580210366a25479e
+    m_SubObjectName: Praga_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0435\u043A\u043D\u0442\u0446"
+    wordsAmount: 5
+    words:
+    - "\u0430\u043A\u0442"
+    - "\u0430\u043A\u0446\u0435\u043D\u0442"
+    - "\u0442\u0430\u043D\u0435\u0446"
+    - "\u043A\u0430\u043D\u0442"
+    - "\u0442\u0430\u043D\u043A"
+    - "\u0446\u0435\u043D\u0442"
+    - "\u0446\u0435\u043D\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0430\u043A\u0442"
+        wordNumber: 4
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u043A\u0446\u0435\u043D\u0442"
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0430\u043D\u0435\u0446"
+        wordNumber: 6
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0430\u043D\u0442"
+        wordNumber: 7
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0430\u043D\u043A"
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0446\u0435\u043D\u0442"
+        wordNumber: 3
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0446\u0435\u043D\u0430"
+        wordNumber: 5
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "          | \u043A     \u0446  | \u0430\u043A\u0442   \u0435 
+        | \u043D \u0430\u043A\u0446\u0435\u043D\u0442 | \u0442 \u043D \u0435 \u0430 
+        |   \u043A \u043D    |     \u0442\u0430\u043D\u0435\u0446"
+  - language: es
+    letters: adenov
+    wordsAmount: 5
+    words:
+    - venda
+    - vea
+    - vena
+    - nave
+    - vean
+    - nevado
+    - ave
+    - ano
+    - done
+    - ven
+    - veo
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: nevado
+        wordNumber: 9
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: venda
+        wordNumber: 4
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vena
+        wordNumber: 1
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nave
+        wordNumber: 3
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ano
+        wordNumber: 7
+        startPosition: {x: 2, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: done
+        wordNumber: 5
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vean
+        wordNumber: 6
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ave
+        wordNumber: 2
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ven
+        wordNumber: 11
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vea
+        wordNumber: 8
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: veo
+        wordNumber: 10
+        startPosition: {x: 10, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 10, y: 8}
+      serializedGrid: ' d   v    v | o   e    e | n   nevado |venda  e    |    vena   
+        | nave       |   e        |   a        |  ano       |            |           
+        |            '
+  - language: de
+    letters: aiklmu
+    wordsAmount: 5
+    words:
+    - mal
+    - kalium
+    - maul
+    - kam
+    - kaum
+    - alm
+    - mai
+    - kai
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: alm
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kaum
+        wordNumber: 6
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kalium
+        wordNumber: 3
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kai
+        wordNumber: 7
+        startPosition: {x: 6, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mal
+        wordNumber: 8
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kam
+        wordNumber: 4
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: maul
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mai
+        wordNumber: 5
+        startPosition: {x: 8, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '   k      | m alm    |kaum a    | l   u    |   kalium |       
+        a |      kai '
+  - language: pt
+    letters: aelmsa
+    wordsAmount: 5
+    words:
+    - ela
+    - ala
+    - sala
+    - salame
+    - mel
+    - sela
+    - lama
+    - sem
+    - alma
+    - mala
+    - mas
+    - ama
+    - asma
+    - lema
+    - ema
+    - mesa
+    crosswordData:
+      columns: 12
+      rows: 15
+      placements:
+      - word: alma
+        wordNumber: 11
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lama
+        wordNumber: 13
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ema
+        wordNumber: 9
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sela
+        wordNumber: 2
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ama
+        wordNumber: 14
+        startPosition: {x: 9, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mala
+        wordNumber: 4
+        startPosition: {x: 6, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mesa
+        wordNumber: 3
+        startPosition: {x: 3, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sem
+        wordNumber: 16
+        startPosition: {x: 1, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ela
+        wordNumber: 6
+        startPosition: {x: 3, y: 11}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mel
+        wordNumber: 7
+        startPosition: {x: 3, y: 10}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mas
+        wordNumber: 8
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ala
+        wordNumber: 10
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sala
+        wordNumber: 5
+        startPosition: {x: 5, y: 8}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lema
+        wordNumber: 1
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: asma
+        wordNumber: 15
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: salame
+        wordNumber: 12
+        startPosition: {x: 9, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 11, y: 12}
+      serializedGrid: '       a    |  alma s    |     lama   |   ema a    |    a   
+        s  |    sela ama|      e  l  |      mala  |   mesa  m  |     a   e  | sem
+        l      |   ela      |   l        |            |            '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

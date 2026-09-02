@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251003123830
+  m_EditorClassIdentifier: 
+  groupName: "\u0414\u043E\u043B\u0438\u043D\u0430 \u0441\u043C\u0435\u0440\u0442\u0438"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: ad78447eade49964f80a9bb4ecd3beaa, type: 2}
+  - {fileID: 11400000, guid: f2ebacb7183b4d24e9324bf3f599c0d7, type: 2}
+  - {fileID: 11400000, guid: 78f97f7441d136b4c87449ae56963b07, type: 2}
+  - {fileID: 11400000, guid: d4801409e5769354a82b219143b1d1b6, type: 2}
+  - {fileID: 11400000, guid: a86699d36bed6d14c934ae50416107bd, type: 2}
+  - {fileID: 11400000, guid: 8aad68e0fb7b0ee4e98dd7edb7c74fae, type: 2}
+  - {fileID: 11400000, guid: 700b1f8e46b358d4fa88e7cc2509122e, type: 2}
+  - {fileID: 11400000, guid: 2cd73140f413a914abab6390780d9afd, type: 2}
+  - {fileID: 11400000, guid: 9e7b27b9f0b042b4a88439c1facd771a, type: 2}
+  - {fileID: 11400000, guid: 6076f708366c7a94094b0a097ef3c46c, type: 2}
+  backgroundReference:
+    m_AssetGUID: 3db986e6008afa849b5eec5d6ec9bd24
+    m_SubObjectName: DeathValley_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0414\u043E\u043B\u0438\u043D\u0430 \u0441\u043C\u0435\u0440\u0442\u0438"
+    text: "\u0414\u043E\u043B\u0438\u043D\u0430 \u0421\u043C\u0435\u0440\u0442\u0438
+      \u0432 \u041A\u0430\u043B\u0438\u0444\u043E\u0440\u043D\u0438\u0438 \u0432\u043A\u043B\u044E\u0447\u0430\u0435\u0442
+      \u0411\u044D\u0434\u0443\u043E\u0442\u0435\u0440-\u0411\u0435\u0439\u0441\u0438\u043D
+      \u043D\u0430 \u043E\u0442\u043C\u0435\u0442\u043A\u0435 \u221286 \u043C \u043E\u0442\u043D\u043E\u0441\u0438\u0442\u0435\u043B\u044C\u043D\u043E
+      \u043C\u043E\u0440\u044F \u0438 \u0441\u043B\u0430\u0432\u0438\u0442\u0441\u044F
+      \u044D\u043A\u0441\u0442\u0440\u0435\u043C\u0430\u043B\u044C\u043D\u043E\u0439
+      \u043B\u0435\u0442\u043D\u0435\u0439 \u0436\u0430\u0440\u043E\u0439."
+  colorsTile: {fileID: 11400000, guid: 63f1377c90d84ec478676a869dc2a2c1, type: 2}
+  targetExtraWords: 8

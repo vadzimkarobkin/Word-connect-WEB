@@ -1,0 +1,340 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-2332
+  m_EditorClassIdentifier: 
+  number: 287
+  backgroundReference:
+    m_AssetGUID: 386768fce95ec164ba7c36fcdef7a20a
+    m_SubObjectName: BurjDubai_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0435\u043B\u0441\u0442\u0446\u044C"
+    wordsAmount: 5
+    words:
+    - "\u043B\u044C\u0441\u0442\u0435\u0446"
+    - "\u0446\u0435\u043B\u044C"
+    - "\u043B\u0435\u0441\u0442\u044C"
+    - "\u0435\u043B\u044C"
+    - "\u043B\u0435\u0441"
+    - "\u0441\u0435\u0442\u044C"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043B\u044C\u0441\u0442\u0435\u0446"
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0446\u0435\u043B\u044C"
+        wordNumber: 3
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0435\u0441\u0442\u044C"
+        wordNumber: 6
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0435\u043B\u044C"
+        wordNumber: 4
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0435\u0441"
+        wordNumber: 5
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0435\u0442\u044C"
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "   \u0435      |   \u043B\u044C\u0441\u0442\u0435\u0446 |  
+        \u044C \u0435    |     \u0442    |  \u0446\u0435\u043B\u044C    |    \u0435    
+        |  \u043B\u0435\u0441\u0442\u044C   "
+  - language: es
+    letters: acelna
+    wordsAmount: 5
+    words:
+    - laca
+    - cala
+    - canela
+    - cana
+    - ancla
+    - clan
+    - caen
+    - cena
+    - canal
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: canal
+        wordNumber: 9
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: canela
+        wordNumber: 4
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cala
+        wordNumber: 1
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cena
+        wordNumber: 3
+        startPosition: {x: 0, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: clan
+        wordNumber: 7
+        startPosition: {x: 5, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: caen
+        wordNumber: 5
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ancla
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: laca
+        wordNumber: 6
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cana
+        wordNumber: 8
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 8}
+      serializedGrid: '       c  |    canal |       n  |  canela  |   n      | c
+        cala   | a l a    |cena clan | n   a    |          '
+  - language: de
+    letters: efginr
+    wordsAmount: 5
+    words:
+    - rief
+    - fern
+    - ring
+    - frei
+    - fing
+    - greif
+    - gern
+    - finger
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: greif
+        wordNumber: 4
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ring
+        wordNumber: 3
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rief
+        wordNumber: 1
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fern
+        wordNumber: 6
+        startPosition: {x: 3, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gern
+        wordNumber: 7
+        startPosition: {x: 6, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: frei
+        wordNumber: 8
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: finger
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fing
+        wordNumber: 5
+        startPosition: {x: 6, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 9, y: 9}
+      serializedGrid: '          | f f      |greif     | e n      |ring      |  
+        e      |   rief   |      i   |   fern   |      gern|          |          '
+  - language: pt
+    letters: aefirz
+    wordsAmount: 5
+    words:
+    - fria
+    - raiz
+    - frieza
+    - feira
+    - ira
+    - fera
+    - fazer
+    - frei
+    - fez
+    - faz
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: faz
+        wordNumber: 9
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: frei
+        wordNumber: 7
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fez
+        wordNumber: 1
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fazer
+        wordNumber: 3
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ira
+        wordNumber: 8
+        startPosition: {x: 4, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fera
+        wordNumber: 4
+        startPosition: {x: 1, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: feira
+        wordNumber: 5
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fria
+        wordNumber: 2
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: raiz
+        wordNumber: 6
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: frieza
+        wordNumber: 10
+        startPosition: {x: 8, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 8}
+      serializedGrid: '        f |        r | faz frei | e    a e | i    i z | r 
+        fez a |fazer     |    ira   | fera     |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 2325f08eaa0b4c128ab6bb851d423377
+timeCreated: 1749296625
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/Settings/Editor/TutorialShowConditionDrawer.cs
+  uploadId: 784234

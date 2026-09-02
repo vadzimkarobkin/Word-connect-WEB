@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-21686
+  m_EditorClassIdentifier: 
+  number: 442
+  backgroundReference:
+    m_AssetGUID: d1e29fc7bc3e2a547817f83f48c1ac3e
+    m_SubObjectName: MonumentValley_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0431\u0433\u0438\u043B\u043E\u043E"
+    wordsAmount: 5
+    words:
+    - "\u0431\u0438\u043E\u043B\u043E\u0433"
+    - "\u0431\u043B\u043E\u0433"
+    - "\u043E\u0431\u043E\u0438"
+    - "\u043B\u043E\u0431"
+    - "\u0431\u043E\u0433"
+    - "\u0433\u043E\u043B"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0431\u0438\u043E\u043B\u043E\u0433"
+        wordNumber: 2
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u043B\u043E\u0433"
+        wordNumber: 3
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043E\u0431\u043E\u0438"
+        wordNumber: 4
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u043E\u0431"
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u043E\u0433"
+        wordNumber: 6
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043E\u043B"
+        wordNumber: 5
+        startPosition: {x: 8, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "       \u0431  |  \u043E    \u043E  |  \u0431\u0438\u043E\u043B\u043E\u0433 
+        |  \u043E  \u043E    |  \u0438  \u0431\u043B\u043E\u0433 |        \u043E
+        |        \u043B "
+  - language: es
+    letters: aopsya
+    wordsAmount: 5
+    words:
+    - paso
+    - sopa
+    - soy
+    - sapo
+    - payaso
+    - pasa
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: pasa
+        wordNumber: 3
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: payaso
+        wordNumber: 2
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: paso
+        wordNumber: 5
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sopa
+        wordNumber: 1
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sapo
+        wordNumber: 4
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: soy
+        wordNumber: 6
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: '          | pasa     |   o      |   p s s  |  payaso  |    
+        p y  |  paso    '
+  - language: de
+    letters: abeikn
+    wordsAmount: 5
+    words:
+    - bei
+    - kein
+    - inka
+    - bin
+    - bein
+    - knie
+    - kai
+    - kabine
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: inka
+        wordNumber: 4
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kein
+        wordNumber: 7
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bein
+        wordNumber: 2
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kai
+        wordNumber: 3
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: knie
+        wordNumber: 6
+        startPosition: {x: 2, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bei
+        wordNumber: 8
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bin
+        wordNumber: 5
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kabine
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 7}
+      serializedGrid: '          |   b      | b inka   |kein a    | i   bein |  
+        kai    |     n    |  knie    |          |          '
+  - language: pt
+    letters: aorsta
+    wordsAmount: 5
+    words:
+    - rota
+    - tara
+    - ator
+    - atar
+    - rosa
+    - rato
+    - atraso
+    - soar
+    - astro
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: rato
+        wordNumber: 9
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: astro
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: atar
+        wordNumber: 4
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rosa
+        wordNumber: 8
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rota
+        wordNumber: 5
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: atraso
+        wordNumber: 7
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: soar
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tara
+        wordNumber: 3
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ator
+        wordNumber: 6
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '     rato |a  s  t   |t  o  o   |r  astro  |atar a    |s   
+        rosa |o rota    '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: e8a60425bb67f42618a943883b553d29, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

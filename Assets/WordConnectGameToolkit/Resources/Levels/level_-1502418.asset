@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-1502418
+  m_EditorClassIdentifier: 
+  number: 866
+  backgroundReference:
+    m_AssetGUID: b6bb8243673a92b4e8c0347a5e8f4e11
+    m_SubObjectName: 15_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0438\u043A\u043B\u0440\u0443\u0446\u044C"
+    wordsAmount: 5
+    words:
+    - "\u0446\u0438\u0440\u043A"
+    - "\u043B\u0438\u043A"
+    - "\u0440\u0443\u043B\u044C"
+    - "\u0446\u0438\u0440\u043A\u0443\u043B\u044C"
+    - "\u043A\u0443\u043B\u044C"
+    - "\u0446\u0438\u043A\u043B"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0446\u0438\u0440\u043A"
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0438\u043A"
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0443\u043B\u044C"
+        wordNumber: 4
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0446\u0438\u0440\u043A\u0443\u043B\u044C"
+        wordNumber: 6
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0443\u043B\u044C"
+        wordNumber: 2
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0446\u0438\u043A\u043B"
+        wordNumber: 5
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: "   \u0446      |  \u0446\u0438\u0440\u043A \u0446  |   \u0440
+        \u0443 \u0438  |   \u043A \u043B\u0438\u043A  |  \u0440\u0443\u043B\u044C
+        \u043B  |   \u043B      |   \u044C      "
+  colorsTile: {fileID: 11400000, guid: 63f1377c90d84ec478676a869dc2a2c1, type: 2}
+  words: 5
+  letters: 7
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

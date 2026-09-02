@@ -1,0 +1,370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-10678
+  m_EditorClassIdentifier: 
+  number: 390
+  backgroundReference:
+    m_AssetGUID: 7a7bf2a2cb7c16245adc210172358c25
+    m_SubObjectName: Freedom_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0430\u0435\u043D\u0440\u0444"
+    wordsAmount: 5
+    words:
+    - "\u0444\u0430\u043D\u0435\u0440\u0430"
+    - "\u0444\u0430\u0440\u0430"
+    - "\u0430\u0440\u0444\u0430"
+    - "\u0430\u0444\u0435\u0440\u0430"
+    - "\u0444\u0435\u043D"
+    - "\u0430\u0440\u0435\u043D\u0430"
+    - "\u0440\u0430\u043D\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0444\u0430\u043D\u0435\u0440\u0430"
+        wordNumber: 1
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0444\u0430\u0440\u0430"
+        wordNumber: 3
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u0440\u0444\u0430"
+        wordNumber: 6
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u0444\u0435\u0440\u0430"
+        wordNumber: 2
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0444\u0435\u043D"
+        wordNumber: 4
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u0440\u0435\u043D\u0430"
+        wordNumber: 5
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0430\u043D\u0430"
+        wordNumber: 7
+        startPosition: {x: 8, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |   \u0444      | \u0430 \u0435 \u0430    | \u0444\u0430\u043D\u0435\u0440\u0430
+        \u0440 | \u0435   \u0435  \u0430 | \u0440   \u043D  \u043D |\u0444\u0430\u0440\u0430
+        \u0430\u0440\u0444\u0430 "
+  - language: es
+    letters: acorst
+    wordsAmount: 5
+    words:
+    - castor
+    - costar
+    - corta
+    - tocar
+    - costa
+    - arcos
+    - otras
+    - casto
+    - astro
+    - actor
+    crosswordData:
+      columns: 15
+      rows: 15
+      placements:
+      - word: costa
+        wordNumber: 5
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: corta
+        wordNumber: 3
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: costar
+        wordNumber: 8
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: otras
+        wordNumber: 1
+        startPosition: {x: 5, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: castor
+        wordNumber: 6
+        startPosition: {x: 0, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tocar
+        wordNumber: 7
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: astro
+        wordNumber: 4
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: casto
+        wordNumber: 9
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: actor
+        wordNumber: 2
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arcos
+        wordNumber: 10
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 10, y: 10}
+      serializedGrid: '  a            |costa  a       |  t    r       |  r    c      
+        | corta o       |     costar    |t c  t         |o a  otras     |castor        
+        |a t            |r o            |               |               |              
+        |               '
+  - language: de
+    letters: achprt
+    wordsAmount: 5
+    words:
+    - chat
+    - hart
+    - pacht
+    - acht
+    - pracht
+    - tap
+    - patch
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: chat
+        wordNumber: 5
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pacht
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: patch
+        wordNumber: 4
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: hart
+        wordNumber: 6
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tap
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pracht
+        wordNumber: 3
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: acht
+        wordNumber: 7
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 7, y: 5}
+      serializedGrid: '     p a  |chat r c  | a a a h  | r pacht  | t   h    |  
+        patch  |          '
+  - language: pt
+    letters: aclosa
+    wordsAmount: 5
+    words:
+    - sola
+    - casal
+    - caos
+    - cola
+    - asco
+    - sal
+    - casa
+    - calo
+    - caso
+    - saco
+    - acaso
+    - sala
+    - sacola
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: caso
+        wordNumber: 13
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: asco
+        wordNumber: 5
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sal
+        wordNumber: 11
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: saco
+        wordNumber: 7
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sala
+        wordNumber: 1
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sacola
+        wordNumber: 4
+        startPosition: {x: 1, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sola
+        wordNumber: 10
+        startPosition: {x: 3, y: 11}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: acaso
+        wordNumber: 6
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: caos
+        wordNumber: 9
+        startPosition: {x: 3, y: 8}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cola
+        wordNumber: 12
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: calo
+        wordNumber: 2
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: casa
+        wordNumber: 3
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: casal
+        wordNumber: 8
+        startPosition: {x: 8, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 11}
+      serializedGrid: '    c     | caso     |    l     |    asco  |      a   |sal
+        c saco| c sala a | a  l   s | sacola a | o a    l |   o      |   sola   '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

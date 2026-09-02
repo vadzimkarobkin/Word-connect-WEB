@@ -1,0 +1,319 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-18664
+  m_EditorClassIdentifier: 
+  number: 147
+  backgroundReference:
+    m_AssetGUID: d3f10ba72c58c51488cca981eae2aca6
+    m_SubObjectName: chichen itza_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0435\u043A\u043F\u0441\u0448"
+    wordsAmount: 5
+    words:
+    - "\u043F\u0435\u0441"
+    - "\u043F\u0430\u0441"
+    - "\u043F\u0435\u0448\u043A\u0430"
+    - "\u043F\u0430\u0435\u043A"
+    - "\u0441\u043F\u0435\u0448\u043A\u0430"
+    - "\u0441\u043F\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043F\u0435\u0441"
+        wordNumber: 3
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0430\u0441"
+        wordNumber: 1
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0435\u0448\u043A\u0430"
+        wordNumber: 4
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0430\u0435\u043A"
+        wordNumber: 6
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043F\u0435\u0448\u043A\u0430"
+        wordNumber: 5
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043F\u0430"
+        wordNumber: 2
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |    \u0441     |    \u043F\u0435\u0441   |    \u0435
+        \u043F\u0430\u0441 |  \u043F\u0435\u0448\u043A\u0430   |    \u043A     |  
+        \u043F\u0430\u0435\u043A   "
+  - language: es
+    letters: adipta
+    wordsAmount: 5
+    words:
+    - apta
+    - ida
+    - pata
+    - pitada
+    - tia
+    - tapa
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: pitada
+        wordNumber: 2
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ida
+        wordNumber: 3
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tapa
+        wordNumber: 5
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pata
+        wordNumber: 1
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: apta
+        wordNumber: 4
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tia
+        wordNumber: 6
+        startPosition: {x: 8, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '          |    p     | pitada   |    t p t |  ida t i |    
+        tapa |          '
+  - language: de
+    letters: afmpru
+    wordsAmount: 5
+    words:
+    - frau
+    - parfum
+    - puma
+    - ruf
+    - auf
+    - rauf
+    - raum
+    - pfau
+    - farm
+    - arm
+    - rum
+    - rumpf
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: rauf
+        wordNumber: 9
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: parfum
+        wordNumber: 7
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ruf
+        wordNumber: 4
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: raum
+        wordNumber: 1
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pfau
+        wordNumber: 6
+        startPosition: {x: 6, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rum
+        wordNumber: 3
+        startPosition: {x: 2, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arm
+        wordNumber: 11
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: farm
+        wordNumber: 12
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: frau
+        wordNumber: 2
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: puma
+        wordNumber: 8
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rumpf
+        wordNumber: 5
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: auf
+        wordNumber: 10
+        startPosition: {x: 8, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 8}
+      serializedGrid: '   f      |   a p    |   rauf   |   m m  a | a  parfum| ruf 
+        u f | m raum   |   a  pfau|  rum f   |          |          |          '
+  - language: pt
+    letters: acilno
+    wordsAmount: 5
+    words:
+    - calo
+    - laico
+    - colina
+    - anil
+    - cano
+    - cola
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: cola
+        wordNumber: 5
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: calo
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: colina
+        wordNumber: 3
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: laico
+        wordNumber: 6
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: anil
+        wordNumber: 2
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cano
+        wordNumber: 4
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 6, y: 6}
+      serializedGrid: '      c   |   cola   | l    n   | a calo   | i  n     | colina  
+        | o  l     '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

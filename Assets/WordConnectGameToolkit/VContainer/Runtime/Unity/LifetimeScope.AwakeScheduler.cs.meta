@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 69462a1b64a3d4de2bcbd8707dd57ca1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/VContainer/Runtime/Unity/LifetimeScope.AwakeScheduler.cs
+  uploadId: 784234

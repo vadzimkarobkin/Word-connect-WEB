@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-69382
+  m_EditorClassIdentifier: 
+  number: 174
+  backgroundReference:
+    m_AssetGUID: 3db986e6008afa849b5eec5d6ec9bd24
+    m_SubObjectName: DeathValley_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0431\u043D\u0440\u044B\u044F"
+    wordsAmount: 5
+    words:
+    - "\u0440\u044B\u0431\u0430"
+    - "\u0431\u0430\u043D\u044F"
+    - "\u0431\u0430\u0440\u044B\u043D\u044F"
+    - "\u043D\u0430\u0440\u044B"
+    - "\u0440\u0430\u0431\u044B\u043D\u044F"
+    - "\u0431\u0430\u044F\u043D"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0440\u044B\u0431\u0430"
+        wordNumber: 2
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u043D\u044F"
+        wordNumber: 4
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u0440\u044B\u043D\u044F"
+        wordNumber: 3
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043D\u0430\u0440\u044B"
+        wordNumber: 5
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0430\u0431\u044B\u043D\u044F"
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u044F\u043D"
+        wordNumber: 6
+        startPosition: {x: 8, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "     \u0440  \u0431 |  \u0440\u044B\u0431\u0430  \u0430 |    
+        \u0431\u0430\u043D\u044F |  \u043D  \u044B  \u043D | \u0431\u0430\u0440\u044B\u043D\u044F  
+        |  \u0440  \u044F    |  \u044B       "
+  - language: es
+    letters: aejlma
+    wordsAmount: 5
+    words:
+    - lema
+    - alma
+    - mala
+    - maja
+    - almeja
+    - ama
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: ama
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: almeja
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lema
+        wordNumber: 5
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: alma
+        wordNumber: 6
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: maja
+        wordNumber: 2
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mala
+        wordNumber: 4
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: '  m       |  ama     |  j       |  almeja  |    a     |   
+        lema  | alma     '
+  - language: de
+    letters: ehklno
+    wordsAmount: 5
+    words:
+    - holen
+    - onkel
+    - kohlen
+    - klon
+    - ohne
+    - klone
+    - kohle
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: kohlen
+        wordNumber: 3
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: holen
+        wordNumber: 2
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: klon
+        wordNumber: 6
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: onkel
+        wordNumber: 7
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ohne
+        wordNumber: 4
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kohle
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: klone
+        wordNumber: 5
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '          | o   k k  | n  kohlen| k o h o  | e holen  |klon
+        e e  |   e      '
+  - language: pt
+    letters: aeglza
+    wordsAmount: 5
+    words:
+    - gazela
+    - alga
+    - gaze
+    - gala
+    - ela
+    - gel
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: gaze
+        wordNumber: 3
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: alga
+        wordNumber: 2
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gala
+        wordNumber: 5
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gazela
+        wordNumber: 4
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ela
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gel
+        wordNumber: 6
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '          |   g      |  gaze    |   z l    |   e alga |  
+        l   e  |gala   l  '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 63f1377c90d84ec478676a869dc2a2c1, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

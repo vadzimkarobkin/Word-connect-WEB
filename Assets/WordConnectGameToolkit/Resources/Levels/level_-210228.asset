@@ -1,0 +1,327 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-210228
+  m_EditorClassIdentifier: 
+  number: 226
+  backgroundReference:
+    m_AssetGUID: bbd225b803b7df24f8ebe25a272e2b8a
+    m_SubObjectName: ParisGodmother_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0433\u0438\u043C\u043D\u043E"
+    wordsAmount: 5
+    words:
+    - "\u0433\u0438\u043C\u043D"
+    - "\u043C\u0438\u043D\u0430"
+    - "\u043D\u043E\u0433\u0430"
+    - "\u043C\u0438\u043D\u043E\u0433\u0430"
+    - "\u0433\u043D\u043E\u043C"
+    - "\u043C\u0430\u043D\u0433\u043E"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0433\u0438\u043C\u043D"
+        wordNumber: 2
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0438\u043D\u0430"
+        wordNumber: 5
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043D\u043E\u0433\u0430"
+        wordNumber: 4
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0438\u043D\u043E\u0433\u0430"
+        wordNumber: 3
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043D\u043E\u043C"
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0430\u043D\u0433\u043E"
+        wordNumber: 6
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |   \u043C \u0433    |  \u0433\u0438\u043C\u043D
+        \u043C  |   \u043D \u043E \u0430  |   \u043E \u043C\u0438\u043D\u0430 |  
+        \u0433   \u0433  |\u043D\u043E\u0433\u0430   \u043E  "
+  - language: es
+    letters: aimnor
+    wordsAmount: 5
+    words:
+    - rio
+    - animo
+    - marino
+    - ron
+    - ramo
+    - amor
+    - mano
+    - norma
+    - roma
+    - mio
+    - orina
+    - mina
+    - mora
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: ron
+        wordNumber: 6
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ramo
+        wordNumber: 13
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: amor
+        wordNumber: 3
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: orina
+        wordNumber: 1
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rio
+        wordNumber: 9
+        startPosition: {x: 0, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: animo
+        wordNumber: 4
+        startPosition: {x: 4, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: marino
+        wordNumber: 10
+        startPosition: {x: 6, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: norma
+        wordNumber: 5
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mano
+        wordNumber: 7
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: roma
+        wordNumber: 2
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mora
+        wordNumber: 8
+        startPosition: {x: 7, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mina
+        wordNumber: 12
+        startPosition: {x: 8, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mio
+        wordNumber: 11
+        startPosition: {x: 11, y: 8}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 11, y: 10}
+      serializedGrid: ' n          | o          | ron  ramo  | m      i   | amor  
+        n   |  a orina   |  n m       |rio animo   |       o   m|       r   i|     
+        marino|            '
+  - language: de
+    letters: eiknpp
+    wordsAmount: 5
+    words:
+    - knie
+    - kip
+    - pin
+    - kippen
+    - pein
+    - pik
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: pik
+        wordNumber: 4
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kip
+        wordNumber: 3
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pein
+        wordNumber: 5
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: knie
+        wordNumber: 2
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kippen
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pin
+        wordNumber: 6
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '   pik    |     i    |   kip p  |     pein |  knie n  |    
+        n    |          '
+  - language: pt
+    letters: airstu
+    wordsAmount: 5
+    words:
+    - usar
+    - situar
+    - rua
+    - sair
+    - tia
+    - sua
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: sua
+        wordNumber: 2
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: situar
+        wordNumber: 3
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sair
+        wordNumber: 4
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rua
+        wordNumber: 5
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: usar
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tia
+        wordNumber: 6
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 7, y: 5}
+      serializedGrid: '       t  |     u i  | s   sua  | a r a    |situar    | r
+        a      |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: a99c800bd20c11f4db6fd5797964f744, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

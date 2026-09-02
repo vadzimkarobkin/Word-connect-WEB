@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8d28431513d24508bed75d96f343e797
+timeCreated: 1694366333
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/AnimationBehaviours/RandomWaitTime.cs
+  uploadId: 784234

@@ -1,0 +1,342 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-149070
+  m_EditorClassIdentifier: 
+  number: 418
+  backgroundReference:
+    m_AssetGUID: 78be36de0d2e1194cbb8165397b74978
+    m_SubObjectName: TowerBridge_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0430\u0433\u043D\u0440\u0442"
+    wordsAmount: 5
+    words:
+    - "\u0442\u0430\u0440\u0430\u043D"
+    - "\u0430\u043D\u0433\u0430\u0440"
+    - "\u0433\u0440\u0430\u043D\u0430\u0442"
+    - "\u0433\u0430\u0440\u0430\u043D\u0442"
+    - "\u043D\u0430\u0433\u0430\u0440"
+    - "\u043D\u0430\u0440\u0442\u0430"
+    - "\u0433\u0440\u0430\u043D\u0442"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0442\u0430\u0440\u0430\u043D"
+        wordNumber: 3
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u043D\u0433\u0430\u0440"
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u0440\u0430\u043D\u0430\u0442"
+        wordNumber: 6
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u0430\u0440\u0430\u043D\u0442"
+        wordNumber: 4
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043D\u0430\u0433\u0430\u0440"
+        wordNumber: 2
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043D\u0430\u0440\u0442\u0430"
+        wordNumber: 5
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u0440\u0430\u043D\u0442"
+        wordNumber: 7
+        startPosition: {x: 9, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: " \u0433 \u043D      |\u0442\u0430\u0440\u0430\u043D     |
+        \u0440 \u0433  \u043D  \u0433| \u0430 \u0430\u043D\u0433\u0430\u0440 \u0440|
+        \u043D \u0440  \u0440  \u0430| \u0442    \u0442  \u043D|    \u0433\u0440\u0430\u043D\u0430\u0442"
+  - language: es
+    letters: aloprs
+    wordsAmount: 5
+    words:
+    - ralo
+    - osa
+    - sola
+    - solar
+    - polar
+    - por
+    - rol
+    - soplar
+    - las
+    - sal
+    - par
+    - olas
+    - palo
+    - losa
+    - proa
+    crosswordData:
+      columns: 15
+      rows: 12
+      placements:
+      - word: sola
+        wordNumber: 14
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: par
+        wordNumber: 8
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: palo
+        wordNumber: 3
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: solar
+        wordNumber: 1
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: proa
+        wordNumber: 4
+        startPosition: {x: 2, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: soplar
+        wordNumber: 10
+        startPosition: {x: 7, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sal
+        wordNumber: 7
+        startPosition: {x: 3, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: polar
+        wordNumber: 12
+        startPosition: {x: 10, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: losa
+        wordNumber: 13
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rol
+        wordNumber: 6
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: olas
+        wordNumber: 5
+        startPosition: {x: 4, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: osa
+        wordNumber: 2
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: las
+        wordNumber: 9
+        startPosition: {x: 7, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: por
+        wordNumber: 15
+        startPosition: {x: 9, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ralo
+        wordNumber: 11
+        startPosition: {x: 11, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 14, y: 10}
+      serializedGrid: ' sola          |   o           |   s           |  par         
+        |    o    p     |  palo   o     |     solar     |  proa a   r   |    l  soplar 
+        |   sal     l   |    s     polar|               '
+  - language: de
+    letters: abcdho
+    wordsAmount: 5
+    words:
+    - dach
+    - ach
+    - bad
+    - bach
+    - doch
+    - obdach
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: bad
+        wordNumber: 1
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: obdach
+        wordNumber: 2
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dach
+        wordNumber: 3
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bach
+        wordNumber: 4
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: doch
+        wordNumber: 5
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 6, y: 6}
+      serializedGrid: '          |   bad    |     o    | obdach   |  a  h    |dach     
+        |  h       '
+  - language: pt
+    letters: aimnra
+    wordsAmount: 5
+    words:
+    - animar
+    - amar
+    - arma
+    - mania
+    - miar
+    - rima
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: mania
+        wordNumber: 4
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: amar
+        wordNumber: 2
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: miar
+        wordNumber: 3
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rima
+        wordNumber: 5
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: animar
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arma
+        wordNumber: 6
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '     a    |   mania  |     i r  |  r  m m  |  i  amar |  miar   
+        |  a       '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0467802d17114cf39762ec50832387c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Animations/GUI/Buttons/play_controller.overrideController
+  uploadId: 784234

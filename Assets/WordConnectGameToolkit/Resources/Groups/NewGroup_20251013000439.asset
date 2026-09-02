@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251013000439
+  m_EditorClassIdentifier: 
+  groupName: "\u041F\u043E\u043D\u0442\u0435 \u0412\u0435\u043A\u043A\u044C\u043E"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 92d426587e65bfc4ba5f78b54f32f982, type: 2}
+  - {fileID: 11400000, guid: a382d5c6ecc0452429f67b48e5b22d07, type: 2}
+  - {fileID: 11400000, guid: 2181791d6ca2f5d4ca4a134cdcaed679, type: 2}
+  - {fileID: 11400000, guid: 45b39451cb834ce4398f239ea4ceeff3, type: 2}
+  - {fileID: 11400000, guid: 08d12e9656c34874ab7fdc29df748efb, type: 2}
+  - {fileID: 11400000, guid: d3af269614f5b9840bdffb8f6f382410, type: 2}
+  - {fileID: 11400000, guid: 3a476012a02d0ad4e933fac5e1f23b9e, type: 2}
+  - {fileID: 11400000, guid: 8110770877498494d86e63e3bc817dab, type: 2}
+  - {fileID: 11400000, guid: 2b55e890fb9f4e541af22e7d0f7028f5, type: 2}
+  - {fileID: 11400000, guid: 14ef46a701a32ea47ad9c5be32935415, type: 2}
+  - {fileID: 11400000, guid: b5444a6fbb26daa4f96d9a4c8e6dc487, type: 2}
+  - {fileID: 11400000, guid: f7e153dae2e70b043b45d893199ff62c, type: 2}
+  - {fileID: 11400000, guid: 4b251bf891074294c884882c207ecdab, type: 2}
+  - {fileID: 11400000, guid: 92e8972fb48d6c94b8367d2e0170fef9, type: 2}
+  - {fileID: 11400000, guid: b63ec8ee2f948684ba00ead7ed63ae3f, type: 2}
+  backgroundReference:
+    m_AssetGUID: 700897bda58965d48a0809242e393d95
+    m_SubObjectName: Ponte di Rialto_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u041F\u043E\u043D\u0442\u0435 \u0412\u0435\u043A\u043A\u044C\u043E"
+    text: "\u041F\u043E\u043D\u0442\u0435 \u0412\u0435\u043A\u043A\u044C\u043E \u0432\u043E
+      \u0424\u043B\u043E\u0440\u0435\u043D\u0446\u0438\u0438 \u0443\u0446\u0435\u043B\u0435\u043B
+      \u0432\u043E \u0412\u0442\u043E\u0440\u0443\u044E \u043C\u0438\u0440\u043E\u0432\u0443\u044E
+      \u0432\u043E\u0439\u043D\u0443 \u0438 \u0441 XV \u0432\u0435\u043A\u0430 \u0437\u0430\u043D\u044F\u0442
+      \u044E\u0432\u0435\u043B\u0438\u0440\u043D\u044B\u043C\u0438 \u043B\u0430\u0432\u043A\u0430\u043C\u0438
+      \u0432\u043C\u0435\u0441\u0442\u043E \u043F\u0440\u0435\u0436\u043D\u0438\u0445
+      \u043C\u044F\u0441\u043D\u044B\u0445 \u0442\u043E\u0440\u0433\u043E\u0432\u0446\u0435\u0432"
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  targetExtraWords: 8

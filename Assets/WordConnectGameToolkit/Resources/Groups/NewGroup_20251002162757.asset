@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251002162757
+  m_EditorClassIdentifier: 
+  groupName: "\u0424\u0443\u0434\u0437\u0438"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 445d93e0d34ce6e41af16099b8df0813, type: 2}
+  - {fileID: 11400000, guid: ea7dd1aa51dc9fd478e5f2d58a3e9b33, type: 2}
+  - {fileID: 11400000, guid: a8263f2edc839274d8584cdf16ff6f8e, type: 2}
+  - {fileID: 11400000, guid: e468c635fd882d343be02996274c407b, type: 2}
+  - {fileID: 11400000, guid: 48984679e173bc142a1d7e11ba1398cf, type: 2}
+  - {fileID: 11400000, guid: cfa5c1b28c2c2f546b0842a257d7760d, type: 2}
+  - {fileID: 11400000, guid: 636f9e28845d1b0499f416fd1673851f, type: 2}
+  - {fileID: 11400000, guid: 0a37d39619ed938449e2fa2f5429d167, type: 2}
+  backgroundReference:
+    m_AssetGUID: bbd60ebc71a7072488dddf7a751817bb
+    m_SubObjectName: Fuji_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u041A\u043E\u043B\u0438\u0437\u0435\u0439"
+    text: "\u0413\u043E\u0440\u0430 \u0424\u0443\u0434\u0437\u0438 \u0432 \u042F\u043F\u043E\u043D\u0438\u0438
+      \u2014 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044E\u0449\u0438\u0439 \u0432\u0443\u043B\u043A\u0430\u043D,
+      \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439 \u0440\u0430\u0437 \u0438\u0437\u0432\u0435\u0440\u0433\u0430\u0432\u0448\u0438\u0439\u0441\u044F
+      \u0432 1707 \u0433\u043E\u0434\u0443, \u0438 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F
+      \u0441\u0432\u044F\u0449\u0435\u043D\u043D\u043E\u0439 \u0432 \u0441\u0438\u043D\u0442\u043E\u0438\u0437\u043C\u0435."
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  targetExtraWords: 8

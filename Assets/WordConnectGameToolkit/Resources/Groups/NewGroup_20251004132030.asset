@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251004132030
+  m_EditorClassIdentifier: 
+  groupName: "\u0411\u0443\u0440\u0434\u0436-\u044D\u043B\u044C-\u0410\u0440\u0430\u0431"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: a2cb1363a88d7d24587076ab481d9d9e, type: 2}
+  - {fileID: 11400000, guid: 7a6b83513c240bb4487c9b63ce2c505e, type: 2}
+  - {fileID: 11400000, guid: b668d2a6bdea43b4cb5ba4c615842f48, type: 2}
+  - {fileID: 11400000, guid: e616b41564ed7ce4983002bdf775f76f, type: 2}
+  - {fileID: 11400000, guid: 545a7a26de5cbc74ca4dd1ef80b1fe00, type: 2}
+  - {fileID: 11400000, guid: 65e0945e3c32ff3439ef2bc754e9cac1, type: 2}
+  - {fileID: 11400000, guid: 3a2458c1979c0be47a0a7766b1b2c507, type: 2}
+  - {fileID: 11400000, guid: 7b011bafa8acd344d96f59887ac3c710, type: 2}
+  - {fileID: 11400000, guid: ba3eae420a4226f418246e21971142c1, type: 2}
+  - {fileID: 11400000, guid: 69f61748c5eb1ac4dbab513f5cc71732, type: 2}
+  backgroundReference:
+    m_AssetGUID: 386768fce95ec164ba7c36fcdef7a20a
+    m_SubObjectName: BurjDubai_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0411\u0443\u0440\u0434\u0436-\u044D\u043B\u044C-\u0410\u0440\u0430\u0431"
+    text: "\u0411\u0443\u0440\u0434\u0436-\u044D\u043B\u044C-\u0410\u0440\u0430\u0431
+      \u0432 \u0414\u0443\u0431\u0430\u0435 \u0441\u0442\u043E\u0438\u0442 \u043D\u0430
+      \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u043C
+      \u043E\u0441\u0442\u0440\u043E\u0432\u0435 \u0438 \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D
+      \u0432 \u0444\u043E\u0440\u043C\u0435 \u043F\u0430\u0440\u0443\u0441\u0430,
+      \u0432\u044B\u0441\u043E\u0442\u0430 321 \u043C, \u043E\u0442\u043A\u0440\u044B\u0442
+      \u0432 1999 \u0433\u043E\u0434\u0443."
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  targetExtraWords: 8

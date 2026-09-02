@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2e87c08fe0b34f2f8dafffa48eee43d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Resources/Popups/MenuPlay.prefab
+  uploadId: 784234

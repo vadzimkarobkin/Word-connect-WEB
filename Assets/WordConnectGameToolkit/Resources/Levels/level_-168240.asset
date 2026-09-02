@@ -1,0 +1,348 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-168240
+  m_EditorClassIdentifier: 
+  number: 334
+  backgroundReference:
+    m_AssetGUID: b9dbe221b2ca34f4d832ab94ab49225f
+    m_SubObjectName: Empire State Building_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0433\u043E\u0441\u0442\u044C\u044F"
+    wordsAmount: 5
+    words:
+    - "\u0441\u0442\u044F\u0433"
+    - "\u0441\u0442\u043E\u0433"
+    - "\u0441\u043E\u044F"
+    - "\u043E\u0441\u044C"
+    - "\u0433\u043E\u0441\u0442\u044C\u044F"
+    - "\u0433\u043E\u0441\u0442\u044C"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0441\u0442\u044F\u0433"
+        wordNumber: 4
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0442\u043E\u0433"
+        wordNumber: 2
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043E\u044F"
+        wordNumber: 3
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043E\u0441\u044C"
+        wordNumber: 5
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043E\u0441\u0442\u044C\u044F"
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043E\u0441\u0442\u044C"
+        wordNumber: 6
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "  \u0441\u0442\u044F\u0433    |     \u043E \u0433  |     \u0441\u0442\u043E\u0433
+        |     \u0442 \u0441  |   \u043E \u044C \u0442  |   \u0441\u043E\u044F \u044C 
+        |   \u044C      "
+  - language: es
+    letters: "d\xEDotar"
+    wordsAmount: 5
+    words:
+    - "r\xEDo"
+    - "t\xEDo"
+    - "r\xEDa"
+    - "t\xEDa"
+    - "tra\xEDdo"
+    - "o\xEDr"
+    - "d\xEDa"
+    - "tr\xEDo"
+    - "tard\xEDo"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "t\xEDo"
+        wordNumber: 6
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "tra\xEDdo"
+        wordNumber: 2
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "tard\xEDo"
+        wordNumber: 4
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "t\xEDa"
+        wordNumber: 9
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "o\xEDr"
+        wordNumber: 5
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "d\xEDa"
+        wordNumber: 8
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "tr\xEDo"
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "r\xEDa"
+        wordNumber: 3
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "r\xEDo"
+        wordNumber: 7
+        startPosition: {x: 9, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "         r|     t r \xED|t\xEDo tra\xEDdo|  \xED  \xED a 
+        |tard\xEDo    |   \xED      | t\xEDa      "
+  - language: de
+    letters: einsne
+    wordsAmount: 5
+    words:
+    - niesen
+    - nies
+    - seien
+    - sinn
+    - sein
+    - eins
+    - eines
+    - seine
+    - seinen
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: sein
+        wordNumber: 7
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: seine
+        wordNumber: 4
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nies
+        wordNumber: 1
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eines
+        wordNumber: 8
+        startPosition: {x: 0, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: seinen
+        wordNumber: 5
+        startPosition: {x: 2, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: niesen
+        wordNumber: 9
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eins
+        wordNumber: 2
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: seien
+        wordNumber: 6
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sinn
+        wordNumber: 3
+        startPosition: {x: 7, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 9}
+      serializedGrid: '      s     |     sein   |      i     |n     e     |i  seine   
+        |e   i       |s   nies    |eines  i    |n      n    |  seinen    |           
+        |            '
+  - language: pt
+    letters: ailrsa
+    wordsAmount: 5
+    words:
+    - lisa
+    - sala
+    - sair
+    - saia
+    - alisar
+    - sal
+    - laia
+    - ala
+    - asa
+    - sai
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: sai
+        wordNumber: 9
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: laia
+        wordNumber: 5
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lisa
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: asa
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: alisar
+        wordNumber: 7
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: saia
+        wordNumber: 6
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ala
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sal
+        wordNumber: 3
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sala
+        wordNumber: 8
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sair
+        wordNumber: 10
+        startPosition: {x: 9, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '      s   | s   sai  |laia  l  s| i lisa  a| asa a   i|   
+        alisar|          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 63f1377c90d84ec478676a869dc2a2c1, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

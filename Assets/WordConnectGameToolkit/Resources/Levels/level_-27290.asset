@@ -1,0 +1,298 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-27290
+  m_EditorClassIdentifier: 
+  number: 394
+  backgroundReference:
+    m_AssetGUID: 7a7bf2a2cb7c16245adc210172358c25
+    m_SubObjectName: Freedom_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0433\u043E\u0441\u0442\u044C\u044F"
+    wordsAmount: 5
+    words:
+    - "\u0433\u043E\u0441\u0442\u044C"
+    - "\u0433\u043E\u0441\u0442\u044C\u044F"
+    - "\u0441\u0442\u044F\u0433"
+    - "\u0441\u0442\u043E\u0433"
+    - "\u0441\u043E\u044F"
+    - "\u043E\u0441\u044C"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0433\u043E\u0441\u0442\u044C"
+        wordNumber: 3
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043E\u0441\u0442\u044C\u044F"
+        wordNumber: 1
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0442\u044F\u0433"
+        wordNumber: 6
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0442\u043E\u0433"
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043E\u044F"
+        wordNumber: 4
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043E\u0441\u044C"
+        wordNumber: 5
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          | \u0433\u043E\u0441\u0442\u044C    |   \u0442  
+        \u043E  |   \u043E   \u0441  |   \u0433\u043E\u0441\u0442\u044C\u044F |    
+        \u043E    |   \u0441\u0442\u044F\u0433   "
+  - language: es
+    letters: aejloe
+    wordsAmount: 5
+    words:
+    - leo
+    - oleaje
+    - ole
+    - ajo
+    - ele
+    - eje
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: ele
+        wordNumber: 5
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ole
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: oleaje
+        wordNumber: 3
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: leo
+        wordNumber: 4
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eje
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ajo
+        wordNumber: 6
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '   l      | ele      |   ole    |     j    |   oleaje |     
+        j   |      o   '
+  - language: de
+    letters: efimnp
+    wordsAmount: 5
+    words:
+    - mein
+    - pein
+    - mine
+    - nie
+    - pin
+    - impfen
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: mein
+        wordNumber: 4
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nie
+        wordNumber: 5
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: impfen
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pin
+        wordNumber: 6
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pein
+        wordNumber: 2
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mine
+        wordNumber: 3
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 7, y: 4}
+      serializedGrid: '      m   |  p mein  |nie   n   |  impfen  |pin       |         
+        |          '
+  - language: pt
+    letters: acenot
+    wordsAmount: 5
+    words:
+    - cone
+    - conta
+    - acento
+    - canto
+    - nota
+    - neto
+    - cento
+    - neta
+    - cano
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: nota
+        wordNumber: 9
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: conta
+        wordNumber: 6
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cento
+        wordNumber: 1
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: acento
+        wordNumber: 3
+        startPosition: {x: 4, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cone
+        wordNumber: 7
+        startPosition: {x: 6, y: 11}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cano
+        wordNumber: 8
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: neta
+        wordNumber: 2
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: canto
+        wordNumber: 4
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: neto
+        wordNumber: 5
+        startPosition: {x: 7, y: 8}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 11}
+      serializedGrid: '    c     | nota     |    n  c  |   conta  |       n  |   
+        n  t  |   cento  |    t     |    acento|       e  |       t  |      cone'
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251007101833
+  m_EditorClassIdentifier: 
+  groupName: "\u0413\u043E\u043B\u0443\u0431\u0430\u044F \u043C\u0435\u0447\u0435\u0442\u044C"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: ba792759cc99542499b7454bcc506f39, type: 2}
+  - {fileID: 11400000, guid: 58cf1230c530b214a9dc52ea780a90cb, type: 2}
+  - {fileID: 11400000, guid: d0532cb11268c7942ae726a576f860b3, type: 2}
+  - {fileID: 11400000, guid: b157947c09c3bbe4296c247d22e080ce, type: 2}
+  - {fileID: 11400000, guid: 80b16c4c5216bb54e9fef7c8b2bfa82c, type: 2}
+  - {fileID: 11400000, guid: 949123a05ff40d44bb43b83c1d90643b, type: 2}
+  - {fileID: 11400000, guid: 45eff97f0c67e4a4586a4f7798ddbec1, type: 2}
+  - {fileID: 11400000, guid: d2f710a30099faf438bcabef50a09081, type: 2}
+  - {fileID: 11400000, guid: 3eb2bfc4cc4e59e4eae8cafee9bce67c, type: 2}
+  - {fileID: 11400000, guid: aff6cd5bc65ef044793838499caf5b96, type: 2}
+  backgroundReference:
+    m_AssetGUID: 6cfad022af88cb64d80cf9debe67d112
+    m_SubObjectName: BlueMosque_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0413\u043E\u043B\u0443\u0431\u0430\u044F \u043C\u0435\u0447\u0435\u0442\u044C"
+    text: "\u0413\u043E\u043B\u0443\u0431\u0430\u044F \u043C\u0435\u0447\u0435\u0442\u044C
+      \u0432 \u0421\u0442\u0430\u043C\u0431\u0443\u043B\u0435, \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u0430\u044F
+      \u043F\u0440\u0438 \u0441\u0443\u043B\u0442\u0430\u043D\u0435 \u0410\u0445\u043C\u0435\u0434\u0435
+      I, \u0438\u043C\u0435\u0435\u0442 \u0448\u0435\u0441\u0442\u044C \u043C\u0438\u043D\u0430\u0440\u0435\u0442\u043E\u0432
+      \u0438 \u043E\u0431\u043B\u0438\u0446\u043E\u0432\u0430\u043D\u0430 \u0438\u0437\u043D\u0438\u043A\u0441\u043A\u0438\u043C\u0438
+      \u0438\u0437\u0440\u0430\u0437\u0446\u0430\u043C\u0438 \u0432\u043D\u0443\u0442\u0440\u0438."
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  targetExtraWords: 8

@@ -1,0 +1,383 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-124896
+  m_EditorClassIdentifier: 
+  number: 370
+  backgroundReference:
+    m_AssetGUID: 56ea35c3c9f82a54991adf8dd7cc274f
+    m_SubObjectName: Barcelona_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0438\u043A\u043C\u043E\u0441\u044D"
+    wordsAmount: 5
+    words:
+    - "\u043C\u0438\u0441\u043E"
+    - "\u043C\u0438\u043A\u0441"
+    - "\u044D\u0441\u043A\u0438\u043C\u043E"
+    - "\u043A\u043E\u043C"
+    - "\u0441\u043E\u043C"
+    - "\u0438\u0441\u043A"
+    - "\u0441\u043E\u043A"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043C\u0438\u0441\u043E"
+        wordNumber: 4
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0438\u043A\u0441"
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u044D\u0441\u043A\u0438\u043C\u043E"
+        wordNumber: 7
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043E\u043C"
+        wordNumber: 5
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043E\u043C"
+        wordNumber: 3
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0438\u0441\u043A"
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043E\u043A"
+        wordNumber: 6
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: "\u043A         |\u043E  \u0441 \u0438    |\u043C\u0438\u0441\u043E
+        \u0441    |   \u043C\u0438\u043A\u0441   |      \u043E   |    \u044D\u0441\u043A\u0438\u043C\u043E|          "
+  - language: es
+    letters: aegimn
+    wordsAmount: 5
+    words:
+    - minga
+    - miga
+    - gema
+    - meiga
+    - amen
+    - imagen
+    - mina
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: mina
+        wordNumber: 3
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: meiga
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gema
+        wordNumber: 6
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: imagen
+        wordNumber: 4
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: amen
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: minga
+        wordNumber: 5
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: miga
+        wordNumber: 7
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '       m  |i      i  |mina m g  |a  meiga  |g  e n    |e 
+        n gema |n    a    '
+  - language: de
+    letters: aegnrt
+    wordsAmount: 5
+    words:
+    - getan
+    - gern
+    - art
+    - gate
+    - tragen
+    - gar
+    - ragen
+    - tagen
+    - rang
+    - garen
+    - grat
+    - agent
+    - rat
+    - nager
+    - tag
+    - tage
+    - garten
+    - arten
+    crosswordData:
+      columns: 15
+      rows: 16
+      placements:
+      - word: agent
+        wordNumber: 16
+        startPosition: {x: 9, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gern
+        wordNumber: 18
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: getan
+        wordNumber: 11
+        startPosition: {x: 9, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gar
+        wordNumber: 10
+        startPosition: {x: 11, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rat
+        wordNumber: 12
+        startPosition: {x: 2, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: garen
+        wordNumber: 2
+        startPosition: {x: 7, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gate
+        wordNumber: 3
+        startPosition: {x: 4, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tage
+        wordNumber: 7
+        startPosition: {x: 2, y: 12}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ragen
+        wordNumber: 14
+        startPosition: {x: 0, y: 14}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: art
+        wordNumber: 13
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tagen
+        wordNumber: 8
+        startPosition: {x: 3, y: 11}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tag
+        wordNumber: 4
+        startPosition: {x: 4, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arten
+        wordNumber: 6
+        startPosition: {x: 5, y: 9}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nager
+        wordNumber: 1
+        startPosition: {x: 7, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rang
+        wordNumber: 15
+        startPosition: {x: 9, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: garten
+        wordNumber: 5
+        startPosition: {x: 9, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tragen
+        wordNumber: 9
+        startPosition: {x: 11, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: grat
+        wordNumber: 17
+        startPosition: {x: 13, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 13, y: 15}
+      serializedGrid: '         r     |         agent |      gern     |         getan
+        |           r   |           a g |  a    n g gar |  rat  a a e a |  t a  garen
+        t |    gate t     |     r r e     |   t t   n     |  tage         |   g n        
+        |ragen          |   n           '
+  - language: pt
+    letters: eglmue
+    wordsAmount: 5
+    words:
+    - lume
+    - ele
+    - legume
+    - meu
+    - mel
+    - gume
+    - leme
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: leme
+        wordNumber: 6
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: legume
+        wordNumber: 2
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gume
+        wordNumber: 3
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lume
+        wordNumber: 7
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mel
+        wordNumber: 5
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: meu
+        wordNumber: 4
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ele
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '  leme    |    e     |    legume|     l    |  gume    |   
+        e     |   lume   '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

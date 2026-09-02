@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17b3b4c9fbc8f467189759c0d3c7e6cb
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/VFX/WinFx.vfx
+  uploadId: 784234

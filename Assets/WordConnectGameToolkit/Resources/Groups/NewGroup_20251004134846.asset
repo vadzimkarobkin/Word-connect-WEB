@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251004134846
+  m_EditorClassIdentifier: 
+  groupName: "\u042D\u043C\u043F\u0430\u0439\u0440 \u0441\u0442\u044D\u0439\u0442"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 4450d08f1255bda4fa66078415f32f36, type: 2}
+  - {fileID: 11400000, guid: a196fd3032af7734db1f8d01a85e5a76, type: 2}
+  - {fileID: 11400000, guid: a4fd2b0839a89a44a96320180a484254, type: 2}
+  - {fileID: 11400000, guid: dcd1724403444584890acf25165dce84, type: 2}
+  - {fileID: 11400000, guid: 24c50671998f41b468e871a195b4b837, type: 2}
+  - {fileID: 11400000, guid: 73f54b89d3421ce4896f12673815f253, type: 2}
+  - {fileID: 11400000, guid: 66f2b8642cbb0b94992ef3b3a8fc6b44, type: 2}
+  - {fileID: 11400000, guid: 6f6869f905c23c24884b2de4441aa920, type: 2}
+  - {fileID: 11400000, guid: f67abd5f413b29043a68c4a6086931cf, type: 2}
+  - {fileID: 11400000, guid: 11cde918536a23544967ccd08e4f88bc, type: 2}
+  backgroundReference:
+    m_AssetGUID: b9dbe221b2ca34f4d832ab94ab49225f
+    m_SubObjectName: Empire State Building_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u042D\u043C\u043F\u0430\u0439\u0440 \u0441\u0442\u044D\u0439\u0442"
+    text: "\u042D\u043C\u043F\u0430\u0439\u0440 \u0441\u0442\u044D\u0439\u0442 \u0431\u0438\u043B\u0434\u0438\u043D\u0433
+      \u043E\u0442\u043A\u0440\u044B\u0442 \u0432 1931 \u0433\u043E\u0434\u0443,
+      102 \u044D\u0442\u0430\u0436\u0430, \u0434\u043E\u043B\u0433\u043E \u0431\u044B\u043B
+      \u0441\u0430\u043C\u044B\u043C \u0432\u044B\u0441\u043E\u043A\u0438\u043C \u0432
+      \u043C\u0438\u0440\u0435, \u043D\u0430 \u0448\u043F\u0438\u043B\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442
+      \u043C\u0430\u044F\u043A, \u0437\u0434\u0430\u043D\u0438\u0435 \u0447\u0430\u0441\u0442\u043E
+      \u043F\u043E\u0440\u0430\u0436\u0430\u044E\u0442 \u043C\u043E\u043B\u043D\u0438\u0438."
+  colorsTile: {fileID: 11400000, guid: 63f1377c90d84ec478676a869dc2a2c1, type: 2}
+  targetExtraWords: 8

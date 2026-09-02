@@ -1,0 +1,319 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-136086
+  m_EditorClassIdentifier: 
+  number: 325
+  backgroundReference:
+    m_AssetGUID: dc8819c3c2cddc3479dd75e345291abe
+    m_SubObjectName: EdinburgCastle_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u043D\u0440\u0442\u0443\u0445"
+    wordsAmount: 5
+    words:
+    - "\u0440\u0430\u0443\u0442"
+    - "\u0445\u043D\u0430"
+    - "\u0440\u0443\u043D\u0430"
+    - "\u0445\u0430\u043D"
+    - "\u0443\u0440\u0430\u043D"
+    - "\u0442\u0443\u0440"
+    - "\u0443\u0440\u043D\u0430"
+    - "\u0443\u0445\u0430"
+    - "\u0442\u0430\u0440\u0445\u0443\u043D"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0440\u0430\u0443\u0442"
+        wordNumber: 5
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0445\u043D\u0430"
+        wordNumber: 7
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0443\u043D\u0430"
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0445\u0430\u043D"
+        wordNumber: 4
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0443\u0440\u0430\u043D"
+        wordNumber: 8
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0443\u0440"
+        wordNumber: 2
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0443\u0440\u043D\u0430"
+        wordNumber: 3
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0443\u0445\u0430"
+        wordNumber: 6
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0430\u0440\u0445\u0443\u043D"
+        wordNumber: 9
+        startPosition: {x: 9, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: " \u0443        | \u0440\u0430\u0443\u0442  \u0443 \u0442|
+        \u0430  \u0443  \u0445\u043D\u0430| \u043D  \u0440\u0443\u043D\u0430 \u0440|    
+        \u0440   \u0445|     \u043D   \u0443|    \u0445\u0430\u043D  \u043D"
+  - language: es
+    letters: dinoso
+    wordsAmount: 5
+    words:
+    - dios
+    - nido
+    - sodio
+    - sino
+    - sonido
+    - sido
+    - odio
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: sino
+        wordNumber: 7
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: odio
+        wordNumber: 3
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sonido
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sodio
+        wordNumber: 5
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dios
+        wordNumber: 2
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sido
+        wordNumber: 4
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nido
+        wordNumber: 6
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '  d  sino |odio   i  |  o  s d  |  sonido  |     d    |   
+        sodio |          '
+  - language: de
+    letters: einten
+    wordsAmount: 5
+    words:
+    - ente
+    - nein
+    - nie
+    - einen
+    - nieten
+    - tee
+    - ein
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: nein
+        wordNumber: 2
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ente
+        wordNumber: 4
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tee
+        wordNumber: 7
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ein
+        wordNumber: 3
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nie
+        wordNumber: 5
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nieten
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: einen
+        wordNumber: 6
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 7, y: 5}
+      serializedGrid: '  nein e  |     i i  |  ente n  |   i t e  | tee ein  |    
+        n    |          '
+  - language: pt
+    letters: "amnos\xE3"
+    wordsAmount: 5
+    words:
+    - mano
+    - som
+    - "n\xE3o"
+    - "mans\xE3o"
+    - nos
+    - anos
+    - "s\xE3o"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "mans\xE3o"
+        wordNumber: 2
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: som
+        wordNumber: 7
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nos
+        wordNumber: 3
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "s\xE3o"
+        wordNumber: 5
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mano
+        wordNumber: 4
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: anos
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "n\xE3o"
+        wordNumber: 6
+        startPosition: {x: 8, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: "        n |    mans\xE3o| som n  o |   a o    |   nos    |
+        s\xE3o      |          "
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: e8a60425bb67f42618a943883b553d29, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

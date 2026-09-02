@@ -1,0 +1,342 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-51394
+  m_EditorClassIdentifier: 
+  number: 81
+  backgroundReference:
+    m_AssetGUID: a6afe8b448a6f164f9e02dbf227ef72a
+    m_SubObjectName: Louvre_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0433\u043B\u043D\u043E\u0441"
+    wordsAmount: 5
+    words:
+    - "\u043D\u043E\u0433\u0430"
+    - "\u0441\u043B\u043E\u0433\u0430\u043D"
+    - "\u043D\u0430\u043B\u043E\u0433"
+    - "\u0441\u043E\u043D"
+    - "\u0441\u0433\u043E\u043D"
+    - "\u0441\u0430\u043B\u043E"
+    - "\u0441\u043B\u043E\u0433"
+    - "\u0433\u043B\u0430\u0441"
+    - "\u0441\u0430\u043B\u043E\u043D"
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: "\u043D\u043E\u0433\u0430"
+        wordNumber: 9
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043B\u043E\u0433\u0430\u043D"
+        wordNumber: 2
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043D\u0430\u043B\u043E\u0433"
+        wordNumber: 3
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043E\u043D"
+        wordNumber: 8
+        startPosition: {x: 7, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0433\u043E\u043D"
+        wordNumber: 6
+        startPosition: {x: 0, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0430\u043B\u043E"
+        wordNumber: 4
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043B\u043E\u0433"
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043B\u0430\u0441"
+        wordNumber: 5
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0430\u043B\u043E\u043D"
+        wordNumber: 7
+        startPosition: {x: 9, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 8}
+      serializedGrid: "         \u0441|      \u043D\u043E\u0433\u0430|         \u043B|    
+        \u0441   \u043E|    \u0441\u043B\u043E\u0433\u0430\u043D|  \u0441  \u043E
+        \u043B  | \u043D\u0430\u043B\u043E\u0433 \u0430  |  \u043B    \u0441\u043E\u043D|\u0441\u0433\u043E\u043D     
+        |          "
+  - language: es
+    letters: acdeor
+    wordsAmount: 5
+    words:
+    - roca
+    - doce
+    - cerdo
+    - credo
+    - caro
+    - arco
+    - creo
+    - cero
+    - orca
+    - ceda
+    - acero
+    - recado
+    crosswordData:
+      columns: 12
+      rows: 15
+      placements:
+      - word: cerdo
+        wordNumber: 2
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cero
+        wordNumber: 4
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arco
+        wordNumber: 6
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: caro
+        wordNumber: 11
+        startPosition: {x: 7, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ceda
+        wordNumber: 8
+        startPosition: {x: 2, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: roca
+        wordNumber: 10
+        startPosition: {x: 7, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: orca
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: creo
+        wordNumber: 7
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: credo
+        wordNumber: 5
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: doce
+        wordNumber: 1
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: recado
+        wordNumber: 9
+        startPosition: {x: 8, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: acero
+        wordNumber: 12
+        startPosition: {x: 9, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 10, y: 9}
+      serializedGrid: '         a  |  o      c  |  r c d  e  |  cerdo  r  |  a e
+        cero  |    d e e   | arco   c   |   r   caro |  ceda  d   |   o   roca |           
+        |            |            |            |            '
+  - language: de
+    letters: eginen
+    wordsAmount: 5
+    words:
+    - einen
+    - genie
+    - gin
+    - eine
+    - nein
+    - eigen
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: einen
+        wordNumber: 4
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gin
+        wordNumber: 3
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eigen
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: genie
+        wordNumber: 6
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eine
+        wordNumber: 2
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nein
+        wordNumber: 5
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: 'einen     |   i      | gin  n   |   eigen  |      i   |   
+        genie |          '
+  - language: pt
+    letters: acnora
+    wordsAmount: 5
+    words:
+    - cano
+    - oca
+    - canoa
+    - cana
+    - anca
+    - carona
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: cano
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cana
+        wordNumber: 6
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: anca
+        wordNumber: 4
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: oca
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: canoa
+        wordNumber: 3
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: carona
+        wordNumber: 5
+        startPosition: {x: 8, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '        c |     c  a |   o a  r |   cano o |cana o  n |    
+        anca |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

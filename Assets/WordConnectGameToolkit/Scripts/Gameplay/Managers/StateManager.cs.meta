@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 630490a36ddd4c0581994f1efaf73255
+timeCreated: 1731134799
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/Gameplay/Managers/StateManager.cs
+  uploadId: 784234

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb1c361dddaeb4f88aca31c9aa9b99ba
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Resources/Popups/TutorialShuffle.prefab
+  uploadId: 784234

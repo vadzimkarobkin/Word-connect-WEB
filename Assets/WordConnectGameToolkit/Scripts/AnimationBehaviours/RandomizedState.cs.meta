@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 92be39a43ff94817ad00fc3b7349e4a8
+timeCreated: 1692957436
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/AnimationBehaviours/RandomizedState.cs
+  uploadId: 784234

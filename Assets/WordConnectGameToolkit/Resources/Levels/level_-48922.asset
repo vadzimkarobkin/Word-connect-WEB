@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-48922
+  m_EditorClassIdentifier: 
+  number: 497
+  backgroundReference:
+    m_AssetGUID: 6cfad022af88cb64d80cf9debe67d112
+    m_SubObjectName: BlueMosque_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0438\u043A\u043A\u043D\u043E"
+    wordsAmount: 5
+    words:
+    - "\u043A\u0438\u043D\u043E\u0430"
+    - "\u043A\u0438\u043D\u043E"
+    - "\u043A\u043E\u043A"
+    - "\u0438\u043E\u043D"
+    - "\u0438\u043A\u043E\u043D\u0430"
+    - "\u043A\u043E\u043A\u0430\u0438\u043D"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043A\u0438\u043D\u043E\u0430"
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0438\u043D\u043E"
+        wordNumber: 3
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043E\u043A"
+        wordNumber: 4
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0438\u043E\u043D"
+        wordNumber: 5
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0438\u043A\u043E\u043D\u0430"
+        wordNumber: 2
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043E\u043A\u0430\u0438\u043D"
+        wordNumber: 6
+        startPosition: {x: 8, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "        \u043A |        \u043E | \u043A  \u0438   \u043A |
+        \u043E  \u043A\u0438\u043D\u043E\u0430 | \u043A\u0438\u043D\u043E   \u0438
+        |  \u043E \u043D   \u043D |  \u043D \u0430     "
+  - language: es
+    letters: adehir
+    wordsAmount: 5
+    words:
+    - red
+    - herida
+    - idear
+    - idea
+    - hiedra
+    - ida
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: idea
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: herida
+        wordNumber: 2
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: idear
+        wordNumber: 3
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: hiedra
+        wordNumber: 4
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: red
+        wordNumber: 5
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '     h r  |     idea |     e d  | herida   |     r    |  idear  
+        |          '
+  - language: de
+    letters: efgine
+    wordsAmount: 5
+    words:
+    - genie
+    - feige
+    - fegen
+    - eine
+    - feigen
+    - fing
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: fing
+        wordNumber: 6
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eine
+        wordNumber: 2
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: feigen
+        wordNumber: 4
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: feige
+        wordNumber: 3
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: genie
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fegen
+        wordNumber: 5
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '          |  fing  f |     eine |feigen  g |     i  e | feige 
+        n |          '
+  - language: pt
+    letters: acdeop
+    wordsAmount: 5
+    words:
+    - cedo
+    - pecado
+    - poda
+    - copa
+    - doca
+    - doce
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: copa
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pecado
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cedo
+        wordNumber: 6
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: poda
+        wordNumber: 5
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: doce
+        wordNumber: 2
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: doca
+        wordNumber: 4
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '   d      |  copa    |   c      |  pecado  |      o   |     
+        cedo|   poda   '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

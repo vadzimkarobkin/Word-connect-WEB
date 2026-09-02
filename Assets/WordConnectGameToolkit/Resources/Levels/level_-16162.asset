@@ -1,0 +1,362 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-16162
+  m_EditorClassIdentifier: 
+  number: 50
+  backgroundReference:
+    m_AssetGUID: f18553174d722944883f0d96ef1b43b5
+    m_SubObjectName: Colloseum_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: aestt
+    wordsAmount: 5
+    words:
+    - east
+    - taste
+    - state
+    - test
+    - stat
+    - seat
+    - eat
+    - tea
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: eat
+        wordNumber: 3
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: east
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: state
+        wordNumber: 6
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: test
+        wordNumber: 4
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tea
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: stat
+        wordNumber: 5
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: seat
+        wordNumber: 8
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: taste
+        wordNumber: 7
+        startPosition: {x: 8, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '      s   | t    e   | eat  a t | s east a | t a t  s |    
+        a  t |    state '
+  - language: ru
+    letters: "\u0438\u043A\u043B\u0443\u0447"
+    wordsAmount: 5
+    words:
+    - "\u043B\u0438\u043A"
+    - "\u043B\u0443\u0447"
+    - "\u043B\u0443\u043A"
+    - "\u043A\u0438\u0447"
+    - "\u043A\u043B\u0438\u0447"
+    - "\u043A\u0443\u043B\u0438\u0447"
+    - "\u0447\u0443\u043B\u043A\u0438"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043B\u0438\u043A"
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0443\u0447"
+        wordNumber: 7
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0443\u043A"
+        wordNumber: 3
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0438\u0447"
+        wordNumber: 4
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043B\u0438\u0447"
+        wordNumber: 5
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0443\u043B\u0438\u0447"
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0447\u0443\u043B\u043A\u0438"
+        wordNumber: 6
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: "          |   \u043A   \u0447  |   \u043B\u0438\u043A \u0443 
+        |   \u0438 \u0443 \u043B  | \u043B\u0443\u0447 \u043B\u0443\u043A  |    
+        \u0438 \u0438  |   \u043A\u0438\u0447    "
+  - language: es
+    letters: alnsu
+    wordsAmount: 5
+    words:
+    - san
+    - lunas
+    - aun
+    - luna
+    - una
+    - unas
+    - usa
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: luna
+        wordNumber: 6
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lunas
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aun
+        wordNumber: 7
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: usa
+        wordNumber: 3
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: unas
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: una
+        wordNumber: 4
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: san
+        wordNumber: 5
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '          |    luna  |     n    |  lunas   |   n  aun |  
+        a  n   |  usa     '
+  - language: de
+    letters: ademn
+    wordsAmount: 5
+    words:
+    - amen
+    - damen
+    - dame
+    - man
+    - name
+    - maden
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: dame
+        wordNumber: 3
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: man
+        wordNumber: 6
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: name
+        wordNumber: 2
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: maden
+        wordNumber: 4
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: amen
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: damen
+        wordNumber: 5
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '   m      |   a a  d |   dame a |   e e  m | man name |       
+        n |          '
+  - language: pt
+    letters: aemra
+    wordsAmount: 5
+    words:
+    - ema
+    - amar
+    - era
+    - arame
+    - mar
+    - eram
+    - arma
+    - mera
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: era
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arame
+        wordNumber: 3
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mar
+        wordNumber: 4
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mera
+        wordNumber: 7
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eram
+        wordNumber: 8
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ema
+        wordNumber: 6
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: amar
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arma
+        wordNumber: 5
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '       a  |   era r  |e    m m  |r  e arame|a  mar    |mera     
+        |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 5dd1908714545074cbcb807640dd50b4, type: 2}
+  words: 5
+  letters: 5
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

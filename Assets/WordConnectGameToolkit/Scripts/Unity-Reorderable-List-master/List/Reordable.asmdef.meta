@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75bdbcf23199f4cfb86c610d1d946666
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/Unity-Reorderable-List-master/List/Reordable.asmdef
+  uploadId: 784234

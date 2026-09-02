@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-14202
+  m_EditorClassIdentifier: 
+  number: 10
+  backgroundReference:
+    m_AssetGUID: 027a8029916bfe9489e40c1d58964f15
+    m_SubObjectName: GreatWallnew_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 5, y: 3}
+      maxBounds: {x: 5, y: 3}
+      serializedGrid: '          |          |          |          |          |         
+        |          '
+  - language: ru
+    letters: "\u043C\u043E\u0441\u0442"
+    wordsAmount: 5
+    words:
+    - "\u043C\u043E\u0441\u0442"
+    - "\u0442\u043E\u043C"
+    - "\u0441\u043E\u043C"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0442\u043E\u043C"
+        wordNumber: 3
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043E\u043C"
+        wordNumber: 1
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u043E\u0441\u0442"
+        wordNumber: 2
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 3, y: 2}
+      maxBounds: {x: 7, y: 5}
+      serializedGrid: "          |          |   \u0442\u043E\u043C    |     \u043E   
+        |     \u0441\u043E\u043C  |     \u0442    |          "
+  - language: es
+    letters: orto
+    wordsAmount: 5
+    words:
+    - roto
+    - toro
+    - otro
+    - oro
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: oro
+        wordNumber: 3
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: toro
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: otro
+        wordNumber: 4
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: roto
+        wordNumber: 2
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 1}
+      maxBounds: {x: 8, y: 4}
+      serializedGrid: '          |     r    |   oro    |     toro |  otro    |         
+        |          '
+  - language: de
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  - language: pt
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 4
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

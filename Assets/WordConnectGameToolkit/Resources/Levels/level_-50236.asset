@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-50236
+  m_EditorClassIdentifier: 
+  number: 448
+  backgroundReference:
+    m_AssetGUID: a3fd66d0e6ad8904699a33f343764290
+    m_SubObjectName: SkyBridge_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0438\u043A\u043C\u043E\u0441\u0442"
+    wordsAmount: 5
+    words:
+    - "\u043C\u0438\u0441\u043E"
+    - "\u043C\u043E\u0441\u0442"
+    - "\u043C\u0438\u043A\u0441"
+    - "\u043C\u043E\u0441\u043A\u0438\u0442"
+    - "\u043C\u043E\u0441\u0442\u0438\u043A"
+    - "\u0441\u0438\u0442\u043E"
+    - "\u0441\u043A\u043E\u0442"
+    - "\u0438\u0441\u0442\u043E\u043A"
+    - "\u0441\u0442\u043E\u043A"
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: "\u043C\u0438\u0441\u043E"
+        wordNumber: 9
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u043E\u0441\u0442"
+        wordNumber: 3
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0438\u043A\u0441"
+        wordNumber: 7
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u043E\u0441\u043A\u0438\u0442"
+        wordNumber: 1
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u043E\u0441\u0442\u0438\u043A"
+        wordNumber: 5
+        startPosition: {x: 0, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0438\u0442\u043E"
+        wordNumber: 2
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043A\u043E\u0442"
+        wordNumber: 4
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0438\u0441\u0442\u043E\u043A"
+        wordNumber: 6
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0442\u043E\u043A"
+        wordNumber: 8
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 9}
+      serializedGrid: "          |     \u043C\u0438\u0441\u043E |       \u0442  |\u043C\u043E\u0441\u0442  
+        \u043E  |  \u0438  \u043C\u0438\u043A\u0441 |  \u0442   \u0441   | \u043C\u043E\u0441\u043A\u0438\u0442  
+        |   \u043A  \u043E   |   \u043E  \u043A   |\u043C\u043E\u0441\u0442\u0438\u043A    "
+  - language: es
+    letters: agirta
+    wordsAmount: 5
+    words:
+    - gira
+    - garita
+    - atar
+    - tiara
+    - rata
+    - tira
+    - gata
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: tira
+        wordNumber: 3
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gira
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rata
+        wordNumber: 7
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gata
+        wordNumber: 4
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: atar
+        wordNumber: 5
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: garita
+        wordNumber: 2
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tiara
+        wordNumber: 6
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: ' a  g     | tira t   | a  r i   | r gira   |    t rata| gata
+        a   |          '
+  - language: de
+    letters: abltua
+    wordsAmount: 5
+    words:
+    - altbau
+    - blut
+    - laut
+    - taub
+    - blau
+    - laub
+    - tuba
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: laut
+        wordNumber: 3
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: taub
+        wordNumber: 2
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tuba
+        wordNumber: 5
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: blut
+        wordNumber: 7
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: laub
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: altbau
+        wordNumber: 4
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: blau
+        wordNumber: 6
+        startPosition: {x: 9, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '       a  |  b  l l  |  l laut  |  u  u b b|  taub a l|     
+        tuba|         u'
+  - language: pt
+    letters: acerca
+    wordsAmount: 5
+    words:
+    - cera
+    - era
+    - cerca
+    - careca
+    - cara
+    - arca
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: cerca
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arca
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: careca
+        wordNumber: 5
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cara
+        wordNumber: 6
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: era
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cera
+        wordNumber: 4
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 6, y: 6}
+      serializedGrid: '          |  cerca   |   r      | c arca   | a   e    | r  
+        r    |careca    '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 63f1377c90d84ec478676a869dc2a2c1, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

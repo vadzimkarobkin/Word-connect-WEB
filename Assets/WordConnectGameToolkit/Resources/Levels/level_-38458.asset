@@ -1,0 +1,327 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-38458
+  m_EditorClassIdentifier: 
+  number: 158
+  backgroundReference:
+    m_AssetGUID: 462218448ccdb6444a4b91304b8272e9
+    m_SubObjectName: BigBen_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u043E\u043A\u043F\u0440\u0442"
+    wordsAmount: 5
+    words:
+    - "\u0442\u043E\u043F\u043A\u0430"
+    - "\u043F\u043E\u0440\u043A\u0430"
+    - "\u0442\u0430\u043F\u043E\u043A"
+    - "\u043F\u0440\u043E\u043A\u0430\u0442"
+    - "\u043A\u0430\u043F\u043E\u0442"
+    - "\u0442\u0440\u043E\u043F\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0442\u043E\u043F\u043A\u0430"
+        wordNumber: 4
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u043E\u0440\u043A\u0430"
+        wordNumber: 2
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0430\u043F\u043E\u043A"
+        wordNumber: 3
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0440\u043E\u043A\u0430\u0442"
+        wordNumber: 5
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0430\u043F\u043E\u0442"
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0440\u043E\u043F\u0430"
+        wordNumber: 6
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "  \u043F       |  \u0440  \u043A    | \u0442\u043E\u043F\u043A\u0430
+        \u0442  |  \u043A  \u043F\u043E\u0440\u043A\u0430|  \u0430  \u043E \u043E 
+        |  \u0442  \u0442\u0430\u043F\u043E\u043A|       \u0430  "
+  - language: es
+    letters: aemnrt
+    wordsAmount: 5
+    words:
+    - mentar
+    - meta
+    - amen
+    - marte
+    - mate
+    - tema
+    - eran
+    - tren
+    - entra
+    - menta
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: marte
+        wordNumber: 8
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: menta
+        wordNumber: 3
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mate
+        wordNumber: 2
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mentar
+        wordNumber: 4
+        startPosition: {x: 2, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: meta
+        wordNumber: 6
+        startPosition: {x: 4, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: amen
+        wordNumber: 9
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tren
+        wordNumber: 5
+        startPosition: {x: 5, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: entra
+        wordNumber: 1
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eran
+        wordNumber: 7
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tema
+        wordNumber: 10
+        startPosition: {x: 9, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 9, y: 10}
+      serializedGrid: '   marte t  |       r e  |       a m  |     menta  |     
+        n     |    mate    |  a   r     |  mentar    |  e  r      |  n meta    |    
+        n      |            '
+  - language: de
+    letters: begiln
+    wordsAmount: 5
+    words:
+    - ein
+    - bin
+    - nie
+    - bei
+    - neblig
+    - leb
+    - bein
+    - gen
+    - gelb
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: gelb
+        wordNumber: 3
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: neblig
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ein
+        wordNumber: 8
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nie
+        wordNumber: 5
+        startPosition: {x: 7, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bein
+        wordNumber: 2
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bin
+        wordNumber: 6
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bei
+        wordNumber: 9
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gen
+        wordNumber: 4
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: leb
+        wordNumber: 7
+        startPosition: {x: 9, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '  b       | gelb b   |  i   e   |  neblig  |    i  e l|  ein 
+        nie|         b'
+  - language: pt
+    letters: "amrt\xE2a"
+    wordsAmount: 5
+    words:
+    - trama
+    - amar
+    - "t\xE2mara"
+    - arma
+    - mata
+    - ama
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: arma
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: trama
+        wordNumber: 4
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "t\xE2mara"
+        wordNumber: 3
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ama
+        wordNumber: 5
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mata
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: amar
+        wordNumber: 6
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "          |   arma   |     a    |  a  trama|t\xE2mara m  | 
+        a    a  |       r  "
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

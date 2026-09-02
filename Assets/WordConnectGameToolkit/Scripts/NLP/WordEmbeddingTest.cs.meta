@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9829e5579abc44518f6366a6f98da5b4
+timeCreated: 1740290814
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/NLP/WordEmbeddingTest.cs
+  uploadId: 784234

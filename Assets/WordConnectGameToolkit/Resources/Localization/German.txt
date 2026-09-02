@@ -1,0 +1,88 @@
+COINSSHOP : Münzshop
+FREE : KOSTENLOS
+BUYTIPS : Hinweise kaufen
+GETFREE : Gratis erhalten
+DAILYREWARD : Tägliche Belohnung
+DAY : Tag
+THANKS : Danke!
+LOADING : Wird geladen...
+LUCKYSPIN : Glücksrad
+NOADSLABEL1 : Tätige diesen Kauf, um die Werbung dauerhaft zu entfernen
+NOADSLABEL2 : Werbevideos bleiben nach dem Kauf auf Wunsch verfügbar
+BUY : KAUFEN
+OUTOFLIVES : KEINE LEBEN MEHR
+REFILLTHELIVES : Leben auffüllen?
+OUTOFTIME : ZEIT ABGELAUFEN
+REFILLTHETIME : Zeit auffüllen?
+GIFT : Geschenk
+LEVELCLEARED : LEVEL GESCHAFFT!
+SETTINGS : Einstellungen
+SHOP : Shop
+PRIVACY : DATENSCHUTZ
+QUITTHEGAME : Spiel beenden
+DOYOUWANTTOQUIT : Möchtest du wirklich beenden?
+YES : Ja
+NO : NEIN
+COMINGSOON : Starte das Spiel neu, um erneut zu spielen, oder warte auf das nächste Update
+WIN : SIEG
+NEXTLEVEL : Nächstes Level
+SCORE : Punktzahl
+POINTS : Punkte
+REVIVEWITHNEWSHAPES : Mit neuen Formen wiederbeleben?
+WHATCHADS : Ansehen
+CONTINUE : Fortsetzen
+YOULOSE : Du hast verloren...
+RETRY : Erneut versuchen
+ALMOST : Fast fertig...
+ARCADEMODE : ARCADE-MODUS
+STAGE : STUFE {stage}
+LEVEL : Level {level}
+MOSTPOPULAR : Am beliebtesten
+BESTOFFER : BESTES ANGEBOT
+NOADS : WERBUNG ENTFERNEN
+FREESPIN : Drehen
+SOUNDS : Sounds
+MUSIC : Musik
+VIBRATION : Vibration
+GAMEOVER : Game Over
+YOURSCORE : Deine Punktzahl
+BESTSCORE : Beste Punktzahl
+NEWRECORD : Neuer Rekord!
+EXITGAME : Spiel beenden
+ADVENTURE : ABENTEUER
+CLASSIC : KLASSISCH
+TUTORIAL : Tutorial
+RESTORE_PURCHASES : Käufe wiederherstellen
+EXTRAWORDS : Bonuswörter
+WORDSNOTINTCLUDEDINTHISLEVEL : Wörter, die in diesem Level nicht enthalten sind
+CLAIM : Einsammeln
+COINS : MÜNZEN
+GEMS : KRISTALLE
+TAPTOCOLLECT : TIPPE ZUM EINSAMMELN
+DAILYREWARDS : TÄGLICHE BELOHNUNGEN
+SPIN : Drehen
+SELECTLANGUAGE : SPRACHE AUSWÄHLEN
+AGAIN : NOCH EINMAL
+UNLOCK : Schließe Level ab, um eine interessante Tatsache freizuschalten
+TipBoosterButton : Wenn du feststeckst, benutze einen HINWEIS
+HammerBoosterButton : Der HAMMER deckt jeden gewählten Buchstaben auf
+ExtraWordsButton : Du hast ein ZUSÄTZLICHES WORT gefunden! Zusätzliche Wörter werden hier angezeigt
+GiftButton : Du hast ein GESCHENK freigeschaltet!<br><br> Gib KRISTALLE aus, um eine wertvolle BELOHNUNG zu erhalten
+ShuffleButton : Die MISCHEN-Taste hilft dir, Wörter schneller zu finden
+RedGem : Verbinde das Wort {word}, um einen ROTEN KRISTALL zu erhalten
+GameTutorial : Wische, um das Wort {word} in einer Bewegung zu verbinden
+Home : Startseite
+HARD: SCHWER
+TIMETUT : Löse alle Wörter rechtzeitig, um zu GEWINNEN
+previousLevel : Level {previousLevel} abgeschlossen!
+Wonderfull : Unglaublich!
+Close : Schließen
+CalimX2 : Verdoppeln
+Left : Verbleibend:
+NextFree : Kostenlos in:
+NoMoney : Keine Münzen?
+NoMoneyText : Erhalte einen kostenlosen Hinweis, indem du einen kurzen Werbespot ansiehst!
+Words : Wörter
+HINTSpin : Drehe das Glücksrad, um wertvolle Preise zu erhalten
+HINTExtra : Du hast ein ZUSÄTZLICHES WORT gefunden! Für jedes Wort erhältst du 1 Münze.
+HINT1 : Du hast ein ZUSÄTZLICHES WORT gefunden! Für jedes Wort erhältst du 1 Münze.

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251013190100
+  m_EditorClassIdentifier: 
+  groupName: "\u0422\u0440\u0438\u043D\u0438\u0442\u0430-\u0434\u0435\u0438-\u041C\u043E\u043D\u0442\u0438"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 11284e9c3c2160648bef2ed390813391, type: 2}
+  - {fileID: 11400000, guid: fa2b7db733037a64e81e45e79f8e2f99, type: 2}
+  - {fileID: 11400000, guid: 8d3de589778eb8c46b86d0f1294d7c84, type: 2}
+  - {fileID: 11400000, guid: e19854f9485497148a9dfeb79d79cf9f, type: 2}
+  - {fileID: 11400000, guid: b41ca102b7eb14246bda7f4925bbef49, type: 2}
+  - {fileID: 11400000, guid: e0a5dd8d9f0fed34bae4cdce2152dafb, type: 2}
+  - {fileID: 11400000, guid: 9239744dd500865499c823eeabc3ad74, type: 2}
+  - {fileID: 11400000, guid: 44ec3923f0f7ad648ab7c187fd1b2722, type: 2}
+  - {fileID: 11400000, guid: 52009a4404c1f2148b2d51d09f2fbe00, type: 2}
+  - {fileID: 11400000, guid: 0f9a904dee5a33846a1c3f8f8d16a729, type: 2}
+  - {fileID: 11400000, guid: 793259189ee44f342a6083353740cf45, type: 2}
+  - {fileID: 11400000, guid: 69db2e014f867564aa68967fd0d06cf6, type: 2}
+  - {fileID: 11400000, guid: 596380809250575489f059d70f587f38, type: 2}
+  - {fileID: 11400000, guid: 4a342b1381bf3bb4fabf944f07c1ecf4, type: 2}
+  - {fileID: 11400000, guid: 8479a5d111e57364eab40f82c150255c, type: 2}
+  - {fileID: 11400000, guid: 934629f5686f6f04a87559832ff1dea5, type: 2}
+  - {fileID: 11400000, guid: 9c6d179fd981fc945bceb0b7d7a8e726, type: 2}
+  - {fileID: 11400000, guid: f2ce7525447d8444f9e4bbb5ee54c7e2, type: 2}
+  - {fileID: 11400000, guid: 2bb8e26d9047d1a4f91669ce45c3be22, type: 2}
+  - {fileID: 11400000, guid: a80c1be1f5091a241a4be1755fa88647, type: 2}
+  backgroundReference:
+    m_AssetGUID: 4e76c266721241a41a4245a0fd0d816e
+    m_SubObjectName: Trinita_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0422\u0440\u0438\u043D\u0438\u0442\u0430-\u0434\u0435\u0438-\u041C\u043E\u043D\u0442\u0438"
+    text: "\u0422\u0440\u0438\u043D\u0438\u0442\u0430 \u0434\u0435\u0438 \u041C\u043E\u043D\u0442\u0438
+      \u0432\u0435\u043D\u0447\u0430\u0435\u0442 \u0418\u0441\u043F\u0430\u043D\u0441\u043A\u0443\u044E
+      \u043B\u0435\u0441\u0442\u043D\u0438\u0446\u0443, \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441
+      \u043F\u0440\u0438\u043D\u0430\u0434\u043B\u0435\u0436\u0438\u0442 \u0424\u0440\u0430\u043D\u0446\u0438\u0438
+      \u0438 \u0445\u0440\u0430\u043D\u0438\u0442 \u0444\u0440\u0435\u0441\u043A\u0438
+      \u0414\u0430\u043D\u043D\u0438\u0435\u043B\u0435 \u0434\u0430 \u0412\u043E\u043B\u044C\u0442\u0435\u0440\u0440\u044B
+      \u0438 \u043F\u043E\u0437\u0434\u043D\u0438\u0435 \u0434\u043E\u0431\u0430\u0432\u043B\u0435\u043D\u0438\u044F"
+  colorsTile: {fileID: 11400000, guid: 63f1377c90d84ec478676a869dc2a2c1, type: 2}
+  targetExtraWords: 8

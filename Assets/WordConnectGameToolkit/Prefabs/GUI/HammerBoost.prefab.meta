@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa39764aed4f0411ca962a2cc34e90a3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Prefabs/GUI/HammerBoost.prefab
+  uploadId: 784234

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be2ab2563b766494793b64a93af3090a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Resources/ColorsTile/Bordo-tile.asset
+  uploadId: 784234

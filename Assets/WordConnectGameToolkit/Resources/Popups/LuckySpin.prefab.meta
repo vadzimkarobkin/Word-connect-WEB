@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d4b960d112c64d629b9ac5b6c0fe96c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Resources/Popups/LuckySpin.prefab
+  uploadId: 784234

@@ -1,0 +1,298 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-86068
+  m_EditorClassIdentifier: 
+  number: 265
+  backgroundReference:
+    m_AssetGUID: a9f27e5f37e8b714983d774f7aa38001
+    m_SubObjectName: Sydney_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0433\u0434\u0435\u0437\u043D\u043E"
+    wordsAmount: 5
+    words:
+    - "\u0437\u043E\u043D\u0434"
+    - "\u0434\u043D\u043E"
+    - "\u0433\u043E\u0434"
+    - "\u0434\u0437\u0435\u043D"
+    - "\u0433\u0435\u043D"
+    - "\u0434\u043E\u0433"
+    - "\u0433\u043D\u0435\u0437\u0434\u043E"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0437\u043E\u043D\u0434"
+        wordNumber: 1
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0434\u043D\u043E"
+        wordNumber: 3
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043E\u0434"
+        wordNumber: 5
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0434\u0437\u0435\u043D"
+        wordNumber: 2
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u0435\u043D"
+        wordNumber: 6
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0434\u043E\u0433"
+        wordNumber: 4
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043D\u0435\u0437\u0434\u043E"
+        wordNumber: 7
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 7, y: 5}
+      serializedGrid: "    \u0433  \u0433  |  \u0434 \u0435  \u043D  |  \u0437\u043E\u043D\u0434
+        \u0435  |  \u0435  \u043E \u0437  | \u0434\u043D\u043E \u0433\u043E\u0434 
+        |       \u043E  |          "
+  - language: es
+    letters: ceosus
+    wordsAmount: 5
+    words:
+    - sus
+    - esos
+    - sueco
+    - uso
+    - suceso
+    - usos
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: sus
+        wordNumber: 3
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: uso
+        wordNumber: 4
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sueco
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: usos
+        wordNumber: 6
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: suceso
+        wordNumber: 5
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: esos
+        wordNumber: 2
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '    e     |  s sus   |  uso     |  c sueco |  e       | usos    
+        |  o       '
+  - language: de
+    letters: efhlre
+    wordsAmount: 5
+    words:
+    - her
+    - elf
+    - fehler
+    - reh
+    - helfe
+    - hefe
+    - elfe
+    - fehl
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: reh
+        wordNumber: 4
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: elf
+        wordNumber: 2
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fehler
+        wordNumber: 3
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: helfe
+        wordNumber: 7
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: hefe
+        wordNumber: 5
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: her
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fehl
+        wordNumber: 6
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: elfe
+        wordNumber: 8
+        startPosition: {x: 9, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 2}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '          |          |h  reh    |e    elf e|fehler e l|e     
+        h f|     helfe'
+  - language: pt
+    letters: achorc
+    wordsAmount: 5
+    words:
+    - hora
+    - charco
+    - rocha
+    - cor
+    - caco
+    - oca
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: caco
+        wordNumber: 2
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rocha
+        wordNumber: 3
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: charco
+        wordNumber: 6
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: hora
+        wordNumber: 4
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cor
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: oca
+        wordNumber: 5
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '   h      |   o      |   r c    |  caco    |     rocha|     
+        c   |    charco'
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: e8a60425bb67f42618a943883b553d29, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

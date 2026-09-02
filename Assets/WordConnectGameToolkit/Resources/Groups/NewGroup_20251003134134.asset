@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251003134134
+  m_EditorClassIdentifier: 
+  groupName: "\u0421\u0442\u043E\u0443\u043D\u0445\u044D\u043D\u0434\u0436"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 0a6ac78d6dbf46040acea6b3d0b8d748, type: 2}
+  - {fileID: 11400000, guid: f046f8086b56d8c4586b1194bbddada7, type: 2}
+  - {fileID: 11400000, guid: 0dfc7f6ccf2cf06438088564eedf44bc, type: 2}
+  - {fileID: 11400000, guid: c8e5a12a3382bee479c197a879c206a2, type: 2}
+  - {fileID: 11400000, guid: 6f806f1d1ffb64a47ac22c25fd6d3611, type: 2}
+  - {fileID: 11400000, guid: 47ac9d51a64979445bbeeab27a78fcb7, type: 2}
+  - {fileID: 11400000, guid: b7c2b3f353cc2c940a3c7132fc486abf, type: 2}
+  - {fileID: 11400000, guid: bc4b2967c050a9a47a7acbfa13ca8a70, type: 2}
+  - {fileID: 11400000, guid: 0fab556276bd1d6409e4fa4410a7c9c1, type: 2}
+  - {fileID: 11400000, guid: a0e2b3eed95a9844189046fee452d3dc, type: 2}
+  backgroundReference:
+    m_AssetGUID: b8c036f30f9720342930bc08cf54640d
+    m_SubObjectName: StoneHenge_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0421\u0442\u043E\u0443\u043D\u0445\u044D\u043D\u0434\u0436"
+    text: "\u0421\u0442\u043E\u0443\u043D\u0445\u044D\u043D\u0434\u0436 \u043E\u0440\u0438\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D
+      \u043D\u0430 \u0432\u043E\u0441\u0445\u043E\u0434 \u0441\u043E\u043B\u043D\u0446\u0430
+      \u0432 \u0434\u0435\u043D\u044C \u043B\u0435\u0442\u043D\u0435\u0433\u043E
+      \u0441\u043E\u043B\u043D\u0446\u0435\u0441\u0442\u043E\u044F\u043D\u0438\u044F
+      \u0438 \u0441\u043B\u043E\u0436\u0435\u043D \u0438\u0437 \u0441\u0430\u0440\u0441\u0435\u043D\u043E\u0432
+      \u0438 \u0433\u043E\u043B\u0443\u0431\u044B\u0445 \u043A\u0430\u043C\u043D\u0435\u0439,
+      \u043F\u0440\u0438\u0432\u0435\u0437\u0451\u043D\u043D\u044B\u0445 \u0438\u0437\u0434\u0430\u043B\u0435\u043A\u0430."
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  targetExtraWords: 8

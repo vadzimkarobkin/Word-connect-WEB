@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5f8e705c10b94f8dbed011f2760f1cac
+timeCreated: 1722330317
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/Localization/Editor/LocalizedTextMeshProUGUICreator.cs
+  uploadId: 784234

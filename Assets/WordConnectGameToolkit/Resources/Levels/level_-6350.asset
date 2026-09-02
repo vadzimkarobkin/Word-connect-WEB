@@ -1,0 +1,333 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-6350
+  m_EditorClassIdentifier: 
+  number: 140
+  backgroundReference:
+    m_AssetGUID: b97d4a1730eb23748bdb1d1e3969a68a
+    m_SubObjectName: ChicagoBean_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0432\u0435\u043A\u043B\u0441"
+    wordsAmount: 5
+    words:
+    - "\u043B\u0435\u0441"
+    - "\u0432\u0435\u043A"
+    - "\u0435\u043B\u043A\u0430"
+    - "\u043B\u0435\u0432"
+    - "\u043B\u0430\u043A"
+    - "\u043B\u0435\u0441\u043A\u0430"
+    - "\u0432\u0435\u0441"
+    - "\u0432\u0430\u043B"
+    - "\u043A\u0432\u0430\u0441"
+    - "\u0441\u0432\u0435\u043A\u043B\u0430"
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: "\u043B\u0435\u0441"
+        wordNumber: 7
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u0435\u043A"
+        wordNumber: 8
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0435\u043B\u043A\u0430"
+        wordNumber: 9
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0435\u0432"
+        wordNumber: 3
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0430\u043A"
+        wordNumber: 6
+        startPosition: {x: 7, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0435\u0441\u043A\u0430"
+        wordNumber: 2
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u0435\u0441"
+        wordNumber: 10
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u0430\u043B"
+        wordNumber: 4
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0432\u0430\u0441"
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0432\u0435\u043A\u043B\u0430"
+        wordNumber: 5
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "          |     \u043B\u0435\u0441  |\u0432  \u0432   \u0432\u0435\u043A|\u0435\u043B\u043A\u0430
+        \u043A \u0435  |\u0441  \u043B\u0435\u0432 \u043A  |     \u0430 \u043B\u0430\u043A|  
+        \u043B\u0435\u0441\u043A\u0430  |          |          |          "
+  - language: es
+    letters: aenott
+    wordsAmount: 5
+    words:
+    - tonta
+    - ateo
+    - atento
+    - ante
+    - tanteo
+    - tanto
+    - neto
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: tonta
+        wordNumber: 6
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: atento
+        wordNumber: 1
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tanto
+        wordNumber: 3
+        startPosition: {x: 2, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: neto
+        wordNumber: 7
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tanteo
+        wordNumber: 2
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ante
+        wordNumber: 5
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ateo
+        wordNumber: 4
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 7, y: 9}
+      serializedGrid: 'n         |e         |tonta     |o   n     |  t t a   |  atento 
+        |  n   e   |  tanto   |  e       |  o       |          |          '
+  - language: de
+    letters: eglnte
+    wordsAmount: 5
+    words:
+    - legen
+    - engel
+    - gelten
+    - ente
+    - leg
+    - tee
+    - legt
+    - gel
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: legen
+        wordNumber: 3
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gel
+        wordNumber: 7
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: engel
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: leg
+        wordNumber: 6
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tee
+        wordNumber: 4
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ente
+        wordNumber: 8
+        startPosition: {x: 6, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: legt
+        wordNumber: 5
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gelten
+        wordNumber: 2
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '          |     legen| gel   e  |   engel  | leg   tee|  
+        t   e  |      ente'
+  - language: pt
+    letters: acoror
+    wordsAmount: 5
+    words:
+    - coroar
+    - cor
+    - oco
+    - coro
+    - coroa
+    - coar
+    - carro
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: oco
+        wordNumber: 6
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coar
+        wordNumber: 7
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coroa
+        wordNumber: 2
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coro
+        wordNumber: 3
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cor
+        wordNumber: 4
+        startPosition: {x: 3, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: carro
+        wordNumber: 5
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coroar
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 7, y: 8}
+      serializedGrid: '  oco     |   a      |coar      |   r c    |  coroa   |    
+        r    |    coro  |     a    |   cor    |          |          |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251003130410
+  m_EditorClassIdentifier: 
+  groupName: "\u0412\u0438\u043D\u0434\u0437\u043E\u0440\u0441\u043A\u0438\u0439
+    \u0437\u0430\u043C\u043E\u043A"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: d4750dede0fc9a142b3821562e0f011b, type: 2}
+  - {fileID: 11400000, guid: 9d56954972a79ef4093ef6a1e96dfcf8, type: 2}
+  - {fileID: 11400000, guid: 7231c78b1d804dd4a88c79a1ec19d4e3, type: 2}
+  - {fileID: 11400000, guid: 9bc28cc49c87b35428f13e2153aef525, type: 2}
+  - {fileID: 11400000, guid: a45f533e8a0cb1842bfb1a53914d05b5, type: 2}
+  - {fileID: 11400000, guid: 62f50c2d264bdb64392bde14718902ab, type: 2}
+  - {fileID: 11400000, guid: 26ab383dbaaeef54ab3b3dbd306683b5, type: 2}
+  - {fileID: 11400000, guid: 945c50848a219784793bc126e4af80c3, type: 2}
+  - {fileID: 11400000, guid: 8fd7aa0e468dc274cbc9e4c83b40bc2c, type: 2}
+  - {fileID: 11400000, guid: 3d8071d80d8d024438821efcc5e4ba75, type: 2}
+  backgroundReference:
+    m_AssetGUID: 0d8556bb0fbf59842b636cfbb801ee3e
+    m_SubObjectName: Windsor Castle_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0412\u0438\u043D\u0434\u0437\u043E\u0440\u0441\u043A\u0438\u0439 \u0437\u0430\u043C\u043E\u043A"
+    text: "\u0412\u0438\u043D\u0434\u0437\u043E\u0440\u0441\u043A\u0438\u0439 \u0437\u0430\u043C\u043E\u043A
+      \u2014 \u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0438\u0439 \u043E\u0431\u0438\u0442\u0430\u0435\u043C\u044B\u0439
+      \u0437\u0430\u043C\u043E\u043A \u043C\u0438\u0440\u0430, \u043E\u0441\u043D\u043E\u0432\u0430\u043D
+      \u0412\u0438\u043B\u044C\u0433\u0435\u043B\u044C\u043C\u043E\u043C \u0417\u0430\u0432\u043E\u0435\u0432\u0430\u0442\u0435\u043B\u0435\u043C
+      \u0432 XI \u0432\u0435\u043A\u0435 \u0438 \u0445\u0440\u0430\u043D\u0438\u0442
+      \u0447\u0430\u0441\u043E\u0432\u043D\u044E \u0421\u0432\u044F\u0442\u043E\u0433\u043E
+      \u0413\u0435\u043E\u0440\u0433\u0438\u044F."
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  targetExtraWords: 8

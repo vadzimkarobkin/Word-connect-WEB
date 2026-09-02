@@ -1,0 +1,405 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-128952
+  m_EditorClassIdentifier: 
+  number: 131
+  backgroundReference:
+    m_AssetGUID: 55af5a828b02a244982586c322ec80ed
+    m_SubObjectName: Zhangjiajie_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 5, y: 3}
+      maxBounds: {x: 5, y: 3}
+      serializedGrid: '          |          |          |          |          |         
+        |          '
+  - language: ru
+    letters: "\u0430\u0430\u043A\u043B\u0440\u0443"
+    wordsAmount: 5
+    words:
+    - "\u0440\u0443\u043A\u0430"
+    - "\u0430\u043A\u0443\u043B\u0430"
+    - "\u0430\u0440\u043A\u0430"
+    - "\u0430\u0443\u0440\u0430"
+    - "\u043A\u0430\u0440\u0430\u0443\u043B"
+    - "\u043A\u0430\u0440\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0440\u0443\u043A\u0430"
+        wordNumber: 2
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u043A\u0443\u043B\u0430"
+        wordNumber: 3
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u0440\u043A\u0430"
+        wordNumber: 5
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u0443\u0440\u0430"
+        wordNumber: 1
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0430\u0440\u0430\u0443\u043B"
+        wordNumber: 6
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0430\u0440\u0430"
+        wordNumber: 4
+        startPosition: {x: 8, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          | \u0430    \u043A   | \u0440\u0443\u043A\u0430
+        \u0430 \u043A | \u043A  \u0443 \u0440 \u0430 | \u0430  \u0440 \u0430 \u0440
+        |    \u0430\u043A\u0443\u043B\u0430 |      \u043B   "
+  - language: es
+    letters: abciot
+    wordsAmount: 5
+    words:
+    - bota
+    - toca
+    - cabo
+    - taco
+    - botica
+    - boca
+    - cita
+    - coba
+    - acto
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: coba
+        wordNumber: 3
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cita
+        wordNumber: 4
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cabo
+        wordNumber: 2
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: botica
+        wordNumber: 6
+        startPosition: {x: 2, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: toca
+        wordNumber: 9
+        startPosition: {x: 6, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: boca
+        wordNumber: 7
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bota
+        wordNumber: 5
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: acto
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: taco
+        wordNumber: 8
+        startPosition: {x: 7, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 9, y: 9}
+      serializedGrid: '  b       |  o       |  coba    |  a  cita |     t    |  cabo   
+        |    o  t  |  botica  |    a  c  |      toca|          |          '
+  - language: de
+    letters: egirse
+    wordsAmount: 5
+    words:
+    - see
+    - greis
+    - sie
+    - sir
+    - ire
+    - eier
+    - reise
+    - eis
+    - geier
+    - sieger
+    - sieg
+    - gier
+    - riese
+    - reis
+    - sei
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: greis
+        wordNumber: 11
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: geier
+        wordNumber: 8
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gier
+        wordNumber: 12
+        startPosition: {x: 8, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ire
+        wordNumber: 2
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: see
+        wordNumber: 15
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sie
+        wordNumber: 4
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eier
+        wordNumber: 3
+        startPosition: {x: 6, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sei
+        wordNumber: 7
+        startPosition: {x: 8, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: reise
+        wordNumber: 9
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: reis
+        wordNumber: 5
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: riese
+        wordNumber: 1
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sieger
+        wordNumber: 10
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eis
+        wordNumber: 6
+        startPosition: {x: 8, y: 8}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sieg
+        wordNumber: 14
+        startPosition: {x: 10, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sir
+        wordNumber: 13
+        startPosition: {x: 10, y: 9}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 11, y: 11}
+      serializedGrid: '            |    greis   | r      i s |geier   e i | i  e
+        r gier| s  i ire g |see sie r   |      s     |      eier  |        i s |       
+        sei |          r '
+  - language: pt
+    letters: aglosu
+    wordsAmount: 5
+    words:
+    - sal
+    - sua
+    - sola
+    - lago
+    - gula
+    - algo
+    - galo
+    - sul
+    - lua
+    - gulosa
+    - gol
+    - gola
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: gulosa
+        wordNumber: 8
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sal
+        wordNumber: 2
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sua
+        wordNumber: 10
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gola
+        wordNumber: 4
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lago
+        wordNumber: 3
+        startPosition: {x: 2, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lua
+        wordNumber: 12
+        startPosition: {x: 4, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sola
+        wordNumber: 9
+        startPosition: {x: 1, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: galo
+        wordNumber: 5
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gol
+        wordNumber: 11
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gula
+        wordNumber: 7
+        startPosition: {x: 4, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: algo
+        wordNumber: 1
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sul
+        wordNumber: 6
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 10}
+      serializedGrid: '    g     |    o     |  gulosa  |      u   |    sal   |  g 
+        l    |sua  gola |  lago    |  o u     |    lua   | sola     |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 5dd1908714545074cbcb807640dd50b4, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

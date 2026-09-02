@@ -1,0 +1,327 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-118834
+  m_EditorClassIdentifier: 
+  number: 276
+  backgroundReference:
+    m_AssetGUID: 8ee56448ebd6a6146888b2d65af4aeee
+    m_SubObjectName: TimeSquare_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0430\u043A\u043B\u043E\u0448"
+    wordsAmount: 5
+    words:
+    - "\u043A\u0430\u0448\u0430"
+    - "\u043A\u0430\u043B\u043E\u0448\u0430"
+    - "\u0448\u0430\u043A\u0430\u043B"
+    - "\u0448\u043B\u0430\u043A"
+    - "\u0448\u043A\u043E\u043B\u0430"
+    - "\u0448\u043A\u0430\u043B\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043A\u0430\u0448\u0430"
+        wordNumber: 3
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0430\u043B\u043E\u0448\u0430"
+        wordNumber: 1
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0448\u0430\u043A\u0430\u043B"
+        wordNumber: 5
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0448\u043B\u0430\u043A"
+        wordNumber: 2
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0448\u043A\u043E\u043B\u0430"
+        wordNumber: 6
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0448\u043A\u0430\u043B\u0430"
+        wordNumber: 4
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |\u043A\u0430\u0448\u0430      |  \u043B  \u0448
+        \u0448  |  \u0430  \u043A \u043A  |  \u043A\u0430\u043B\u043E\u0448\u0430 
+        |     \u043B \u043B  |    \u0448\u0430\u043A\u0430\u043B "
+  - language: es
+    letters: "imotv\xF3"
+    wordsAmount: 5
+    words:
+    - mito
+    - vio
+    - "v\xF3mito"
+    - timo
+    - mio
+    - "tom\xF3"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: mio
+        wordNumber: 6
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "v\xF3mito"
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: timo
+        wordNumber: 3
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vio
+        wordNumber: 5
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "tom\xF3"
+        wordNumber: 4
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mito
+        wordNumber: 2
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: "   t      | mio      |   m      |  v\xF3mito  |    i     |   
+        timo  |  vio     "
+  - language: de
+    letters: beinte
+    wordsAmount: 5
+    words:
+    - eine
+    - beten
+    - beet
+    - bein
+    - bieten
+    - bit
+    - bete
+    - niete
+    - bei
+    - beine
+    - biene
+    - eben
+    - bin
+    crosswordData:
+      columns: 12
+      rows: 15
+      placements:
+      - word: bit
+        wordNumber: 11
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: beten
+        wordNumber: 13
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: biene
+        wordNumber: 8
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: niete
+        wordNumber: 7
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bei
+        wordNumber: 1
+        startPosition: {x: 5, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eben
+        wordNumber: 3
+        startPosition: {x: 2, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eine
+        wordNumber: 6
+        startPosition: {x: 0, y: 12}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: beet
+        wordNumber: 9
+        startPosition: {x: 0, y: 10}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bieten
+        wordNumber: 10
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bein
+        wordNumber: 4
+        startPosition: {x: 2, y: 9}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: beine
+        wordNumber: 2
+        startPosition: {x: 5, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bete
+        wordNumber: 5
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bin
+        wordNumber: 12
+        startPosition: {x: 9, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 10, y: 13}
+      serializedGrid: '  bit       |  i         |  e      b  |beten    i  |  e  
+        biene |  niete     |      t     |     bei    |     e      |  b  i      |b
+        eben      |e i  e      |eine        |t           |            '
+  - language: pt
+    letters: "abcr\xE9a"
+    wordsAmount: 5
+    words:
+    - "cabar\xE9"
+    - cara
+    - aba
+    - bar
+    - cabra
+    - arca
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: cabra
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bar
+        wordNumber: 6
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cara
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aba
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arca
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "cabar\xE9"
+        wordNumber: 5
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: "      c   |  cabra   |   r  bar |   cara   | aba  r   |     
+        \xE9   |          "
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

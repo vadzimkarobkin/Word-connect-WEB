@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 00dd4a7ac8c24c898083910c81898ecc
+timeCreated: 1709468561
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/Services/Ads/CandySmith.Ads.asmdef
+  uploadId: 784234

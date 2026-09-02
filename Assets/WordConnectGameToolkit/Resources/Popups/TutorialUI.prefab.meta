@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f61fbd78623844cf8ad9af21456f636d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Resources/Popups/TutorialUI.prefab
+  uploadId: 784234

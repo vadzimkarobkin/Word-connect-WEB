@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c1c50d302d02427d9efaed58b590f731
+timeCreated: 1742318054
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/GUI/ExtraWordBar/BaseExtraWordsProgressBar.cs
+  uploadId: 784234

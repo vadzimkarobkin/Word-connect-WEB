@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83c4ae5b9f3af4706b21d6c47376c41e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Prefabs/PopupElements/AbovePopups.prefab
+  uploadId: 784234

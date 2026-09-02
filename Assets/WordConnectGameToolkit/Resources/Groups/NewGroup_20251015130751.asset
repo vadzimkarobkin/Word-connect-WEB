@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251015130751
+  m_EditorClassIdentifier: 
+  groupName: "\u0421\u043F\u044D\u0439\u0441-\u041D\u0438\u0434\u043B"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 09dee8a58c46b91448d47f4c6a68b846, type: 2}
+  - {fileID: 11400000, guid: 96f874d20764e7c40ad49ef7c7cd97bb, type: 2}
+  - {fileID: 11400000, guid: df075254e6a8cd6449e2b1001c9dbec7, type: 2}
+  - {fileID: 11400000, guid: 83aba4409c105044ea946a3d44556521, type: 2}
+  - {fileID: 11400000, guid: c310db2028e783d4dad2f40f25919ef6, type: 2}
+  - {fileID: 11400000, guid: daa267dc313f54243ab36fba3fea6d16, type: 2}
+  - {fileID: 11400000, guid: 2c722785eacbb634bbd72e3ee2d14a59, type: 2}
+  - {fileID: 11400000, guid: 80189c01028e3624f939bb901180e40e, type: 2}
+  - {fileID: 11400000, guid: e0b087ddf0103fc408d937223e809aaf, type: 2}
+  - {fileID: 11400000, guid: 109bfcb66202fcb44afb20303e1fed02, type: 2}
+  - {fileID: 11400000, guid: 759781ea66f7a6c4a86e48be735ba5fb, type: 2}
+  - {fileID: 11400000, guid: 736a61fded5648d4fa61fd111ff12252, type: 2}
+  - {fileID: 11400000, guid: d7607a7cef05f1541ae07569e4cd4a8c, type: 2}
+  - {fileID: 11400000, guid: e272bc1206d9883428ffc21a5b18a8fe, type: 2}
+  - {fileID: 11400000, guid: da590a30f3b973e418076b694c2b72a0, type: 2}
+  - {fileID: 11400000, guid: 2066d84c4d9ec1444a62e9b6e655fa78, type: 2}
+  - {fileID: 11400000, guid: 16d8c0483e8cc8743987dfa9c34b2836, type: 2}
+  - {fileID: 11400000, guid: 6b3c8dc19c7064d408714d9ae8ece595, type: 2}
+  - {fileID: 11400000, guid: c35cc1abaef051743ac419092acdee0d, type: 2}
+  - {fileID: 11400000, guid: 6a77a849735bd8f4fb350201a8c7dd6f, type: 2}
+  backgroundReference:
+    m_AssetGUID: 29956d02408bbdc4ea4d9736c5c7eaa8
+    m_SubObjectName: SpaceNeedle_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0421\u043F\u044D\u0439\u0441-\u041D\u0438\u0434\u043B"
+    text: "\u0421\u043F\u044D\u0439\u0441 \u041D\u0438\u0434\u043B \u0432 \u0421\u0438\u044D\u0442\u043B\u0435
+      \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u043A \u0432\u044B\u0441\u0442\u0430\u0432\u043A\u0435
+      1962 \u0433\u043E\u0434\u0430, \u043E\u0431\u0437\u043E\u0440\u043D\u0430\u044F
+      \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 \u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044F,
+      \u043F\u043E\u043B \u0438\u0437 \u0441\u0442\u0435\u043A\u043B\u0430 \u0434\u0430\u0451\u0442
+      \u0432\u0438\u0434 \u043D\u0430 \u043E\u043F\u043E\u0440\u044B \u0438 \u043D\u0430
+      \u0433\u043E\u0440\u043E\u0434 \u0432\u043D\u0438\u0437\u0443"
+  colorsTile: {fileID: 11400000, guid: be2ab2563b766494793b64a93af3090a, type: 2}
+  targetExtraWords: 8

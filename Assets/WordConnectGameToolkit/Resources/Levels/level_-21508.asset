@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-21508
+  m_EditorClassIdentifier: 
+  number: 244
+  backgroundReference:
+    m_AssetGUID: f1d3c69d224bfc24580210366a25479e
+    m_SubObjectName: Praga_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0430\u043C\u043D\u043E\u0445"
+    wordsAmount: 5
+    words:
+    - "\u0445\u043D\u0430"
+    - "\u0445\u0430\u043C"
+    - "\u043C\u0430\u0445\u0430\u043E\u043D"
+    - "\u043C\u043E\u0445"
+    - "\u0445\u0430\u043D"
+    - "\u043C\u0430\u0445"
+    - "\u043C\u043E\u043D\u0430\u0445"
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: "\u0445\u043D\u0430"
+        wordNumber: 7
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0445\u0430\u043C"
+        wordNumber: 2
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0430\u0445\u0430\u043E\u043D"
+        wordNumber: 4
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u043E\u0445"
+        wordNumber: 3
+        startPosition: {x: 5, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0445\u0430\u043D"
+        wordNumber: 5
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0430\u0445"
+        wordNumber: 6
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u043E\u043D\u0430\u0445"
+        wordNumber: 1
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 2}
+      maxBounds: {x: 7, y: 8}
+      serializedGrid: "          |          |     \u043C    |   \u0445\u043D\u0430   
+        |     \u0445\u0430\u043C  |   \u0445   \u043E  |  \u043C\u0430\u0445\u0430\u043E\u043D 
+        |   \u043D   \u0430  |     \u043C\u043E\u0445  |          "
+  - language: es
+    letters: adinsa
+    wordsAmount: 5
+    words:
+    - diana
+    - das
+    - sana
+    - asa
+    - san
+    - sandia
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: diana
+        wordNumber: 5
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sandia
+        wordNumber: 2
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sana
+        wordNumber: 3
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: san
+        wordNumber: 6
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: das
+        wordNumber: 4
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: asa
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '          |  s d     |diana     |  n sandia|     s    |   
+        sana  |          '
+  - language: de
+    letters: cefhis
+    wordsAmount: 5
+    words:
+    - sich
+    - fisch
+    - schief
+    - sieh
+    - chef
+    - fies
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: schief
+        wordNumber: 3
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: chef
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sieh
+        wordNumber: 4
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sich
+        wordNumber: 6
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fies
+        wordNumber: 5
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fisch
+        wordNumber: 2
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 6, y: 6}
+      serializedGrid: '   f      |schief    |   s      | f chef   |sieh      | e       
+        | sich     '
+  - language: pt
+    letters: aprssa
+    wordsAmount: 5
+    words:
+    - passar
+    - para
+    - aspas
+    - par
+    - asa
+    - assar
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: asa
+        wordNumber: 3
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: par
+        wordNumber: 4
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: assar
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aspas
+        wordNumber: 6
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: para
+        wordNumber: 2
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: passar
+        wordNumber: 5
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 7, y: 5}
+      serializedGrid: ' a p p    | s asa    | par s    | a assar  | s   a    |    
+        r    |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

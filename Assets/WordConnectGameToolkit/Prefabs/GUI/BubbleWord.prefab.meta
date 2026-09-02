@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c79c45f80dbb4577887a1c100e63f5b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Prefabs/GUI/BubbleWord.prefab
+  uploadId: 784234

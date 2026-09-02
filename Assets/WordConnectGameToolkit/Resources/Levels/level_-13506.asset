@@ -1,0 +1,365 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-13506
+  m_EditorClassIdentifier: 
+  number: 144
+  backgroundReference:
+    m_AssetGUID: b97d4a1730eb23748bdb1d1e3969a68a
+    m_SubObjectName: ChicagoBean_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0431\u0431\u0438\u043A\u043B\u0443"
+    wordsAmount: 5
+    words:
+    - "\u043A\u0443\u0431"
+    - "\u043A\u043B\u0443\u0431"
+    - "\u043B\u0443\u043A"
+    - "\u0431\u043B\u0438\u043A"
+    - "\u0431\u0443\u043A"
+    - "\u043B\u0438\u043A"
+    - "\u0431\u0443\u0431\u043B\u0438\u043A"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043A\u0443\u0431"
+        wordNumber: 4
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043B\u0443\u0431"
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0443\u043A"
+        wordNumber: 7
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u043B\u0438\u043A"
+        wordNumber: 5
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0443\u043A"
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0438\u043A"
+        wordNumber: 3
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0443\u0431\u043B\u0438\u043A"
+        wordNumber: 6
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          | \u043A\u0443\u0431  \u0431   |   \u0443  \u0443  
+        |   \u043A\u043B\u0443\u0431   |    \u0438 \u043B\u0443\u043A | \u0431\u043B\u0438\u043A
+        \u0438   |      \u043A   "
+  - language: es
+    letters: acertu
+    wordsAmount: 5
+    words:
+    - ruta
+    - trae
+    - acre
+    - crea
+    - cura
+    - cera
+    - arte
+    - caer
+    - tuerca
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: crea
+        wordNumber: 9
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tuerca
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: acre
+        wordNumber: 3
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: trae
+        wordNumber: 5
+        startPosition: {x: 1, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ruta
+        wordNumber: 7
+        startPosition: {x: 4, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arte
+        wordNumber: 6
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cura
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: caer
+        wordNumber: 4
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cera
+        wordNumber: 8
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 8}
+      serializedGrid: '       c  |     crea |   c   r  |  tuerca  |   r      | a
+        acre   | r  a     | trae     | e  ruta  |          |          |          '
+  - language: de
+    letters: deilre
+    wordsAmount: 5
+    words:
+    - leid
+    - leer
+    - lied
+    - leider
+    - edle
+    - edel
+    - leder
+    - edler
+    - idee
+    - drei
+    - rede
+    - erde
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: edle
+        wordNumber: 1
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lied
+        wordNumber: 2
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dreirede
+        wordNumber: 3
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: leiderde
+        wordNumber: 4
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: edler
+        wordNumber: 5
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: leer
+        wordNumber: 6
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ed
+        wordNumber: 7
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dr
+        wordNumber: 8
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: le
+        wordNumber: 9
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eileder
+        wordNumber: 10
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: leid
+        wordNumber: 11
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: id
+        wordNumber: 12
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: edel
+        wordNumber: 13
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ee
+        wordNumber: 14
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: idee
+        wordNumber: 15
+        startPosition: {x: 9, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 'edle lied |dreirede i|   l i   d|  leiderde|   d  d  e|  
+        edler  |leer  l   '
+  - language: pt
+    letters: cfioux
+    wordsAmount: 5
+    words:
+    - foi
+    - fio
+    - fuxico
+    - ficou
+    - fui
+    - cio
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: fui
+        wordNumber: 6
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: foi
+        wordNumber: 5
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cio
+        wordNumber: 3
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fio
+        wordNumber: 2
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ficou
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fuxico
+        wordNumber: 4
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 3, y: 0}
+      maxBounds: {x: 8, y: 7}
+      serializedGrid: '       f  |      fui |       x  |     f i  |   foi c  |    
+        cio  |   fio    |     u    |          |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

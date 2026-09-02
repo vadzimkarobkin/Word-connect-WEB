@@ -1,0 +1,293 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-162666
+  m_EditorClassIdentifier: 
+  number: 471
+  backgroundReference:
+    m_AssetGUID: b6fcf9646a457414588391a09d99a865
+    m_SubObjectName: Buddah_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u043A\u043B\u043D\u043E\u0441\u0443"
+    wordsAmount: 5
+    words:
+    - "\u0443\u043A\u043B\u043E\u043D"
+    - "\u043A\u043E\u043D\u0443\u0441"
+    - "\u043A\u043E\u043B\u0443\u043D"
+    - "\u043A\u0443\u043B\u043E\u043D"
+    - "\u0441\u043A\u043B\u043E\u043D"
+    - "\u043A\u043E\u043D\u0441\u0443\u043B"
+    - "\u0441\u0443\u043A\u043D\u043E"
+    - "\u043A\u043B\u043E\u0443\u043D"
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: "\u0443\u043A\u043B\u043E\u043D"
+        wordNumber: 7
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043E\u043D\u0443\u0441"
+        wordNumber: 2
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043E\u043B\u0443\u043D"
+        wordNumber: 6
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0443\u043B\u043E\u043D"
+        wordNumber: 3
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043A\u043B\u043E\u043D"
+        wordNumber: 4
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043E\u043D\u0441\u0443\u043B"
+        wordNumber: 5
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0443\u043A\u043D\u043E"
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043B\u043E\u0443\u043D"
+        wordNumber: 8
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 9, y: 9}
+      serializedGrid: "          |  \u0443\u043A\u043B\u043E\u043D   |   \u043E     
+        | \u043A\u043E\u043D\u0443\u0441    |   \u0441 \u0443 \u043A  | \u0441 \u0443
+        \u043A\u043E\u043B\u0443\u043D| \u043A\u0443\u043B\u043E\u043D \u043E  |
+        \u043B   \u043E \u0443  | \u043E     \u043D  | \u043D        "
+  - language: es
+    letters: filoso
+    wordsAmount: 5
+    words:
+    - filo
+    - silo
+    - liso
+    - folios
+    - folio
+    - solo
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: folios
+        wordNumber: 5
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: silo
+        wordNumber: 6
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: solo
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: filo
+        wordNumber: 3
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: folio
+        wordNumber: 2
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: liso
+        wordNumber: 4
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '    folios|      i   |    f silo|   solo   |    l     |   
+        i     | filo     '
+  - language: de
+    letters: eknork
+    wordsAmount: 5
+    words:
+    - ken
+    - krone
+    - kern
+    - korn
+    - korken
+    - ren
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: krone
+        wordNumber: 1
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: korken
+        wordNumber: 2
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: korn
+        wordNumber: 3
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ren
+        wordNumber: 4
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kern
+        wordNumber: 5
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '          |        k |    krone | k   e  r |korken  n | r       
+        | n        '
+  - language: pt
+    letters: aglrua
+    wordsAmount: 5
+    words:
+    - grua
+    - grau
+    - ruga
+    - aura
+    - larga
+    - lugar
+    - alugar
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: lugar
+        wordNumber: 3
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aura
+        wordNumber: 2
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: grua
+        wordNumber: 6
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: grau
+        wordNumber: 7
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: alugar
+        wordNumber: 4
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ruga
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: larga
+        wordNumber: 5
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: ' a        | lugar    | u   u l  | g   g a  | a   aura |grua  
+        g  |     grau '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

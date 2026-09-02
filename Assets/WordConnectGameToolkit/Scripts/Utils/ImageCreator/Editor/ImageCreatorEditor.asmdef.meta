@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80203850072e04e989fc8dcb13d2243e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/Utils/ImageCreator/Editor/ImageCreatorEditor.asmdef
+  uploadId: 784234

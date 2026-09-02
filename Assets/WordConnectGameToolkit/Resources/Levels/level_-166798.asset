@@ -1,0 +1,367 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-166798
+  m_EditorClassIdentifier: 
+  number: 422
+  backgroundReference:
+    m_AssetGUID: 78be36de0d2e1194cbb8165397b74978
+    m_SubObjectName: TowerBridge_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0439\u043B\u0441\u0443\u0447"
+    wordsAmount: 5
+    words:
+    - "\u0441\u043B\u0443\u0447\u0430\u0439"
+    - "\u0447\u0430\u0439"
+    - "\u043B\u0443\u0447"
+    - "\u0447\u0430\u0441"
+    - "\u043B\u0430\u0439"
+    - "\u0430\u0443\u043B"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0441\u043B\u0443\u0447\u0430\u0439"
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0447\u0430\u0439"
+        wordNumber: 5
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0443\u0447"
+        wordNumber: 4
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0447\u0430\u0441"
+        wordNumber: 6
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0430\u0439"
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u0443\u043B"
+        wordNumber: 3
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: "          |  \u0447       |  \u0430       |  \u0441\u043B\u0443\u0447\u0430\u0439 
+        |   \u0430  \u0443   | \u0447\u0430\u0439  \u043B\u0443\u0447 |          "
+  - language: es
+    letters: agnora
+    wordsAmount: 5
+    words:
+    - ganar
+    - angora
+    - rana
+    - gano
+    - gana
+    - gran
+    - grano
+    - rango
+    - ana
+    - ron
+    crosswordData:
+      columns: 12
+      rows: 10
+      placements:
+      - word: ana
+        wordNumber: 5
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ganar
+        wordNumber: 3
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: angora
+        wordNumber: 6
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gran
+        wordNumber: 2
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: grano
+        wordNumber: 10
+        startPosition: {x: 2, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gano
+        wordNumber: 7
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rango
+        wordNumber: 4
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gana
+        wordNumber: 8
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ron
+        wordNumber: 9
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rana
+        wordNumber: 1
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 11, y: 8}
+      serializedGrid: 'g r         |ana g       |n n a       |o ganar     |  o a
+        angora|      n     |    gran    |     o      |  grano     |            '
+  - language: de
+    letters: adeiln
+    wordsAmount: 5
+    words:
+    - alien
+    - ideal
+    - linde
+    - liane
+    - laden
+    - eiland
+    - nadel
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: alien
+        wordNumber: 7
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nadel
+        wordNumber: 6
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eiland
+        wordNumber: 4
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ideal
+        wordNumber: 1
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: linde
+        wordNumber: 3
+        startPosition: {x: 2, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: liane
+        wordNumber: 5
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: laden
+        wordNumber: 2
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 7, y: 8}
+      serializedGrid: ' alien    |  i       | nadel    |  n       |  eiland  |   
+        a     |   ideal  |    e     |  linde   |          |          |          '
+  - language: pt
+    letters: aiostv
+    wordsAmount: 5
+    words:
+    - vasto
+    - aviso
+    - voa
+    - ativo
+    - ova
+    - visto
+    - toa
+    - ato
+    - tio
+    - vai
+    - vista
+    - ativos
+    - vaso
+    - isto
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: voa
+        wordNumber: 9
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tio
+        wordNumber: 14
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vai
+        wordNumber: 12
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vista
+        wordNumber: 10
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: visto
+        wordNumber: 2
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aviso
+        wordNumber: 5
+        startPosition: {x: 5, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: toa
+        wordNumber: 4
+        startPosition: {x: 1, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vaso
+        wordNumber: 13
+        startPosition: {x: 0, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ativo
+        wordNumber: 7
+        startPosition: {x: 5, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: isto
+        wordNumber: 3
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ativos
+        wordNumber: 8
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ato
+        wordNumber: 11
+        startPosition: {x: 3, y: 8}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ova
+        wordNumber: 1
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vasto
+        wordNumber: 6
+        startPosition: {x: 6, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 11}
+      serializedGrid: ' voa      |   tio    | vai      |   vista  |   o      | visto   
+        |  s  v    |  t  aviso| toa  a   |   t  s   |vaso ativo|      o   '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

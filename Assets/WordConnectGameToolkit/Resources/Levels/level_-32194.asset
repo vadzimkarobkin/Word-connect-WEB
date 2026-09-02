@@ -1,0 +1,298 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-32194
+  m_EditorClassIdentifier: 
+  number: 66
+  backgroundReference:
+    m_AssetGUID: 6ede5d95f13daf74e9ed8bb2d45a8124
+    m_SubObjectName: Angkor_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0432\u043B\u043D\u043E"
+    wordsAmount: 5
+    words:
+    - "\u0432\u043E\u043B"
+    - "\u0432\u043E\u043B\u043D\u0430"
+    - "\u043B\u043E\u0432"
+    - "\u0432\u043E\u043B\u0430\u043D"
+    - "\u043E\u0432\u0430\u043B"
+    - "\u0432\u0430\u043B"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0432\u043E\u043B"
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u043E\u043B\u043D\u0430"
+        wordNumber: 5
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u043E\u0432"
+        wordNumber: 3
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u043E\u043B\u0430\u043D"
+        wordNumber: 6
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043E\u0432\u0430\u043B"
+        wordNumber: 2
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u0430\u043B"
+        wordNumber: 4
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: "          |       \u0432  |   \u0432 \u043E \u0430  |   \u043E
+        \u0432\u043E\u043B  | \u0432\u043E\u043B\u043D\u0430    |   \u0430 \u043B\u043E\u0432 
+        |   \u043D      "
+  - language: es
+    letters: denos
+    wordsAmount: 5
+    words:
+    - dos
+    - denso
+    - don
+    - nos
+    - son
+    - done
+    - seno
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: don
+        wordNumber: 5
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: denso
+        wordNumber: 1
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: seno
+        wordNumber: 3
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nos
+        wordNumber: 6
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: son
+        wordNumber: 7
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: done
+        wordNumber: 2
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dos
+        wordNumber: 4
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '       don|       o  |    denso | seno     | o  nos   | n 
+        e     |          '
+  - language: de
+    letters: egnuz
+    wordsAmount: 5
+    words:
+    - gen
+    - zeug
+    - zen
+    - neu
+    - zunge
+    - zug
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: zen
+        wordNumber: 6
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: zug
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: zunge
+        wordNumber: 3
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: neu
+        wordNumber: 4
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gen
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: zeug
+        wordNumber: 5
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: '  zen     |    e     |   zug    |     e z  |   zunge  |      
+        u  |       g  '
+  - language: pt
+    letters: efglo
+    wordsAmount: 5
+    words:
+    - golfe
+    - elo
+    - ego
+    - gelo
+    - golf
+    - gol
+    - fel
+    - gel
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: gol
+        wordNumber: 8
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: elo
+        wordNumber: 2
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fel
+        wordNumber: 3
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: golfe
+        wordNumber: 5
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: golf
+        wordNumber: 7
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ego
+        wordNumber: 4
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gel
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gelo
+        wordNumber: 6
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: '       g  |   g   e  |   o g l  | gol elo  |   fel    |   
+        g     |   golfe  '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 5
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

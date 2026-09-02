@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c8e4739e8dd640cd9446b343d1439dd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Prefabs/PopupElements/logotype.prefab
+  uploadId: 784234

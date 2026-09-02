@@ -1,0 +1,277 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-128870
+  m_EditorClassIdentifier: 
+  number: 371
+  backgroundReference:
+    m_AssetGUID: 56ea35c3c9f82a54991adf8dd7cc274f
+    m_SubObjectName: Barcelona_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0431\u0435\u0438\u043F\u0441\u0446"
+    wordsAmount: 5
+    words:
+    - "\u0431\u0435\u0441"
+    - "\u043F\u0438\u0441\u0435\u0446"
+    - "\u0431\u0438\u0446\u0435\u043F\u0441"
+    - "\u0431\u0438\u0441"
+    - "\u0441\u043F\u0435\u0446"
+    - "\u043F\u0435\u0441"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0431\u0435\u0441"
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0438\u0441\u0435\u0446"
+        wordNumber: 4
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0438\u0446\u0435\u043F\u0441"
+        wordNumber: 1
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0438\u0441"
+        wordNumber: 6
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043F\u0435\u0446"
+        wordNumber: 2
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0435\u0441"
+        wordNumber: 5
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |  \u0431\u0435\u0441     |    \u043F\u0438\u0441\u0435\u0446
+        |    \u0435     |  \u0431\u0438\u0446\u0435\u043F\u0441  |      \u0435  
+        |    \u0431\u0438\u0441   "
+  - language: es
+    letters: achouc
+    wordsAmount: 5
+    words:
+    - cuco
+    - caucho
+    - choca
+    - caco
+    - cacho
+    - oca
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: oca
+        wordNumber: 3
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cacho
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: choca
+        wordNumber: 4
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: caco
+        wordNumber: 5
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: caucho
+        wordNumber: 2
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cuco
+        wordNumber: 6
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: '  oca  c  |   a   u  |   u   c  | c cacho  | a h      | choca   
+        | o        '
+  - language: de
+    letters: aeinst
+    wordsAmount: 5
+    words:
+    - saiten
+    - sein
+    - nies
+    - stein
+    - seit
+    - eins
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: nies
+        wordNumber: 6
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eins
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: stein
+        wordNumber: 4
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sein
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: seit
+        wordNumber: 3
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: saiten
+        wordNumber: 5
+        startPosition: {x: 9, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '          |         s|nies     a|   eins  i|   i  e  t|  
+        n  i  e|     stein'
+  - language: pt
+    letters: hilost
+    wordsAmount: 5
+    words:
+    - isto
+    - til
+    - hostil
+    - tio
+    - sol
+    - liso
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: tio
+        wordNumber: 6
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: til
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: liso
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: hostil
+        wordNumber: 5
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: isto
+        wordNumber: 2
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sol
+        wordNumber: 3
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 6, y: 5}
+      serializedGrid: '  h       |tio i s   |  s s o   |  t til   | liso     |  l      
+        |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

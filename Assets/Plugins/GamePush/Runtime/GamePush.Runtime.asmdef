@@ -1,0 +1,20 @@
+{
+    "name": "GamePush",
+    "rootNamespace": "GamePush",
+    "references": [
+        "GUID:037600c3217604015b2d4ac17447fb17",
+        "GUID:007b2156f15c7184a8651539e656ab3b"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WebGL"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

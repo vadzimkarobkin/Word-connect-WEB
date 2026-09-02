@@ -1,0 +1,291 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-24618
+  m_EditorClassIdentifier: 
+  number: 58
+  backgroundReference:
+    m_AssetGUID: 6ede5d95f13daf74e9ed8bb2d45a8124
+    m_SubObjectName: Angkor_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0431\u043B\u0442\u0443"
+    wordsAmount: 5
+    words:
+    - "\u0442\u0430\u0431\u0443"
+    - "\u0430\u0443\u043B"
+    - "\u0431\u0430\u0443\u043B"
+    - "\u0431\u043B\u0430\u0442"
+    - "\u0431\u0443\u043B\u0430\u0442"
+    - "\u0431\u0430\u043B"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0442\u0430\u0431\u0443"
+        wordNumber: 5
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u0443\u043B"
+        wordNumber: 3
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u0443\u043B"
+        wordNumber: 2
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u043B\u0430\u0442"
+        wordNumber: 6
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0443\u043B\u0430\u0442"
+        wordNumber: 4
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u043B"
+        wordNumber: 1
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |  \u0431       |  \u043B \u0431     | \u0442\u0430\u0431\u0443
+        \u0431   |  \u0442 \u043B \u0430\u0443\u043B |   \u0431\u0430\u0443\u043B  
+        |    \u0442     "
+  - language: es
+    letters: agosv
+    wordsAmount: 5
+    words:
+    - vaso
+    - soga
+    - vagos
+    - vos
+    - gas
+    - vago
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: gas
+        wordNumber: 3
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vago
+        wordNumber: 2
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vagos
+        wordNumber: 5
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vos
+        wordNumber: 4
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: soga
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vaso
+        wordNumber: 6
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: '          |   gas v  |     o a  |     g s  |    vago  |   
+        o     |vagos     '
+  - language: de
+    letters: aektu
+    wordsAmount: 5
+    words:
+    - kate
+    - akt
+    - akte
+    - akute
+    - kaut
+    - tau
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: kaut
+        wordNumber: 6
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: akt
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: akte
+        wordNumber: 3
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tau
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kate
+        wordNumber: 2
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: akute
+        wordNumber: 5
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '     kaut |      k   |    k u   |    akt   | t  t e   | akte    
+        | u        '
+  - language: pt
+    letters: almra
+    wordsAmount: 5
+    words:
+    - lama
+    - ala
+    - mala
+    - ramal
+    - alma
+    - lar
+    - malar
+    - ama
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: malar
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ramal
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ala
+        wordNumber: 5
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ama
+        wordNumber: 8
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: alma
+        wordNumber: 2
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mala
+        wordNumber: 7
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lar
+        wordNumber: 4
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lama
+        wordNumber: 6
+        startPosition: {x: 9, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '    a     |  malar  l|    m    a|   ramal m|     a ala|    
+        l r  |   ama    '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 5
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

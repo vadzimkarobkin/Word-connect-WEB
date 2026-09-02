@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a31451b4b0e0743c5a65662f50f2794f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Prefabs/PopupElements/no-ads-button.prefab
+  uploadId: 784234

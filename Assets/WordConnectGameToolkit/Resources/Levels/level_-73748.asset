@@ -1,0 +1,298 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-73748
+  m_EditorClassIdentifier: 
+  number: 357
+  backgroundReference:
+    m_AssetGUID: 75c2d4dd8b326a94ab491e920b2401c8
+    m_SubObjectName: Kilimondjaro_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0432\u043A\u043E\u043E\u0441\u0442"
+    wordsAmount: 5
+    words:
+    - "\u0441\u043E\u0432\u043E\u043A"
+    - "\u0441\u0442\u043E\u043A"
+    - "\u043E\u0442\u043A\u043E\u0441"
+    - "\u0432\u043E\u0441\u0442\u043E\u043A"
+    - "\u043E\u0441\u0442\u043E\u0432"
+    - "\u0432\u043E\u0441\u043A"
+    - "\u0441\u043A\u043E\u0442"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0441\u043E\u0432\u043E\u043A"
+        wordNumber: 6
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0442\u043E\u043A"
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043E\u0442\u043A\u043E\u0441"
+        wordNumber: 3
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u043E\u0441\u0442\u043E\u043A"
+        wordNumber: 4
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043E\u0441\u0442\u043E\u0432"
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u043E\u0441\u043A"
+        wordNumber: 5
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043A\u043E\u0442"
+        wordNumber: 7
+        startPosition: {x: 9, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "      \u0432  \u0441|\u0432    \u0441\u043E\u0432\u043E\u043A|\u043E 
+        \u043E  \u0441  \u043E|\u0441  \u0441\u0442\u043E\u043A  \u0442|\u0442  \u0442     
+        |\u043E\u0442\u043A\u043E\u0441     |\u043A  \u0432      "
+  - language: es
+    letters: adirud
+    wordsAmount: 5
+    words:
+    - dad
+    - dura
+    - druida
+    - dar
+    - dudar
+    - duda
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: dar
+        wordNumber: 6
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dad
+        wordNumber: 4
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dudar
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: duda
+        wordNumber: 3
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: druida
+        wordNumber: 2
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dura
+        wordNumber: 5
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '      dar |  dad u   |    r r   |   dudar  |    i     |  duda   
+        |    a     '
+  - language: de
+    letters: aeklme
+    wordsAmount: 5
+    words:
+    - klee
+    - ekel
+    - alm
+    - makel
+    - kam
+    - kamele
+    - kamel
+    - mal
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: ekel
+        wordNumber: 7
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: makel
+        wordNumber: 2
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mal
+        wordNumber: 3
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kamel
+        wordNumber: 6
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kam
+        wordNumber: 5
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: klee
+        wordNumber: 4
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: alm
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kamele
+        wordNumber: 8
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: '       k  |ekel   a  | a   a m  | makel e  |   l mal  |  
+        e   e  |kamel     '
+  - language: pt
+    letters: acerur
+    wordsAmount: 5
+    words:
+    - cru
+    - recuar
+    - cera
+    - crer
+    - cura
+    - crua
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: crer
+        wordNumber: 3
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cura
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cru
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: crua
+        wordNumber: 5
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: recuar
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cera
+        wordNumber: 6
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 6, y: 6}
+      serializedGrid: '          |crer c    |   e e    |   cura   | cru a    |  
+        a      |  crua    '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

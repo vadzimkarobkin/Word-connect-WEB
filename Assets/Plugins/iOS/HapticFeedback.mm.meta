@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: cbfaede381004ac784b15b5491659521
+timeCreated: 1729853676
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/Plugins/iOS/HapticFeedback.mm
+  uploadId: 784234

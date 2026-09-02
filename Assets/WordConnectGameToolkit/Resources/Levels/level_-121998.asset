@@ -1,0 +1,348 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-121998
+  m_EditorClassIdentifier: 
+  number: 194
+  backgroundReference:
+    m_AssetGUID: 0d8556bb0fbf59842b636cfbb801ee3e
+    m_SubObjectName: Windsor Castle_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u043C\u043D\u0440\u0443\u044F"
+    wordsAmount: 5
+    words:
+    - "\u0440\u0443\u043C\u044F\u043D\u0430"
+    - "\u0443\u0440\u0430\u043D"
+    - "\u043C\u0443\u0430\u0440"
+    - "\u043C\u0443\u0440\u0430"
+    - "\u0440\u0443\u043D\u0430"
+    - "\u0430\u043C\u0443\u0440"
+    - "\u0443\u0440\u043D\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0440\u0443\u043C\u044F\u043D\u0430"
+        wordNumber: 6
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0443\u0440\u0430\u043D"
+        wordNumber: 5
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0443\u0430\u0440"
+        wordNumber: 1
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0443\u0440\u0430"
+        wordNumber: 3
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0443\u043D\u0430"
+        wordNumber: 2
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u043C\u0443\u0440"
+        wordNumber: 4
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0443\u0440\u043D\u0430"
+        wordNumber: 7
+        startPosition: {x: 9, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "          | \u0440\u0443\u043C\u044F\u043D\u0430  \u0443|     
+        \u043C  \u0440|    \u0440 \u0443\u0440\u0430\u043D|   \u043C\u0443\u0430\u0440 
+        \u0430|    \u043D     | \u043C\u0443\u0440\u0430     "
+  - language: es
+    letters: denoss
+    wordsAmount: 5
+    words:
+    - sed
+    - sendos
+    - done
+    - dos
+    - esos
+    - don
+    - denso
+    - son
+    - des
+    - eso
+    - nos
+    crosswordData:
+      columns: 12
+      rows: 15
+      placements:
+      - word: eso
+        wordNumber: 2
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: denso
+        wordNumber: 3
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: des
+        wordNumber: 7
+        startPosition: {x: 8, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sendos
+        wordNumber: 6
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nos
+        wordNumber: 11
+        startPosition: {x: 4, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dos
+        wordNumber: 9
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: don
+        wordNumber: 8
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: done
+        wordNumber: 10
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: esos
+        wordNumber: 5
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: son
+        wordNumber: 1
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sed
+        wordNumber: 4
+        startPosition: {x: 8, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 10, y: 8}
+      serializedGrid: '      eso   |       o    |     denso  | d d  s e   | o o 
+        o des | sendos     |    o       |    nos     |    e       |            |           
+        |            |            |            |            '
+  - language: de
+    letters: acehls
+    wordsAmount: 5
+    words:
+    - lache
+    - schale
+    - lasche
+    - hase
+    - elch
+    - schal
+    - achsel
+    - hals
+    - lachs
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: hase
+        wordNumber: 5
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lache
+        wordNumber: 9
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: achsel
+        wordNumber: 1
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lasche
+        wordNumber: 4
+        startPosition: {x: 4, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lachs
+        wordNumber: 6
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: hals
+        wordNumber: 7
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: elch
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: schal
+        wordNumber: 3
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: schale
+        wordNumber: 8
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 9}
+      serializedGrid: 'l h   s   |a a   c   |c l   h   |hase lache|s  l  l   |  achsel 
+        |   h c    |     h    |    lasche|     l    '
+  - language: pt
+    letters: "aglo\xE7o"
+    wordsAmount: 5
+    words:
+    - logo
+    - gola
+    - galo
+    - lago
+    - algo
+    - "gola\xE7o"
+    - "la\xE7o"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "gola\xE7o"
+        wordNumber: 5
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gola
+        wordNumber: 6
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: logo
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lago
+        wordNumber: 3
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: algo
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: galo
+        wordNumber: 7
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "la\xE7o"
+        wordNumber: 4
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "    gola\xE7o|      a   |gola  \xE7   |   logo   |   g a   
+        |lago l    |     o    "
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251004181130
+  m_EditorClassIdentifier: 
+  groupName: "\u0421\u043E\u0431\u043E\u0440 \u0421\u0432\u044F\u0442\u043E\u0433\u043E
+    \u041F\u0435\u0442\u0440\u0430"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 53f107682d99ef341b407bc4e2117545, type: 2}
+  - {fileID: 11400000, guid: 4272bb9e52970954ab621e9c1ae7b8a3, type: 2}
+  - {fileID: 11400000, guid: 07d02f4a186ec8548af2ad069e78dcfc, type: 2}
+  - {fileID: 11400000, guid: ce3d75fcbaf9ac44f91d9c78f944f6bd, type: 2}
+  - {fileID: 11400000, guid: 4c9282ea94461334dabb2146f5e187ce, type: 2}
+  - {fileID: 11400000, guid: a918f164bfeb430429846382506bf18e, type: 2}
+  - {fileID: 11400000, guid: 7eb7751421f889b4aba293dba8aaa6d0, type: 2}
+  - {fileID: 11400000, guid: 6e38b2417fa1adb4d9850eea68477b60, type: 2}
+  - {fileID: 11400000, guid: 566adbbe0ce25144299a9dbbda2b32a4, type: 2}
+  - {fileID: 11400000, guid: f966554af3b3c1e459de96483a32f540, type: 2}
+  backgroundReference:
+    m_AssetGUID: 120ade1a62e419742a00a6cd9e3f8fcd
+    m_SubObjectName: StPeter_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0421\u043E\u0431\u043E\u0440 \u0421\u0432\u044F\u0442\u043E\u0433\u043E
+      \u041F\u0435\u0442\u0440\u0430"
+    text: "\u0421\u043E\u0431\u043E\u0440 \u0421\u0432\u044F\u0442\u043E\u0433\u043E
+      \u041F\u0435\u0442\u0440\u0430 \u0432 \u0420\u0438\u043C\u0435 \u043E\u0441\u0432\u044F\u0449\u0451\u043D
+      \u0432 1626 \u0433\u043E\u0434\u0443, \u043A\u0443\u043F\u043E\u043B \u0441\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043B
+      \u041C\u0438\u043A\u0435\u043B\u0430\u043D\u0434\u0436\u0435\u043B\u043E, \u043F\u043E\u0434
+      \u0430\u043B\u0442\u0430\u0440\u0451\u043C \u043F\u043E\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F
+      \u043C\u0435\u0441\u0442\u043E \u0437\u0430\u0445\u043E\u0440\u043E\u043D\u0435\u043D\u0438\u044F
+      \u0430\u043F\u043E\u0441\u0442\u043E\u043B\u0430 \u041F\u0435\u0442\u0440\u0430."
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  targetExtraWords: 8

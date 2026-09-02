@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-79134
+  m_EditorClassIdentifier: 
+  number: 454
+  backgroundReference:
+    m_AssetGUID: a3fd66d0e6ad8904699a33f343764290
+    m_SubObjectName: SkyBridge_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0431\u0433\u0435\u043E\u043F\u0440"
+    wordsAmount: 5
+    words:
+    - "\u043F\u0435\u0440\u043E"
+    - "\u043F\u0440\u043E\u0431\u0435\u0433"
+    - "\u0433\u0435\u0440\u0431"
+    - "\u0433\u043E\u0440\u0431"
+    - "\u043F\u043E\u0433\u0440\u0435\u0431"
+    - "\u043F\u043E\u0431\u0435\u0433"
+    - "\u0433\u043E\u0440\u0435"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043F\u0435\u0440\u043E"
+        wordNumber: 7
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0440\u043E\u0431\u0435\u0433"
+        wordNumber: 2
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u0435\u0440\u0431"
+        wordNumber: 5
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043E\u0440\u0431"
+        wordNumber: 3
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u043E\u0433\u0440\u0435\u0431"
+        wordNumber: 4
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u043E\u0431\u0435\u0433"
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043E\u0440\u0435"
+        wordNumber: 6
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "   \u043F      |\u043F\u0435\u0440\u043E \u043F    |   \u0433
+        \u043E    |  \u043F\u0440\u043E\u0431\u0435\u0433  |   \u0435 \u0435 \u043E 
+        |\u0433\u0435\u0440\u0431 \u0433\u043E\u0440\u0431 |       \u0435  "
+  - language: es
+    letters: deosos
+    wordsAmount: 5
+    words:
+    - sed
+    - sedoso
+    - des
+    - oso
+    - osos
+    - esos
+    - dos
+    - soso
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: osos
+        wordNumber: 3
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: des
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: soso
+        wordNumber: 5
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sed
+        wordNumber: 4
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: oso
+        wordNumber: 6
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dos
+        wordNumber: 8
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sedoso
+        wordNumber: 2
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: esos
+        wordNumber: 7
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 6, y: 6}
+      serializedGrid: ' d    e   | osos s   | s  e o   |    des   | soso     |   
+        sed   |  oso     '
+  - language: de
+    letters: amnotA
+    wordsAmount: 5
+    words:
+    - monat
+    - man
+    - anatom
+    - not
+    - oma
+    - ton
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: anatom
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ton
+        wordNumber: 3
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: not
+        wordNumber: 4
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: oma
+        wordNumber: 5
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: man
+        wordNumber: 2
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: monat
+        wordNumber: 6
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: '    m     |    o     |n m n     |o anatom  |ton t     | m       
+        | a        '
+  - language: pt
+    letters: ainotv
+    wordsAmount: 5
+    words:
+    - ova
+    - vai
+    - nativo
+    - voa
+    - ativo
+    - navio
+    - noiva
+    - tio
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: nativo
+        wordNumber: 2
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: voa
+        wordNumber: 3
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tio
+        wordNumber: 5
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vai
+        wordNumber: 8
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: noiva
+        wordNumber: 7
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ativo
+        wordNumber: 4
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ova
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: navio
+        wordNumber: 6
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 2}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '          |          |nativo n  | t   voa  |tio  a vai| v    
+        i  |noiva  o  '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 63f1377c90d84ec478676a869dc2a2c1, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

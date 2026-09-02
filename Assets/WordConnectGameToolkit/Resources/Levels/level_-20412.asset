@@ -1,0 +1,377 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-20412
+  m_EditorClassIdentifier: 
+  number: 148
+  backgroundReference:
+    m_AssetGUID: d3f10ba72c58c51488cca981eae2aca6
+    m_SubObjectName: chichen itza_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u043A\u043B\u043D\u043E\u0441\u0443"
+    wordsAmount: 5
+    words:
+    - "\u0441\u0443\u043A\u043D\u043E"
+    - "\u0443\u043A\u043B\u043E\u043D"
+    - "\u0441\u043A\u043B\u043E\u043D"
+    - "\u043A\u043B\u043E\u0443\u043D"
+    - "\u043A\u043E\u043D\u0441\u0443\u043B"
+    - "\u043A\u043E\u043D\u0443\u0441"
+    - "\u043A\u043E\u043B\u0443\u043D"
+    - "\u043A\u0443\u043B\u043E\u043D"
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: "\u0441\u0443\u043A\u043D\u043E"
+        wordNumber: 5
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0443\u043A\u043B\u043E\u043D"
+        wordNumber: 8
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043A\u043B\u043E\u043D"
+        wordNumber: 1
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043B\u043E\u0443\u043D"
+        wordNumber: 6
+        startPosition: {x: 3, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043E\u043D\u0441\u0443\u043B"
+        wordNumber: 3
+        startPosition: {x: 2, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043E\u043D\u0443\u0441"
+        wordNumber: 4
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043E\u043B\u0443\u043D"
+        wordNumber: 2
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0443\u043B\u043E\u043D"
+        wordNumber: 7
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 9, y: 9}
+      serializedGrid: "          | \u0441\u0443\u043A\u043D\u043E \u043A  |   \u043E  
+        \u0443  |   \u043D \u0443\u043A\u043B\u043E\u043D|   \u0443   \u043E  |  
+        \u0441\u043A\u043B\u043E\u043D  |    \u043E     |   \u043A\u043B\u043E\u0443\u043D 
+        |    \u0443     |  \u043A\u043E\u043D\u0441\u0443\u043B  "
+  - language: es
+    letters: "amort\xE9"
+    wordsAmount: 5
+    words:
+    - tramo
+    - rato
+    - "tomar\xE9"
+    - toma
+    - mota
+    - amor
+    - ato
+    - "am\xE9"
+    - ramo
+    - mar
+    - mora
+    - tomar
+    - amo
+    - "mat\xE9"
+    - otra
+    - roma
+    crosswordData:
+      columns: 12
+      rows: 15
+      placements:
+      - word: mota
+        wordNumber: 5
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: amo
+        wordNumber: 2
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "tomar\xE9"
+        wordNumber: 6
+        startPosition: {x: 6, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mora
+        wordNumber: 10
+        startPosition: {x: 1, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tramo
+        wordNumber: 3
+        startPosition: {x: 4, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rato
+        wordNumber: 8
+        startPosition: {x: 1, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ramo
+        wordNumber: 12
+        startPosition: {x: 7, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "am\xE9"
+        wordNumber: 15
+        startPosition: {x: 3, y: 12}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: amor
+        wordNumber: 9
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tomar
+        wordNumber: 14
+        startPosition: {x: 3, y: 9}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: roma
+        wordNumber: 4
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ato
+        wordNumber: 7
+        startPosition: {x: 4, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: toma
+        wordNumber: 16
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: otra
+        wordNumber: 1
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mar
+        wordNumber: 11
+        startPosition: {x: 7, y: 8}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "mat\xE9"
+        wordNumber: 13
+        startPosition: {x: 9, y: 10}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 11, y: 13}
+      serializedGrid: "      t     |      o     |    r m     |   mota     |    m      
+        |    amo     | a    tomar\xE9| mora r     | o  tramo   | rato  a    |   o  
+        ramo |   m     a  |   am\xE9   t  |   r     \xE9  |            "
+  - language: de
+    letters: bdeilr
+    wordsAmount: 5
+    words:
+    - bild
+    - dieb
+    - lieb
+    - bier
+    - bilder
+    - derb
+    - brei
+    - blei
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: dieb
+        wordNumber: 7
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lieb
+        wordNumber: 3
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bild
+        wordNumber: 5
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: blei
+        wordNumber: 2
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bier
+        wordNumber: 6
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bilder
+        wordNumber: 4
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: derb
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: brei
+        wordNumber: 8
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: 'dieb      |   i d  b |   lieb r |bild r  e |   e blei |bier     
+        |          '
+  - language: pt
+    letters: imortz
+    wordsAmount: 5
+    words:
+    - tiro
+    - ritmo
+    - mito
+    - motriz
+    - trio
+    - tom
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: ritmo
+        wordNumber: 4
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tiro
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: trio
+        wordNumber: 3
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mito
+        wordNumber: 5
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: motriz
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tom
+        wordNumber: 6
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 6, y: 6}
+      serializedGrid: ' m        |ritmo     | t o  t   | o tiro   |   r  m   | trio    
+        |   z      '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

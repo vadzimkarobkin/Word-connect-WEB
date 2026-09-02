@@ -1,0 +1,306 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-26924
+  m_EditorClassIdentifier: 
+  number: 246
+  backgroundReference:
+    m_AssetGUID: f1d3c69d224bfc24580210366a25479e
+    m_SubObjectName: Praga_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0435\u043B\u043C\u043E\u0442\u044C"
+    wordsAmount: 5
+    words:
+    - "\u043B\u0435\u0442\u043E"
+    - "\u043E\u043C\u043B\u0435\u0442"
+    - "\u043E\u0442\u0435\u043B\u044C"
+    - "\u043C\u0435\u043B\u044C"
+    - "\u043E\u0442\u043C\u0435\u043B\u044C"
+    - "\u043C\u043E\u043B\u044C"
+    - "\u0442\u0435\u043B\u043E"
+    - "\u043C\u043E\u0442\u0435\u043B\u044C"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043B\u0435\u0442\u043E"
+        wordNumber: 6
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043E\u043C\u043B\u0435\u0442"
+        wordNumber: 2
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043E\u0442\u0435\u043B\u044C"
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0435\u043B\u044C"
+        wordNumber: 8
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043E\u0442\u043C\u0435\u043B\u044C"
+        wordNumber: 5
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u043E\u043B\u044C"
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0435\u043B\u043E"
+        wordNumber: 3
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u043E\u0442\u0435\u043B\u044C"
+        wordNumber: 7
+        startPosition: {x: 9, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "       \u0442 \u043C|\u043B\u0435\u0442\u043E \u043C \u0435
+        \u043E|   \u0442 \u043E\u043C\u043B\u0435\u0442|   \u043C \u043B \u043E \u0435|
+        \u043E\u0442\u0435\u043B\u044C   \u043B|   \u043B     \u044C|\u043C\u0435\u043B\u044C      "
+  - language: es
+    letters: aegrtu
+    wordsAmount: 5
+    words:
+    - tregua
+    - ruta
+    - era
+    - urge
+    - trae
+    - arte
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: trae
+        wordNumber: 3
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arte
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: urge
+        wordNumber: 6
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ruta
+        wordNumber: 4
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: era
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tregua
+        wordNumber: 5
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '          |trae  t   | u r  r   | t arte   | a    g   |     
+        urge|      a   '
+  - language: de
+    letters: ehinre
+    wordsAmount: 5
+    words:
+    - ehre
+    - einer
+    - hirn
+    - ehren
+    - herein
+    - eher
+    - reihe
+    - ire
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: ire
+        wordNumber: 8
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: herein
+        wordNumber: 6
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ehren
+        wordNumber: 4
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: hirn
+        wordNumber: 2
+        startPosition: {x: 6, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ehre
+        wordNumber: 3
+        startPosition: {x: 3, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: einer
+        wordNumber: 7
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eher
+        wordNumber: 5
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: reihe
+        wordNumber: 1
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 8}
+      serializedGrid: ' e          | ire        | n          |herein      | r h 
+        r     |   ehren    |   r  i     |      hirn  |   ehre     |            |           
+        |            '
+  - language: pt
+    letters: acinva
+    wordsAmount: 5
+    words:
+    - vai
+    - vacina
+    - cana
+    - anca
+    - via
+    - van
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: vai
+        wordNumber: 3
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cana
+        wordNumber: 5
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: via
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vacina
+        wordNumber: 6
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: van
+        wordNumber: 4
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: anca
+        wordNumber: 2
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '     vai  |      n   |      cana|    via   |    a     |vacina   
+        |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a12d796a4e51a490ba1b356759dcdbbb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Animations/GUI/Popup/Score_Adveture.controller
+  uploadId: 784234

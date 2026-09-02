@@ -1,0 +1,299 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-45998
+  m_EditorClassIdentifier: 
+  number: 162
+  backgroundReference:
+    m_AssetGUID: 462218448ccdb6444a4b91304b8272e9
+    m_SubObjectName: BigBen_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0434\u0440\u0441\u0443\u044C"
+    wordsAmount: 5
+    words:
+    - "\u0441\u0443\u0434"
+    - "\u0434\u0430\u0440"
+    - "\u0440\u0443\u0434\u0430"
+    - "\u0434\u0443\u0440\u044C"
+    - "\u0443\u0434\u0430\u0440"
+    - "\u0441\u0430\u0434"
+    - "\u0441\u0443\u0434\u0430\u0440\u044C"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0441\u0443\u0434"
+        wordNumber: 7
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0434\u0430\u0440"
+        wordNumber: 4
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0443\u0434\u0430"
+        wordNumber: 5
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0434\u0443\u0440\u044C"
+        wordNumber: 2
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0443\u0434\u0430\u0440"
+        wordNumber: 6
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0430\u0434"
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0443\u0434\u0430\u0440\u044C"
+        wordNumber: 3
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |\u0441\u0443\u0434   \u0441   | \u0434    \u0443  
+        | \u0430  \u0441 \u0434\u0430\u0440 | \u0440\u0443\u0434\u0430 \u0430   |   
+        \u0434\u0443\u0440\u044C  |      \u044C   "
+  - language: es
+    letters: diopod
+    wordsAmount: 5
+    words:
+    - podio
+    - odio
+    - ido
+    - podido
+    - dio
+    - pido
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: podido
+        wordNumber: 1
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: odio
+        wordNumber: 2
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dio
+        wordNumber: 3
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pido
+        wordNumber: 4
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: podio
+        wordNumber: 5
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 6, y: 5}
+      serializedGrid: '  d       |  i p p   | podido   |    d d   | odio i   |     
+        o   |          '
+  - language: de
+    letters: abfgir
+    wordsAmount: 5
+    words:
+    - farbig
+    - bar
+    - graf
+    - grab
+    - gab
+    - gar
+    - fair
+    - frag
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: gar
+        wordNumber: 7
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: farbig
+        wordNumber: 2
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: frag
+        wordNumber: 3
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gab
+        wordNumber: 8
+        startPosition: {x: 6, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: graf
+        wordNumber: 4
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fair
+        wordNumber: 5
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bar
+        wordNumber: 1
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: grab
+        wordNumber: 6
+        startPosition: {x: 7, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 9}
+      serializedGrid: '          |  g f     |gar a     |  a i     |  farbig  |    
+        a    |    frag  |       r  |      gab |       b  '
+  - language: pt
+    letters: acehln
+    wordsAmount: 5
+    words:
+    - lhe
+    - cela
+    - lanche
+    - cal
+    - acne
+    - cena
+    - lenha
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: acne
+        wordNumber: 2
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cal
+        wordNumber: 5
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lhe
+        wordNumber: 3
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cena
+        wordNumber: 7
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cela
+        wordNumber: 6
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lanche
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lenha
+        wordNumber: 4
+        startPosition: {x: 8, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '     l  l |     acne |     n  n |   c c  h |   e h cal|  
+        lhe    |cena      '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

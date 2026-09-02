@@ -1,0 +1,298 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-153482
+  m_EditorClassIdentifier: 
+  number: 419
+  backgroundReference:
+    m_AssetGUID: 78be36de0d2e1194cbb8165397b74978
+    m_SubObjectName: TowerBridge_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0438\u043C\u043D\u0442\u044F"
+    wordsAmount: 5
+    words:
+    - "\u043C\u0430\u043D\u0442\u0438\u044F"
+    - "\u0442\u043C\u0438\u043D"
+    - "\u043C\u0430\u043D\u0438\u044F"
+    - "\u043C\u0438\u043D\u0430"
+    - "\u0442\u0438\u043D\u0430"
+    - "\u043C\u044F\u0442\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043C\u0430\u043D\u0442\u0438\u044F"
+        wordNumber: 4
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u043C\u0438\u043D"
+        wordNumber: 2
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0430\u043D\u0438\u044F"
+        wordNumber: 5
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0438\u043D\u0430"
+        wordNumber: 3
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0438\u043D\u0430"
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u044F\u0442\u0430"
+        wordNumber: 6
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: "       \u043C  |  \u043C\u0430\u043D\u0442\u0438\u044F  |    
+        \u0438 \u0442  |  \u0442\u043C\u0438\u043D \u0430  |   \u0438 \u0430    |  
+        \u043D      |  \u043C\u0430\u043D\u0438\u044F   "
+  - language: es
+    letters: degimo
+    wordsAmount: 5
+    words:
+    - medio
+    - dime
+    - gemido
+    - mio
+    - dio
+    - miedo
+    - digo
+    - mide
+    - ido
+    crosswordData:
+      columns: 12
+      rows: 10
+      placements:
+      - word: mide
+        wordNumber: 5
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ido
+        wordNumber: 2
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: miedo
+        wordNumber: 3
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gemido
+        wordNumber: 7
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dio
+        wordNumber: 9
+        startPosition: {x: 3, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dime
+        wordNumber: 8
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: medio
+        wordNumber: 4
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: digo
+        wordNumber: 6
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mio
+        wordNumber: 1
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 10, y: 7}
+      serializedGrid: 'd           |i  m        |mide  m     |e  d  ido   |  miedo    
+        |   o i      |     gemido |   dio      |            |            '
+  - language: de
+    letters: abirta
+    wordsAmount: 5
+    words:
+    - bit
+    - bart
+    - brat
+    - abi
+    - abt
+    - rabiat
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: brat
+        wordNumber: 6
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rabiat
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bit
+        wordNumber: 5
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: abi
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: abt
+        wordNumber: 3
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bart
+        wordNumber: 4
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '       b  |     brat |       r  |  rabiat  |   b  b   |  bit
+        t   |          '
+  - language: pt
+    letters: achlua
+    wordsAmount: 5
+    words:
+    - laca
+    - aula
+    - acha
+    - lua
+    - cal
+    - calhau
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: cal
+        wordNumber: 5
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: calhau
+        wordNumber: 3
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aula
+        wordNumber: 2
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lua
+        wordNumber: 4
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: laca
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: acha
+        wordNumber: 6
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 4}
+      serializedGrid: 'cal       |  u  l  a | calhau c |     c  h |     aula |         
+        |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

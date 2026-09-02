@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4017410999f44635baa4cb3bb8320b4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Audio/AudioMixer.mixer
+  uploadId: 784234

@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-1048936
+  m_EditorClassIdentifier: 
+  number: 694
+  backgroundReference:
+    m_AssetGUID: 700897bda58965d48a0809242e393d95
+    m_SubObjectName: Ponte di Rialto_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u043B\u043D\u043E\u043F\u044B\u044C\u044F"
+    wordsAmount: 5
+    words:
+    - "\u043D\u043E\u043B\u044C"
+    - "\u043B\u044F\u043F"
+    - "\u043F\u044B\u043B"
+    - "\u043F\u043E\u043B\u044B\u043D\u044C\u044F"
+    - "\u043F\u044B\u043B\u044C"
+    - "\u043F\u043E\u043B\u044B\u043D\u044C"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043D\u043E\u043B\u044C"
+        wordNumber: 4
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u044F\u043F"
+        wordNumber: 6
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u044B\u043B"
+        wordNumber: 3
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u043E\u043B\u044B\u043D\u044C\u044F"
+        wordNumber: 2
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u044B\u043B\u044C"
+        wordNumber: 5
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u043E\u043B\u044B\u043D\u044C"
+        wordNumber: 1
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "      \u043F   |     \u043D\u043E\u043B\u044C |      \u043B  
+        | \u043B\u044F\u043F \u043F\u044B\u043B  |   \u044B  \u043D   | \u043F\u043E\u043B\u044B\u043D\u044C\u044F 
+        |   \u044C      "
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 7
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-136794
+  m_EditorClassIdentifier: 
+  number: 373
+  backgroundReference:
+    m_AssetGUID: 56ea35c3c9f82a54991adf8dd7cc274f
+    m_SubObjectName: Barcelona_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0432\u0437\u0438\u0442\u044C\u044F"
+    wordsAmount: 5
+    words:
+    - "\u0432\u0438\u0442\u044F\u0437\u044C"
+    - "\u044F\u0437\u044C"
+    - "\u0432\u044F\u0437\u044C"
+    - "\u044F\u0432\u044C"
+    - "\u0437\u044F\u0442\u044C"
+    - "\u0432\u044F\u0437"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0432\u0438\u0442\u044F\u0437\u044C"
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u044F\u0437\u044C"
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u044F\u0437\u044C"
+        wordNumber: 5
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u044F\u0432\u044C"
+        wordNumber: 3
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0437\u044F\u0442\u044C"
+        wordNumber: 2
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u044F\u0437"
+        wordNumber: 6
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |     \u0437 \u0432  |   \u044F \u044F \u044F  |
+        \u0432 \u0432\u0438\u0442\u044F\u0437\u044C | \u044F\u0437\u044C \u044C   
+        | \u0437        | \u044C        "
+  - language: es
+    letters: ijorzo
+    wordsAmount: 5
+    words:
+    - ojo
+    - zoo
+    - oro
+    - rojizo
+    - rizo
+    - rojo
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: ojo
+        wordNumber: 5
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rizo
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rojo
+        wordNumber: 6
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rojizo
+        wordNumber: 3
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: oro
+        wordNumber: 4
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: zoo
+        wordNumber: 2
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 2}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '          |          | ojo      |   rizo   |rojo o    |   
+        rojizo|          '
+  - language: de
+    letters: eilrte
+    wordsAmount: 5
+    words:
+    - leert
+    - teiler
+    - eile
+    - leiter
+    - teer
+    - tee
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: tee
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: teer
+        wordNumber: 6
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: leert
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eile
+        wordNumber: 5
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: teiler
+        wordNumber: 2
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: leiter
+        wordNumber: 4
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '   t   l  |  tee teer|   i   i  |   leert  |eile   e  |  
+        r   r  |          '
+  - language: pt
+    letters: ablrur
+    wordsAmount: 5
+    words:
+    - bar
+    - burlar
+    - lar
+    - lua
+    - luar
+    - rua
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: burlar
+        wordNumber: 1
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rua
+        wordNumber: 2
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bar
+        wordNumber: 3
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lua
+        wordNumber: 4
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: luar
+        wordNumber: 5
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 6, y: 5}
+      serializedGrid: '      l   |   b  u   |   a  a   | burlar   |    u     |  rua    
+        |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

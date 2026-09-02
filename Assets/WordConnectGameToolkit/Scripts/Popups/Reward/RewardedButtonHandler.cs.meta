@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dece0aac2cf9463587dade7a67633f5d
+timeCreated: 1726040785
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/Popups/Reward/RewardedButtonHandler.cs
+  uploadId: 784234

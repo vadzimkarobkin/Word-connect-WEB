@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f8db584e12f064b5394202d3de807d71
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Prefabs/Managers/VirtualMouseCanvas.prefab
+  uploadId: 784234

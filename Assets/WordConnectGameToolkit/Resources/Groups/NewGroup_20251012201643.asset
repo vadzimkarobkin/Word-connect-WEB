@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251012201643
+  m_EditorClassIdentifier: 
+  groupName: "\u042D\u0440\u043C\u0438\u0442\u0430\u0436"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: bf23d2c8af8b03e478308d82f462ecb5, type: 2}
+  - {fileID: 11400000, guid: 625aea8d17dd3e64a9711a0b59463842, type: 2}
+  - {fileID: 11400000, guid: 1dbe810e96c61344b94f7a7e17deaea4, type: 2}
+  - {fileID: 11400000, guid: 36ab265156a012e41b7290fb800b384e, type: 2}
+  - {fileID: 11400000, guid: 45d89e814d1a7ca418f8a8d2167becf2, type: 2}
+  - {fileID: 11400000, guid: f8b987db2e66f4f47ad6e33a7d6e2ca9, type: 2}
+  - {fileID: 11400000, guid: a5bd2964cb250e84398eed0923759929, type: 2}
+  - {fileID: 11400000, guid: 45dc4bc9c1045214b83e86ba3781841c, type: 2}
+  - {fileID: 11400000, guid: ce3fafdb4e3d14145839f91123512860, type: 2}
+  - {fileID: 11400000, guid: 51d85046740e4de40b4b378ccfd31335, type: 2}
+  - {fileID: 11400000, guid: fd6d393ab209ae04f8d7df775dabc4da, type: 2}
+  - {fileID: 11400000, guid: 6f82ef59b9e878240aa67fbc4c54a028, type: 2}
+  - {fileID: 11400000, guid: b2d32874330e5ff47b3817ea907d8104, type: 2}
+  - {fileID: 11400000, guid: 3a4408a8f8c6fd54b92dd5d9e2a5da7e, type: 2}
+  - {fileID: 11400000, guid: bfd940b5075be5f44ab1427132277b3f, type: 2}
+  backgroundReference:
+    m_AssetGUID: 65f07fea4bb63fe4baf49aacfd4c028c
+    m_SubObjectName: SPB1_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u042D\u0440\u043C\u0438\u0442\u0430\u0436"
+    text: "\u042D\u0440\u043C\u0438\u0442\u0430\u0436 \u0432\u044B\u0440\u043E\u0441
+      \u0438\u0437 \u0441\u043E\u0431\u0440\u0430\u043D\u0438\u044F, \u043D\u0430\u0447\u0430\u0442\u043E\u0433\u043E
+      \u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u043E\u0439 II \u0432 1764
+      \u0433\u043E\u0434\u0443 \u2014 \u043F\u0435\u0440\u0432\u044B\u0435 \u043A\u0430\u0440\u0442\u0438\u043D\u044B
+      \u043A\u0443\u043F\u043B\u0435\u043D\u044B \u0443 \u0431\u0435\u0440\u043B\u0438\u043D\u0441\u043A\u043E\u0433\u043E
+      \u043A\u043E\u043B\u043B\u0435\u043A\u0446\u0438\u043E\u043D\u0435\u0440\u0430
+      \u0418. \u0413\u043E\u0446\u043A\u043E\u0432\u0441\u043A\u043E\u0433\u043E."
+  colorsTile: {fileID: 11400000, guid: e8a60425bb67f42618a943883b553d29, type: 2}
+  targetExtraWords: 8

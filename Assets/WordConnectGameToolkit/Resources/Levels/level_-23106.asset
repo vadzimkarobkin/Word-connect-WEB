@@ -1,0 +1,291 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-23106
+  m_EditorClassIdentifier: 
+  number: 393
+  backgroundReference:
+    m_AssetGUID: 7a7bf2a2cb7c16245adc210172358c25
+    m_SubObjectName: Freedom_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0432\u043B\u043E\u043E\u0441\u0446"
+    wordsAmount: 5
+    words:
+    - "\u0441\u043B\u043E\u0432\u0446\u043E"
+    - "\u0441\u043B\u043E\u0432\u043E"
+    - "\u0432\u043E\u043B\u043E\u0441"
+    - "\u043B\u043E\u0432"
+    - "\u0441\u043E\u043B\u043E"
+    - "\u0432\u043E\u043B"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0441\u043B\u043E\u0432\u0446\u043E"
+        wordNumber: 2
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043B\u043E\u0432\u043E"
+        wordNumber: 3
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u043E\u043B\u043E\u0441"
+        wordNumber: 4
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u043E\u0432"
+        wordNumber: 5
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u043E\u043B\u043E"
+        wordNumber: 1
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u043E\u043B"
+        wordNumber: 6
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "  \u0432 \u043B     |  \u043E \u043E \u0441   | \u0441\u043B\u043E\u0432\u0446\u043E  
+        |  \u043E   \u043B   |  \u0441 \u0441\u043B\u043E\u0432\u043E |       \u043E 
+        |       \u043B  "
+  - language: es
+    letters: abilrr
+    wordsAmount: 5
+    words:
+    - abril
+    - libra
+    - barril
+    - librar
+    - iba
+    - bar
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: librar
+        wordNumber: 5
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bar
+        wordNumber: 3
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: iba
+        wordNumber: 4
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: abril
+        wordNumber: 2
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: libra
+        wordNumber: 6
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: barril
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '   librar | l   a    | i bar    | b   r    | r   iba  | abril   
+        |          '
+  - language: de
+    letters: agpsta
+    wordsAmount: 5
+    words:
+    - gas
+    - tags
+    - aas
+    - spagat
+    - sagt
+    - sag
+    - pasta
+    - gast
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: tags
+        wordNumber: 4
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aas
+        wordNumber: 5
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sag
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gas
+        wordNumber: 7
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gast
+        wordNumber: 3
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: spagat
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sagt
+        wordNumber: 6
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pasta
+        wordNumber: 8
+        startPosition: {x: 9, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '  tags    |     p    |     aas p|   sag a a|     a gas|  gast
+        t t|         a'
+  - language: pt
+    letters: loruvo
+    wordsAmount: 5
+    words:
+    - louvor
+    - ouro
+    - ovo
+    - voo
+    - rolo
+    - vou
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: vou
+        wordNumber: 3
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ovo
+        wordNumber: 5
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: louvor
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ouro
+        wordNumber: 2
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: voo
+        wordNumber: 6
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rolo
+        wordNumber: 4
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '  vou r   |   u  ovo |   r  l   |  louvor  |     o    |    
+        o    |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

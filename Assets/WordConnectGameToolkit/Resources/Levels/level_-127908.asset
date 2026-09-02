@@ -1,0 +1,298 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-127908
+  m_EditorClassIdentifier: 
+  number: 464
+  backgroundReference:
+    m_AssetGUID: 0e0dcdde9d3c11a4d8bd73f5274fe484
+    m_SubObjectName: Kronborg_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0430\u0431\u0437\u043A\u0443"
+    wordsAmount: 5
+    words:
+    - "\u0443\u043A\u0430\u0437"
+    - "\u0431\u0430\u043A"
+    - "\u0431\u0430\u0437\u0430"
+    - "\u043A\u0443\u0431"
+    - "\u0430\u0437\u0431\u0443\u043A\u0430"
+    - "\u0431\u0443\u043A"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0443\u043A\u0430\u0437"
+        wordNumber: 5
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u043A"
+        wordNumber: 3
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u0437\u0430"
+        wordNumber: 2
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0443\u0431"
+        wordNumber: 6
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u0437\u0431\u0443\u043A\u0430"
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0443\u043A"
+        wordNumber: 4
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 7, y: 5}
+      serializedGrid: "  \u043A  \u0430 \u0431  |  \u0443\u043A\u0430\u0437 \u0443 
+        |  \u0431  \u0431\u0430\u043A  |     \u0443    |     \u043A    |    \u0431\u0430\u0437\u0430 
+        |          "
+  - language: es
+    letters: "aber\xF1a"
+    wordsAmount: 5
+    words:
+    - abra
+    - area
+    - raba
+    - "ba\xF1era"
+    - abre
+    - bar
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: bar
+        wordNumber: 6
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: area
+        wordNumber: 4
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: abre
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: abra
+        wordNumber: 3
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: raba
+        wordNumber: 5
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "ba\xF1era"
+        wordNumber: 2
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: "  r  b    | bar area |  b  \xF1    |  abre    |     r    |    
+        abra |          "
+  - language: de
+    letters: abderv
+    wordsAmount: 5
+    words:
+    - bad
+    - adverb
+    - verb
+    - bar
+    - aber
+    - rabe
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: adverb
+        wordNumber: 3
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: verb
+        wordNumber: 2
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aber
+        wordNumber: 6
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rabe
+        wordNumber: 4
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bar
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bad
+        wordNumber: 5
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '          |r         |adverb    |b    a    |e  verb   |     
+        aber|      d   '
+  - language: pt
+    letters: aenrst
+    wordsAmount: 5
+    words:
+    - estar
+    - esta
+    - arte
+    - antes
+    - seta
+    - rena
+    - sentar
+    - reta
+    - ter
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: estar
+        wordNumber: 6
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ter
+        wordNumber: 4
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: esta
+        wordNumber: 3
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arte
+        wordNumber: 2
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: seta
+        wordNumber: 9
+        startPosition: {x: 3, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sentar
+        wordNumber: 7
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: antes
+        wordNumber: 5
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: reta
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rena
+        wordNumber: 8
+        startPosition: {x: 6, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 9}
+      serializedGrid: 's         |estar     |n  n      |t  ter    |a  e esta |r 
+        s t    |     arte |      e   |      n   |   seta   '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251003122324
+  m_EditorClassIdentifier: 
+  groupName: "\u0427\u0438\u0447\u0435\u043D \u0438\u0446\u0430"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: cc02321c97904a84da574405f6c3ce98, type: 2}
+  - {fileID: 11400000, guid: 546a226fa00551346b87b7b629632a63, type: 2}
+  - {fileID: 11400000, guid: 4a18036571c2df0449e5133ad16a8577, type: 2}
+  - {fileID: 11400000, guid: ee5d5cc058881fc4abd7fb40f582572d, type: 2}
+  - {fileID: 11400000, guid: c0eada7dcf7a56d44b1d9e8cd3f31e56, type: 2}
+  - {fileID: 11400000, guid: 32290268d67b4c84f9985dccefe6ffbc, type: 2}
+  - {fileID: 11400000, guid: 597e361ac40b3fc48914934060864ac9, type: 2}
+  - {fileID: 11400000, guid: 9c5775d7b58589843a02d3f8a7162921, type: 2}
+  - {fileID: 11400000, guid: 9b4854d10b0c34c45ae25b66d6c2d4ae, type: 2}
+  - {fileID: 11400000, guid: b2388c1d4e84c6c40af2c1ce0c3037b3, type: 2}
+  backgroundReference:
+    m_AssetGUID: d3f10ba72c58c51488cca981eae2aca6
+    m_SubObjectName: chichen itza_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0427\u0438\u0447\u0435\u043D-\u0418\u0446\u0430"
+    text: "\u0412 \u0427\u0438\u0447\u0435\u043D-\u0418\u0446\u0435 \u043F\u0438\u0440\u0430\u043C\u0438\u0434\u0430
+      \u041A\u0443\u043A\u0443\u043B\u044C\u043A\u0430\u043D\u0430 \u0441\u043E\u0437\u0434\u0430\u0451\u0442
+      \u044D\u0444\u0444\u0435\u043A\u0442 \u0437\u043C\u0435\u0438 \u0432 \u0434\u043D\u0438
+      \u0440\u0430\u0432\u043D\u043E\u0434\u0435\u043D\u0441\u0442\u0432\u0438\u0439,
+      \u043A\u043E\u0433\u0434\u0430 \u0442\u0435\u043D\u0438 \u0441\u0442\u0443\u043F\u0435\u043D\u0435\u0439
+      \xAB\u0441\u043F\u0443\u0441\u043A\u0430\u044E\u0442\u0441\u044F\xBB \u043A
+      \u0440\u0435\u0437\u043D\u043E\u0439 \u0433\u043E\u043B\u043E\u0432\u0435 \u0443
+      \u043F\u043E\u0434\u043D\u043E\u0436\u0438\u044F."
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  targetExtraWords: 8

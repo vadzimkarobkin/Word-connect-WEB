@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251002162749
+  m_EditorClassIdentifier: 
+  groupName: "\u041F\u0435\u0442\u0440\u0430"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: e4a9a60e0014ed24f94eb87db3b532b6, type: 2}
+  - {fileID: 11400000, guid: 29b47c4201ea53c4bbd762fd64f0a095, type: 2}
+  - {fileID: 11400000, guid: c2827219ff92e2a4499cc4a4559fd128, type: 2}
+  - {fileID: 11400000, guid: 0ef40588841b12c4887046bab75c3537, type: 2}
+  - {fileID: 11400000, guid: 24b15f3ee058da94394b0c9748b6e5fa, type: 2}
+  - {fileID: 11400000, guid: 6ca36d90c807be240a89712813d28012, type: 2}
+  - {fileID: 11400000, guid: 2a814fdc498728c4498b6076e2a32faa, type: 2}
+  - {fileID: 11400000, guid: a33b9fd7984e6f146a8802b31cf45235, type: 2}
+  backgroundReference:
+    m_AssetGUID: 0ed5101cc9599da4591320e6306c0025
+    m_SubObjectName: Petra_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 3
+    text: Ferris 3
+  - language: ru
+    title: "\u041F\u0435\u0442\u0440\u0430"
+    text: "\u041F\u0435\u0442\u0440\u0430 \u043F\u0440\u043E\u0446\u0432\u0435\u0442\u0430\u043B\u0430
+      \u0431\u043B\u0430\u0433\u043E\u0434\u0430\u0440\u044F \u0432\u043E\u0434\u043E\u043F\u0440\u043E\u0432\u043E\u0434\u0430\u043C
+      \u0438 \u0446\u0438\u0441\u0442\u0435\u0440\u043D\u0430\u043C: \u0441\u043B\u043E\u0436\u043D\u0430\u044F
+      \u0441\u0438\u0441\u0442\u0435\u043C\u0430 \u0441\u043E\u0431\u0438\u0440\u0430\u043B\u0430
+      \u0440\u0435\u0434\u043A\u0438\u0435 \u0434\u043E\u0436\u0434\u0438, \u043F\u043E\u0437\u0432\u043E\u043B\u044F\u044F
+      \u0433\u043E\u0440\u043E\u0434\u0443 \u0432\u044B\u0436\u0438\u0432\u0430\u0442\u044C
+      \u0432 \u043F\u0443\u0441\u0442\u044B\u043D\u0435."
+  colorsTile: {fileID: 11400000, guid: 5dd1908714545074cbcb807640dd50b4, type: 2}
+  targetExtraWords: 8

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251003183457
+  m_EditorClassIdentifier: 
+  groupName: "\u0422\u0430\u0439\u043C\u0441-\u0441\u043A\u0432\u0435\u0440"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 35514d166c3df0441a222ad151ebf88c, type: 2}
+  - {fileID: 11400000, guid: bd4df828aac16ac4d8294e2947c4644b, type: 2}
+  - {fileID: 11400000, guid: c510986816e478342afd03cb30d01855, type: 2}
+  - {fileID: 11400000, guid: ea43b71372c2816418068e534830895c, type: 2}
+  - {fileID: 11400000, guid: 205909b0f59270d418a7cb318c319a61, type: 2}
+  - {fileID: 11400000, guid: d4c71002d11103a4790341e3b8182f34, type: 2}
+  - {fileID: 11400000, guid: 3503dee6f9c7440479f308e805f4af65, type: 2}
+  - {fileID: 11400000, guid: 354137815d8441348b93f97adecc390a, type: 2}
+  - {fileID: 11400000, guid: e0ab1a9bb5a0590469d483e710e6b421, type: 2}
+  - {fileID: 11400000, guid: 28e1fb1a36b062849a85aeb9c7c9d04e, type: 2}
+  backgroundReference:
+    m_AssetGUID: 8ee56448ebd6a6146888b2d65af4aeee
+    m_SubObjectName: TimeSquare_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0422\u0430\u0439\u043C\u0441-\u0441\u043A\u0432\u0435\u0440"
+    text: "\u0422\u0430\u0439\u043C\u0441-\u0441\u043A\u0432\u0435\u0440 \u0432 \u041D\u044C\u044E-\u0419\u043E\u0440\u043A\u0435
+      \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u0430 \u043D\u044B\u043D\u0435\u0448\u043D\u0435\u0435
+      \u0438\u043C\u044F \u0432 1904 \u0433\u043E\u0434\u0443 \u0438 \u0435\u0436\u0435\u0433\u043E\u0434\u043D\u043E
+      \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442 \u043D\u043E\u0432\u043E\u0433\u043E\u0434\u043D\u0435\u0435
+      \xAB\u043F\u0430\u0434\u0435\u043D\u0438\u0435 \u0448\u0430\u0440\u0430\xBB,
+      \u0441\u043E\u0431\u0438\u0440\u0430\u044F \u043C\u043D\u043E\u0433\u043E\u0442\u044B\u0441\u044F\u0447\u043D\u044B\u0435
+      \u0442\u043E\u043B\u043F\u044B."
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  targetExtraWords: 8

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 77532b5ebe0d245d08e28590235e77ba
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/VFX/GameClicks.vfx
+  uploadId: 784234

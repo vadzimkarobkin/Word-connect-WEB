@@ -1,0 +1,305 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-16928
+  m_EditorClassIdentifier: 
+  number: 146
+  backgroundReference:
+    m_AssetGUID: b97d4a1730eb23748bdb1d1e3969a68a
+    m_SubObjectName: ChicagoBean_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0431\u043B\u043C\u043E\u043F"
+    wordsAmount: 5
+    words:
+    - "\u043F\u043E\u043B\u0430"
+    - "\u043F\u043B\u043E\u043C\u0431\u0430"
+    - "\u043F\u0430\u0431"
+    - "\u043B\u043E\u0431"
+    - "\u043B\u043E\u043C"
+    - "\u0431\u0430\u043B"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043F\u043E\u043B\u0430"
+        wordNumber: 6
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u043B\u043E\u043C\u0431\u0430"
+        wordNumber: 3
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0430\u0431"
+        wordNumber: 2
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u043E\u0431"
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u043E\u043C"
+        wordNumber: 5
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u043B"
+        wordNumber: 4
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 1}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: "          |    \u043F\u043E\u043B\u0430  |      \u043E   |  
+        \u043F\u043B\u043E\u043C\u0431\u0430 |    \u043E  \u0430  |  \u043F\u0430\u0431 
+        \u043B  |          "
+  - language: es
+    letters: "ailmn\xE1a"
+    wordsAmount: 5
+    words:
+    - "l\xE1mina"
+    - mina
+    - "im\xE1n"
+    - lima
+    - mal
+    - mil
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: mil
+        wordNumber: 5
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mina
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lima
+        wordNumber: 3
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "im\xE1n"
+        wordNumber: 6
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "l\xE1mina"
+        wordNumber: 4
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mal
+        wordNumber: 1
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: " i        | mil      | \xE1 \xE1  m   | n mina   |   i  lima|  
+        n      |   a      "
+  - language: de
+    letters: giklow
+    wordsAmount: 5
+    words:
+    - lkw
+    - wolkig
+    - log
+    - lok
+    - wog
+    - wok
+    - logik
+    - klo
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: lkw
+        wordNumber: 3
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: logik
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lok
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: wog
+        wordNumber: 5
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: klo
+        wordNumber: 7
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: wolkig
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: log
+        wordNumber: 8
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: wok
+        wordNumber: 6
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: ' k        | lkw l w  | o o o o  |   logik  | lok      |  
+        i      | wog      '
+  - language: pt
+    letters: acepru
+    wordsAmount: 5
+    words:
+    - pau
+    - crua
+    - cru
+    - cura
+    - peru
+    - peruca
+    - cera
+    - rua
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: cera
+        wordNumber: 5
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: crua
+        wordNumber: 2
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cru
+        wordNumber: 8
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cura
+        wordNumber: 4
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: peruca
+        wordNumber: 7
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rua
+        wordNumber: 1
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: peru
+        wordNumber: 3
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pau
+        wordNumber: 6
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 7}
+      serializedGrid: '          |      p p |  p  cera |  e   r u |  r crua  |cru 
+        u    |  cura    |  a       |          |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  words: 5
+  letters: 7
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

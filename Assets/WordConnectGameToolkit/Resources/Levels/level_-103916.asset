@@ -1,0 +1,306 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-103916
+  m_EditorClassIdentifier: 
+  number: 271
+  backgroundReference:
+    m_AssetGUID: 8ee56448ebd6a6146888b2d65af4aeee
+    m_SubObjectName: TimeSquare_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 5, y: 3}
+      maxBounds: {x: 5, y: 3}
+      serializedGrid: '          |          |          |          |          |         
+        |          '
+  - language: ru
+    letters: "\u0438\u043D\u043E\u0440\u0442\u0442"
+    wordsAmount: 5
+    words:
+    - "\u043E\u0442\u0438\u0442"
+    - "\u0442\u0438\u0442\u0440"
+    - "\u0442\u0440\u0438\u0442\u043E\u043D"
+    - "\u0442\u043E\u0440\u0442"
+    - "\u0442\u0440\u0438\u043E"
+    - "\u0442\u0440\u043E\u043D"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043E\u0442\u0438\u0442"
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0438\u0442\u0440"
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0440\u0438\u0442\u043E\u043D"
+        wordNumber: 5
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u043E\u0440\u0442"
+        wordNumber: 2
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0440\u0438\u043E"
+        wordNumber: 4
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0440\u043E\u043D"
+        wordNumber: 6
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: "  \u0442       |  \u043E\u0442\u0438\u0442    |  \u0440   
+        \u0442  |  \u0442\u0438\u0442\u0440 \u0440  |    \u0440  \u043E  |  \u0442\u0440\u0438\u0442\u043E\u043D 
+        |    \u043E     "
+  - language: es
+    letters: hilost
+    wordsAmount: 5
+    words:
+    - silo
+    - hostil
+    - tio
+    - tilo
+    - hilo
+    - listo
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: hostil
+        wordNumber: 6
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: listo
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tio
+        wordNumber: 3
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: hilo
+        wordNumber: 5
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: silo
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tilo
+        wordNumber: 4
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: '          | hostil   |   i      |   listo  | tio  i   |   
+        hilo  |      o   '
+  - language: de
+    letters: nebgel
+    wordsAmount: 5
+    words:
+    - leg
+    - geben
+    - engel
+    - gebe
+    - gen
+    - gel
+    - gelbe
+    - gelb
+    - legen
+    - bengel
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: engel
+        wordNumber: 5
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: legen
+        wordNumber: 3
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: leg
+        wordNumber: 2
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gebe
+        wordNumber: 8
+        startPosition: {x: 6, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bengel
+        wordNumber: 6
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gelbe
+        wordNumber: 4
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gelb
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gen
+        wordNumber: 10
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: geben
+        wordNumber: 7
+        startPosition: {x: 7, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gel
+        wordNumber: 9
+        startPosition: {x: 9, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 9}
+      serializedGrid: ' b        | engel g  | n e   e  | g legen  | e b e    | l
+        e leg  |     b e  |       b g|      gebe|       n l'
+  - language: pt
+    letters: aiotvo
+    wordsAmount: 5
+    words:
+    - oitavo
+    - oito
+    - tio
+    - toa
+    - ativo
+    - ato
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: toa
+        wordNumber: 3
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tio
+        wordNumber: 6
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: oitavo
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: oito
+        wordNumber: 2
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ato
+        wordNumber: 4
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ativo
+        wordNumber: 5
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 4}
+      serializedGrid: ' toa  a   |  i   tio |  t a i   |  oitavo  |    o o   |         
+        |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

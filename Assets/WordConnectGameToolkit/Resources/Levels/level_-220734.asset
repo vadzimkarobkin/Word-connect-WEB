@@ -1,0 +1,348 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-220734
+  m_EditorClassIdentifier: 
+  number: 230
+  backgroundReference:
+    m_AssetGUID: b8c036f30f9720342930bc08cf54640d
+    m_SubObjectName: StoneHenge_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u043A\u043A\u0440\u0443\u0448"
+    wordsAmount: 5
+    words:
+    - "\u0448\u0430\u0440"
+    - "\u043A\u0443\u0448"
+    - "\u043A\u0443\u0448\u0430\u043A"
+    - "\u0440\u0430\u043A"
+    - "\u0448\u043A\u0443\u0440\u043A\u0430"
+    - "\u0448\u043A\u0443\u0440\u0430"
+    - "\u0440\u0443\u043A\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0448\u0430\u0440"
+        wordNumber: 7
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0443\u0448"
+        wordNumber: 4
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0443\u0448\u0430\u043A"
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0430\u043A"
+        wordNumber: 3
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0448\u043A\u0443\u0440\u043A\u0430"
+        wordNumber: 5
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0448\u043A\u0443\u0440\u0430"
+        wordNumber: 2
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0443\u043A\u0430"
+        wordNumber: 6
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "     \u0448\u0430\u0440  |  \u0448    \u0443  |  \u043A\u0443\u0448 
+        \u043A  |  \u0443 \u043A\u0443\u0448\u0430\u043A |  \u0440 \u0443     | 
+        \u043A \u0440\u0430\u043A   |  \u0430 \u0430     "
+  - language: es
+    letters: ainort
+    wordsAmount: 5
+    words:
+    - tio
+    - otra
+    - tirano
+    - tiro
+    - ato
+    - antro
+    - notar
+    - rito
+    - rato
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: rito
+        wordNumber: 7
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: otra
+        wordNumber: 6
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rato
+        wordNumber: 3
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: antro
+        wordNumber: 2
+        startPosition: {x: 1, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ato
+        wordNumber: 9
+        startPosition: {x: 1, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: notar
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tiro
+        wordNumber: 8
+        startPosition: {x: 3, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tio
+        wordNumber: 1
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tirano
+        wordNumber: 5
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 7, y: 10}
+      serializedGrid: '    rito  |      i   |    otra  |      a   | n    n   | o
+        rato   | t   i    | antro    | r i      |   r      | ato      |          '
+  - language: de
+    letters: acdehs
+    wordsAmount: 5
+    words:
+    - achse
+    - dachs
+    - sache
+    - hase
+    - ach
+    - schade
+    - das
+    - dach
+    - sah
+    - asche
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: das
+        wordNumber: 9
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dachs
+        wordNumber: 3
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dach
+        wordNumber: 7
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: schade
+        wordNumber: 1
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: hase
+        wordNumber: 6
+        startPosition: {x: 0, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: asche
+        wordNumber: 5
+        startPosition: {x: 2, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: achse
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sah
+        wordNumber: 10
+        startPosition: {x: 3, y: 9}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ach
+        wordNumber: 8
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sache
+        wordNumber: 4
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 11}
+      serializedGrid: '            |    das     |     c      |  dachs     |   c       
+        |dach  s     |   schade   |hase  c     |      h     |  asche     |   a       
+        |   h        '
+  - language: pt
+    letters: aefirr
+    wordsAmount: 5
+    words:
+    - fera
+    - rir
+    - frei
+    - eira
+    - freira
+    - rei
+    - fria
+    - feira
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: feira
+        wordNumber: 3
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rir
+        wordNumber: 6
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eira
+        wordNumber: 2
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rei
+        wordNumber: 8
+        startPosition: {x: 7, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fria
+        wordNumber: 7
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: frei
+        wordNumber: 4
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fera
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: freira
+        wordNumber: 5
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '          |     f f  |  f feira |rir  r e  |  eira i  |  i   
+        rei|    fria  '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

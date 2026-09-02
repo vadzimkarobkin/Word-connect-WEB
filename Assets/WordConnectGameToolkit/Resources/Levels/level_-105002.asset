@@ -1,0 +1,313 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-105002
+  m_EditorClassIdentifier: 
+  number: 408
+  backgroundReference:
+    m_AssetGUID: 986f9b84bd8740241a9e8a5b38c8bd26
+    m_SubObjectName: Sphinks_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u043A\u043A\u0440\u0443\u0448"
+    wordsAmount: 5
+    words:
+    - "\u043A\u0443\u0448\u0430\u043A"
+    - "\u043A\u0443\u0448"
+    - "\u0440\u0430\u043A"
+    - "\u0448\u043A\u0443\u0440\u043A\u0430"
+    - "\u0448\u0430\u0440"
+    - "\u0448\u043A\u0443\u0440\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043A\u0443\u0448\u0430\u043A"
+        wordNumber: 6
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0443\u0448"
+        wordNumber: 2
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0430\u043A"
+        wordNumber: 5
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0448\u043A\u0443\u0440\u043A\u0430"
+        wordNumber: 3
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0448\u0430\u0440"
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0448\u043A\u0443\u0440\u0430"
+        wordNumber: 4
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: "          |    \u043A\u0443\u0448\u0430\u043A |      \u043A  
+        |  \u043A\u0443\u0448 \u0443   |    \u0430 \u0440\u0430\u043A | \u0448\u043A\u0443\u0440\u043A\u0430  
+        |          "
+  - language: es
+    letters: aeiprs
+    wordsAmount: 5
+    words:
+    - repisa
+    - prisa
+    - serpa
+    - sepia
+    - pesar
+    - seria
+    - persa
+    - paris
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: repisa
+        wordNumber: 4
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: prisa
+        wordNumber: 3
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sepia
+        wordNumber: 1
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pesar
+        wordNumber: 8
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: serpa
+        wordNumber: 7
+        startPosition: {x: 6, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: seria
+        wordNumber: 6
+        startPosition: {x: 2, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: paris
+        wordNumber: 2
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: persa
+        wordNumber: 5
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 10, y: 8}
+      serializedGrid: '  repisa    |    a       |   prisa    |    i       |    sepia  
+        |      e     |  pesar     |      serpa |  seria     |            |           
+        |            '
+  - language: de
+    letters: acehss
+    wordsAmount: 5
+    words:
+    - hasse
+    - sache
+    - sachse
+    - achse
+    - asche
+    - sechs
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: sechs
+        wordNumber: 4
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sache
+        wordNumber: 2
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sachse
+        wordNumber: 3
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: achse
+        wordNumber: 6
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: hasse
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: asche
+        wordNumber: 5
+        startPosition: {x: 8, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '        a |  sechs s |a    a  c |c    sache|h    s  e |sachse   
+        |e         '
+  - language: pt
+    letters: acprta
+    wordsAmount: 5
+    words:
+    - capa
+    - catar
+    - captar
+    - tapa
+    - prata
+    - carta
+    - arca
+    - pata
+    - cara
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: pata
+        wordNumber: 6
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arca
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: prata
+        wordNumber: 1
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cara
+        wordNumber: 3
+        startPosition: {x: 0, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: carta
+        wordNumber: 5
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: catar
+        wordNumber: 7
+        startPosition: {x: 1, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: captar
+        wordNumber: 2
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tapa
+        wordNumber: 8
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: capa
+        wordNumber: 9
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 7, y: 11}
+      serializedGrid: ' c        |pata      | r        | t     c  | arca  a  |  
+        a t p  |   prata  | c t p    |cara a    | t r      | a        | r        '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

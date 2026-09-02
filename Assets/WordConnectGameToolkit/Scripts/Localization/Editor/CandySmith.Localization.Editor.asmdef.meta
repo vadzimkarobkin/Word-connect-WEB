@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 54ed5b0a667e4a0f987a5bacb1b15ba6
+timeCreated: 1722189029
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/Localization/Editor/CandySmith.Localization.Editor.asmdef
+  uploadId: 784234

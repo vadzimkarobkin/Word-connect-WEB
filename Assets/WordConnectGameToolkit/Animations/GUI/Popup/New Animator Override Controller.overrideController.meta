@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b24a01cb8039460cb30b092b9d81840
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Animations/GUI/Popup/New Animator Override
+    Controller.overrideController
+  uploadId: 784234

@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-9972
+  m_EditorClassIdentifier: 
+  number: 142
+  backgroundReference:
+    m_AssetGUID: b97d4a1730eb23748bdb1d1e3969a68a
+    m_SubObjectName: ChicagoBean_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0433\u0437\u043B\u043D\u043E\u0443"
+    wordsAmount: 5
+    words:
+    - "\u043B\u0443\u0433"
+    - "\u043B\u0433\u0443\u043D"
+    - "\u043B\u043E\u0437\u0443\u043D\u0433"
+    - "\u0433\u043E\u043B"
+    - "\u0443\u0433\u043E\u043B"
+    - "\u0437\u043B\u043E"
+    - "\u0443\u0433\u043E\u043D"
+    - "\u0433\u0443\u043B"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043B\u0443\u0433"
+        wordNumber: 6
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0433\u0443\u043D"
+        wordNumber: 3
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u043E\u0437\u0443\u043D\u0433"
+        wordNumber: 2
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043E\u043B"
+        wordNumber: 8
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0443\u0433\u043E\u043B"
+        wordNumber: 4
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0437\u043B\u043E"
+        wordNumber: 5
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0443\u0433\u043E\u043D"
+        wordNumber: 1
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u0443\u043B"
+        wordNumber: 7
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          | \u043B\u0443\u0433  \u0443   |  \u0433  \u043B\u0433\u0443\u043D
+        |  \u043E   \u043E   |  \u043B\u043E\u0437\u0443\u043D\u0433  |    \u043B 
+        \u0443  |   \u0433\u043E\u043B \u043B  "
+  - language: es
+    letters: adopsa
+    wordsAmount: 5
+    words:
+    - sapo
+    - pasa
+    - posada
+    - pasado
+    - asado
+    - paso
+    - sopa
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: posada
+        wordNumber: 2
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pasa
+        wordNumber: 3
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pasado
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sopa
+        wordNumber: 5
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: paso
+        wordNumber: 6
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: asado
+        wordNumber: 1
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sapo
+        wordNumber: 7
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: ' posada   |      s s | s p pasa | o a  d p | pasado o | a
+        o      |          '
+  - language: de
+    letters: aenstt
+    wordsAmount: 5
+    words:
+    - sat
+    - nett
+    - test
+    - tat
+    - tante
+    - taste
+    - taten
+    - tasten
+    - satt
+    - ast
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: tasten
+        wordNumber: 8
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: satt
+        wordNumber: 6
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: taste
+        wordNumber: 3
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tante
+        wordNumber: 1
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: test
+        wordNumber: 10
+        startPosition: {x: 5, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: taten
+        wordNumber: 4
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sat
+        wordNumber: 2
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ast
+        wordNumber: 5
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tat
+        wordNumber: 7
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nett
+        wordNumber: 9
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 9}
+      serializedGrid: '  tasten  |     a    | t satt   | a  s     | taste    | e
+        a      | n tante  |     e    |     t    |     test |          |          '
+  - language: pt
+    letters: "hilmo\xE3"
+    wordsAmount: 5
+    words:
+    - "im\xE3"
+    - "milh\xE3o"
+    - "lim\xE3o"
+    - "m\xE3o"
+    - milho
+    - mil
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "milh\xE3o"
+        wordNumber: 2
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "lim\xE3o"
+        wordNumber: 4
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "m\xE3o"
+        wordNumber: 6
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: milho
+        wordNumber: 5
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "im\xE3"
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mil
+        wordNumber: 3
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "      m   |      i   |  m milh\xE3o|  i  m    |  lim\xE3o  
+        |  h       |m\xE3o       "
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

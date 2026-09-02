@@ -1,0 +1,419 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-69922
+  m_EditorClassIdentifier: 
+  number: 95
+  backgroundReference:
+    m_AssetGUID: 07158c2362eaf1c4094df8bf552ce15e
+    m_SubObjectName: Everest_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0432\u0434\u043E\u043E\u0441\u0445"
+    wordsAmount: 5
+    words:
+    - "\u0441\u0432\u043E\u0434"
+    - "\u0441\u0445\u043E\u0434"
+    - "\u0432\u0434\u043E\u0445"
+    - "\u043E\u0432\u043E\u0434"
+    - "\u0445\u043E\u0434"
+    - "\u0432\u0445\u043E\u0434"
+    - "\u0432\u043E\u0441\u0445\u043E\u0434"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0441\u0432\u043E\u0434"
+        wordNumber: 4
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0445\u043E\u0434"
+        wordNumber: 3
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u0434\u043E\u0445"
+        wordNumber: 6
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043E\u0432\u043E\u0434"
+        wordNumber: 2
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0445\u043E\u0434"
+        wordNumber: 7
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u0445\u043E\u0434"
+        wordNumber: 5
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u043E\u0441\u0445\u043E\u0434"
+        wordNumber: 1
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "          |     \u0441\u0432\u043E\u0434 |      \u043E   |   
+        \u0432 \u0441\u0445\u043E\u0434| \u0432\u0434\u043E\u0445 \u0445   |    \u043E\u0432\u043E\u0434 
+        |  \u0445\u043E\u0434 \u0434   "
+  - language: es
+    letters: "abls\xEDa"
+    wordsAmount: 5
+    words:
+    - sal
+    - las
+    - "sal\xED"
+    - sala
+    - "l\xEDa"
+    - balsa
+    - "as\xED"
+    - balas
+    - "sab\xEDa"
+    - asa
+    - "s\xEDlaba"
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: balas
+        wordNumber: 3
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "l\xEDa"
+        wordNumber: 7
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "s\xEDlaba"
+        wordNumber: 2
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sal
+        wordNumber: 10
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "sal\xED"
+        wordNumber: 6
+        startPosition: {x: 6, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "sab\xEDa"
+        wordNumber: 8
+        startPosition: {x: 2, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sala
+        wordNumber: 9
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "as\xED"
+        wordNumber: 4
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: asa
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: balsa
+        wordNumber: 5
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: las
+        wordNumber: 11
+        startPosition: {x: 8, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 8}
+      serializedGrid: "        l |s       a |a   balas |l\xEDa  s    |a s\xEDlaba 
+        |  \xED   a   |    sal   |      sal\xED|  sab\xEDa   |          |         
+        |          "
+  - language: de
+    letters: aehlmn
+    wordsAmount: 5
+    words:
+    - mahl
+    - malen
+    - nahm
+    - name
+    - lehm
+    - lahm
+    - amen
+    - nah
+    - nahe
+    - man
+    - helm
+    - mehl
+    - halme
+    - mahlen
+    crosswordData:
+      columns: 12
+      rows: 15
+      placements:
+      - word: lahm
+        wordNumber: 3
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nahe
+        wordNumber: 9
+        startPosition: {x: 0, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nah
+        wordNumber: 1
+        startPosition: {x: 5, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mahl
+        wordNumber: 6
+        startPosition: {x: 7, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: amen
+        wordNumber: 12
+        startPosition: {x: 1, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mahlen
+        wordNumber: 10
+        startPosition: {x: 6, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mehl
+        wordNumber: 8
+        startPosition: {x: 8, y: 12}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: malen
+        wordNumber: 14
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: helm
+        wordNumber: 11
+        startPosition: {x: 2, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: name
+        wordNumber: 4
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nahm
+        wordNumber: 13
+        startPosition: {x: 4, y: 10}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: man
+        wordNumber: 2
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lehm
+        wordNumber: 5
+        startPosition: {x: 7, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: halme
+        wordNumber: 7
+        startPosition: {x: 9, y: 8}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 3}
+      maxBounds: {x: 11, y: 13}
+      serializedGrid: '            |            |            |m           |a  n       
+        |l lahm l    |e  m a e    |nahe nah    |  e    mahl |  l      a  | amen mahlen|   
+        a    m  |    h   mehl|    m       |            '
+  - language: pt
+    letters: abcnor
+    wordsAmount: 5
+    words:
+    - cabo
+    - cobra
+    - banco
+    - coar
+    - branco
+    - boca
+    - nora
+    - ano
+    - nabo
+    - bronca
+    - broa
+    - barco
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: bronca
+        wordNumber: 4
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: boca
+        wordNumber: 3
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coar
+        wordNumber: 9
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ano
+        wordNumber: 1
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: broa
+        wordNumber: 7
+        startPosition: {x: 5, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: barco
+        wordNumber: 8
+        startPosition: {x: 1, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: banco
+        wordNumber: 12
+        startPosition: {x: 4, y: 11}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cabo
+        wordNumber: 5
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nora
+        wordNumber: 11
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cobra
+        wordNumber: 2
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nabo
+        wordNumber: 6
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: branco
+        wordNumber: 10
+        startPosition: {x: 8, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 11}
+      serializedGrid: 'c         |a         |bronca    |o   o     |  n boca  | coar    
+        |  r ano b |  a  a  r |     broa | barco  n |        c |    banco '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: e8a60425bb67f42618a943883b553d29, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

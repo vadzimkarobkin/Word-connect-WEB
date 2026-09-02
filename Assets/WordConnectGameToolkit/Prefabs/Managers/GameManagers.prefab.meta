@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c307ef08ac1ff41ea8323b06075ea4b2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Prefabs/Managers/GameManagers.prefab
+  uploadId: 784234

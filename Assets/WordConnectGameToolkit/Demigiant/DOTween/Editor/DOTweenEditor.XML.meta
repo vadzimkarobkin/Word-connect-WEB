@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 2e2c6224d345d9249acfa6e8ef40bb2d
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Demigiant/DOTween/Editor/DOTweenEditor.XML
+  uploadId: 784234

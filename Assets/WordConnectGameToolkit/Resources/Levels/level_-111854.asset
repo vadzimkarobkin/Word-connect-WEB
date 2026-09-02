@@ -1,0 +1,292 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-111854
+  m_EditorClassIdentifier: 
+  number: 318
+  backgroundReference:
+    m_AssetGUID: dc8819c3c2cddc3479dd75e345291abe
+    m_SubObjectName: EdinburgCastle_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0435\u0437\u043C\u043D\u0440"
+    wordsAmount: 5
+    words:
+    - "\u043C\u0430\u043D\u0435\u0440"
+    - "\u0437\u0430\u043C\u0435\u0440"
+    - "\u0437\u0430\u0435\u043C"
+    - "\u043D\u0430\u0435\u043C"
+    - "\u0440\u0430\u0437\u043C\u0435\u043D"
+    - "\u043C\u0435\u0440\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043C\u0430\u043D\u0435\u0440"
+        wordNumber: 4
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0437\u0430\u043C\u0435\u0440"
+        wordNumber: 3
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0437\u0430\u0435\u043C"
+        wordNumber: 2
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043D\u0430\u0435\u043C"
+        wordNumber: 6
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0430\u0437\u043C\u0435\u043D"
+        wordNumber: 1
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0435\u0440\u0430"
+        wordNumber: 5
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |\u043C\u0430\u043D\u0435\u0440     |    \u0430    
+        |  \u043D \u0437\u0430\u043C\u0435\u0440 | \u0437\u0430\u0435\u043C \u0435  
+        |  \u0435 \u0435 \u0440   |  \u043C \u043D \u0430   "
+  - language: es
+    letters: abhnoa
+    wordsAmount: 5
+    words:
+    - habano
+    - han
+    - boa
+    - haba
+    - nabo
+    - ana
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: haba
+        wordNumber: 2
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: habano
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ana
+        wordNumber: 5
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: boa
+        wordNumber: 6
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nabo
+        wordNumber: 1
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: han
+        wordNumber: 3
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '          |      n h |  a  haba |  n   b n | habano   |  
+        o      |   a      '
+  - language: de
+    letters: afrsuu
+    wordsAmount: 5
+    words:
+    - ruf
+    - ausruf
+    - frau
+    - rauf
+    - aus
+    - raus
+    - auf
+    - aufs
+    - sau
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: aufs
+        wordNumber: 1
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: auf
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: raus
+        wordNumber: 3
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ausruf
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rauf
+        wordNumber: 5
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sau
+        wordNumber: 6
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: frau
+        wordNumber: 7
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aus
+        wordNumber: 8
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: 'aufs      |   auf a  |   u raus | r   a s  | ausruf   | u       
+        | f        '
+  - language: pt
+    letters: acdeva
+    wordsAmount: 5
+    words:
+    - cada
+    - vaca
+    - dava
+    - cave
+    - ave
+    - cevada
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: ave
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cada
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dava
+        wordNumber: 6
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cave
+        wordNumber: 5
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vaca
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cevada
+        wordNumber: 4
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '      c   |  ave e   |   a  v   |   cada   |dava  d   |    
+        cave |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: e8a60425bb67f42618a943883b553d29, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

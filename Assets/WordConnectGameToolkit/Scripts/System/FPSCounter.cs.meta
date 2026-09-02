@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 01dcce784a6940748924d2909c70ad22
+timeCreated: 1726665435
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/System/FPSCounter.cs
+  uploadId: 784234

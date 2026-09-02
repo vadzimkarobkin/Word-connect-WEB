@@ -1,0 +1,299 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-104828
+  m_EditorClassIdentifier: 
+  number: 365
+  backgroundReference:
+    m_AssetGUID: 75c2d4dd8b326a94ab491e920b2401c8
+    m_SubObjectName: Kilimondjaro_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0434\u0437\u0440\u0440\u044F"
+    wordsAmount: 5
+    words:
+    - "\u0434\u0430\u0440"
+    - "\u0440\u0430\u0437\u0440\u044F\u0434"
+    - "\u0440\u044F\u0434"
+    - "\u0437\u0430\u0440\u044F"
+    - "\u044F\u0440\u0434"
+    - "\u0437\u0430\u0434"
+    - "\u0437\u0430\u0440\u044F\u0434"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0434\u0430\u0440"
+        wordNumber: 7
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0430\u0437\u0440\u044F\u0434"
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u044F\u0434"
+        wordNumber: 3
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0437\u0430\u0440\u044F"
+        wordNumber: 4
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u044F\u0440\u0434"
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0437\u0430\u0434"
+        wordNumber: 5
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0437\u0430\u0440\u044F\u0434"
+        wordNumber: 6
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: "       \u0437  |      \u0434\u0430\u0440 | \u0437 \u044F  
+        \u0440  | \u0430 \u0440\u0430\u0437\u0440\u044F\u0434 | \u0440\u044F\u0434
+        \u0430 \u0434  | \u044F   \u0434    |          "
+  - language: es
+    letters: dapedi
+    wordsAmount: 5
+    words:
+    - edad
+    - idea
+    - piedad
+    - pide
+    - ida
+    - pie
+    - pedida
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: pide
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: idea
+        wordNumber: 2
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: edad
+        wordNumber: 3
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pie
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pedida
+        wordNumber: 5
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: piedad
+        wordNumber: 6
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '    p     |    e p   |    d i   |   pide   | p  d d   | idea
+        a   | e   edad '
+  - language: de
+    letters: aeflrt
+    wordsAmount: 5
+    words:
+    - rate
+    - alter
+    - elf
+    - falte
+    - taler
+    - falter
+    - tafel
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: elf
+        wordNumber: 4
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: alter
+        wordNumber: 7
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tafel
+        wordNumber: 5
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: taler
+        wordNumber: 6
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: falte
+        wordNumber: 2
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rate
+        wordNumber: 3
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: falter
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '   elf    |     alter| tafel    |     taler| falte    |    
+        rate |          '
+  - language: pt
+    letters: aderve
+    wordsAmount: 5
+    words:
+    - deve
+    - vereda
+    - verde
+    - rede
+    - dever
+    - ave
+    - ver
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: ave
+        wordNumber: 7
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ver
+        wordNumber: 2
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: deve
+        wordNumber: 3
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dever
+        wordNumber: 5
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: verde
+        wordNumber: 4
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vereda
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rede
+        wordNumber: 6
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '  v  v    |ave ver r |  r  r  e |  deve  d |  e  dever|    
+        a    |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

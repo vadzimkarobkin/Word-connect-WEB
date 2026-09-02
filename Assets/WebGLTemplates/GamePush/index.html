@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>{{{ PRODUCT_NAME }}}</title>
+  <link rel="stylesheet" href="TemplateData/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <script>
+    const overlayBackgroundColor = "{{{ OVERLAY_BACKGROUND_COLOR.replace(/ /g, '') }}}";
+    const backgroundFileName = "{{{ BACKGROUND_IMAGE_FILE.replace(/ /g, '') }}}";
+  </script>
+
+<style>
+  /* Убираем выделение по нажатию клавиш */
+  canvas:focus {
+      outline: none;
+  }
+
+  html, body {
+      /* Убираем отступы */
+      padding: 0;
+      margin: 0;
+      /* Отключаем скролл и лонгтап на IOS */
+      overflow: hidden;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      -webkit-tap-highlight-color: rgba(0,0,0,0);
+      /* Ставим высоту на 100% */
+      height: 100%;
+  }
+
+  #unity-logo img {
+      display: block;
+      margin: 0 auto;
+      width: 200px;
+      animation: logo-pulse 2s ease-in-out infinite;
+      transform-origin: center;
+  }
+
+  #unity-loading-bar {
+      position: relative;
+      height: 100%;
+  }
+
+  #loading-text {
+      position: absolute;
+      bottom: 15%;
+      left: 50%;
+      transform: translateX(-50%);
+      text-align: center;
+      font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 20px;
+      font-weight: 900;
+      letter-spacing: 1px;
+      color: #ffffff;
+      text-transform: uppercase;
+  }
+
+  #loading-text span {
+      display: inline-block;
+      width: 1.5em;
+      text-align: left;
+  }
+
+  @keyframes logo-pulse {
+      0%, 100% {
+          transform: scale(1);
+      }
+      50% {
+          transform: scale(1.08);
+      }
+  }
+</style>
+
+</head>
+
+<body class="{{{ SPLASH_SCREEN_STYLE.toLowerCase() }}}">
+  <div id="unity-container" class="unity-desktop">
+    <canvas id="unity-canvas"></canvas>
+  </div>
+  <div id="loading-cover" style="display:none;">
+    <div id="unity-loading-bar">
+      <div id="unity-logo"><img src="icon.png"></div>
+      <div id="loading-text">Загрузка<span id="loading-dots"></span></div>
+    </div>
+  </div>
+
+<script type="text/javascript" src="TemplateData/aspectRatio.js"></script>
+<script type="text/javascript">
+        aspectRatio.init();
+    </script>
+
+  <script>
+    const buildUrl = "Build";
+    const loaderUrl = buildUrl + "/{{{ LOADER_FILENAME }}}";
+    const config = {
+      dataUrl: buildUrl + "/{{{ DATA_FILENAME }}}",
+      workerUrl: buildUrl + "/{{{ DATA_FILENAME }}}",
+      frameworkUrl: buildUrl + "/{{{ FRAMEWORK_FILENAME }}}",
+      codeUrl: buildUrl + "/{{{ CODE_FILENAME }}}",
+      // #if MEMORY_FILENAME
+      //   memoryUrl: buildUrl + "/{{{ MEMORY_FILENAME }}}",
+      // #endif
+      // #if SYMBOLS_FILENAME
+      //   symbolsUrl: buildUrl + "/{{{ SYMBOLS_FILENAME }}}",
+      // #endif
+      streamingAssetsUrl: "StreamingAssets",
+      companyName: "{{{ COMPANY_NAME }}}",
+      productName: "{{{ PRODUCT_NAME }}}",
+      productVersion: "{{{ PRODUCT_VERSION }}}",
+    };
+
+    const container = document.querySelector("#unity-container");
+    const canvas = document.querySelector("#unity-canvas");
+    const loadingCover = document.querySelector("#loading-cover");
+    const loadingText = document.querySelector("#loading-text");
+    const loadingDots = document.querySelector("#loading-dots");
+
+    if (overlayBackgroundColor !== " " && overlayBackgroundColor !== ""){
+      canvas.style.background = overlayBackgroundColor;
+    }
+
+    if (backgroundFileName !== " " && backgroundFileName !== ""){
+      canvas.style.background = "url('" + backgroundFileName + "') center / cover";
+    }
+
+    if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+      container.className = "unity-mobile";
+    }
+
+    // #if BACKGROUND_FILENAME
+    // canvas.style.background = "url('" + buildUrl + "/{{{ BACKGROUND_FILENAME.replace(/'/g, '%27') }}}') center / cover";
+    // #endif
+
+    loadingCover.style.display = "";
+
+    let dotIntervalId = null;
+    if (loadingText && loadingDots) {
+      const dotStates = ["", ".", "..", "..."];
+      let dotIndex = 0;
+      dotIntervalId = setInterval(() => {
+        dotIndex = (dotIndex + 1) % dotStates.length;
+        loadingDots.textContent = dotStates[dotIndex];
+      }, 500);
+    }
+
+        // Выключаем появление меню при правом клике мыши
+        document.addEventListener('contextmenu', event => event.preventDefault());
+
+        // Возвращаем фокус, если кликнули по экрану
+        function FocusGame() {
+            window.focus();
+            canvas.focus();
+        }
+
+        window.addEventListener('pointerdown', () => {
+            FocusGame();
+        });
+        window.addEventListener('touchstart', () => {
+            FocusGame();
+        });
+
+    const unityLoader = document.createElement("script");
+    unityLoader.src = loaderUrl;
+    unityLoader.onload = async () => {
+      createUnityInstance(canvas, config, (progress) => {
+      }).then((unityInstance) => {
+        window.unityInstance = unityInstance;
+        loadingCover.style.display = "none";
+        if (dotIntervalId !== null) {
+          clearInterval(dotIntervalId);
+        }
+      }).catch((message) => {
+        alert(message);
+      });
+    };
+    document.body.appendChild(unityLoader);
+
+    document.addEventListener("pointerdown", () => {
+      container.focus();
+      window.focus();
+      canvas.focus();
+    });
+
+  </script>
+</body>
+
+</html>

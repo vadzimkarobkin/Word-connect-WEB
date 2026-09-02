@@ -1,0 +1,340 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-139582
+  m_EditorClassIdentifier: 
+  number: 326
+  backgroundReference:
+    m_AssetGUID: dc8819c3c2cddc3479dd75e345291abe
+    m_SubObjectName: EdinburgCastle_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0432\u0435\u043D\u0440\u044C"
+    wordsAmount: 5
+    words:
+    - "\u0440\u0435\u0432"
+    - "\u0432\u0435\u043D\u0430"
+    - "\u0432\u0440\u0430\u043D\u044C\u0435"
+    - "\u043D\u0435\u0440\u0432"
+    - "\u043D\u0440\u0430\u0432"
+    - "\u0432\u0435\u0440\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0440\u0435\u0432"
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u0435\u043D\u0430"
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u0440\u0430\u043D\u044C\u0435"
+        wordNumber: 5
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043D\u0435\u0440\u0432"
+        wordNumber: 2
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043D\u0440\u0430\u0432"
+        wordNumber: 4
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u0435\u0440\u0430"
+        wordNumber: 6
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "   \u043D  \u0432   |  \u0440\u0435\u0432 \u0435   |   \u0440 
+        \u0440   |   \u0432\u0435\u043D\u0430   |     \u0440    |   \u0432\u0440\u0430\u043D\u044C\u0435
+        |     \u0432    "
+  - language: es
+    letters: agorta
+    wordsAmount: 5
+    words:
+    - gata
+    - rata
+    - gato
+    - agotar
+    - gota
+    - atar
+    - rato
+    - toga
+    - otra
+    - trago
+    - aro
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: agotar
+        wordNumber: 5
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: atar
+        wordNumber: 9
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aro
+        wordNumber: 2
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: otra
+        wordNumber: 3
+        startPosition: {x: 5, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gata
+        wordNumber: 10
+        startPosition: {x: 3, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: toga
+        wordNumber: 8
+        startPosition: {x: 5, y: 11}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gota
+        wordNumber: 11
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rata
+        wordNumber: 6
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gato
+        wordNumber: 1
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: trago
+        wordNumber: 7
+        startPosition: {x: 6, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rato
+        wordNumber: 4
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 11}
+      serializedGrid: '          |g r       |o agotar  |t t    a  |atar g t  |    
+        aro  |     t    |     otra |      r   |   gata   |      g   |     toga '
+  - language: de
+    letters: abegla
+    wordsAmount: 5
+    words:
+    - gabel
+    - gala
+    - ablage
+    - lage
+    - alge
+    - gabe
+    - egal
+    - gelb
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: gala
+        wordNumber: 6
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gabe
+        wordNumber: 7
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ablage
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gabel
+        wordNumber: 3
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: egal
+        wordNumber: 8
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: alge
+        wordNumber: 2
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gelb
+        wordNumber: 5
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lage
+        wordNumber: 4
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: 'e  gala   |gabe      |a  l l    |l ablage  |  l  g    |  gabel  
+        |  e       '
+  - language: pt
+    letters: aceqru
+    wordsAmount: 5
+    words:
+    - cera
+    - cru
+    - rua
+    - quer
+    - crua
+    - cura
+    - craque
+    - que
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: rua
+        wordNumber: 4
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: crua
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: quer
+        wordNumber: 7
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: que
+        wordNumber: 3
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cera
+        wordNumber: 5
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cura
+        wordNumber: 8
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cru
+        wordNumber: 6
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: craque
+        wordNumber: 2
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '          |      c   |      rua | c crua   |quer  que | r
+        u  u   | a   cera '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: e8a60425bb67f42618a943883b553d29, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

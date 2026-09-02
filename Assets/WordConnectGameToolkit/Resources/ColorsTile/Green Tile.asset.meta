@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d129003572c2d4b159bffaa89a976492
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Resources/ColorsTile/Green Tile.asset
+  uploadId: 784234

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251002213702
+  m_EditorClassIdentifier: 
+  groupName: "\u0411\u0443\u0434\u0434\u0430"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 30a933c5aba9e8c4ba2c066167a19100, type: 2}
+  - {fileID: 11400000, guid: 53329677cdd7c3a4381fd49c42f4bec6, type: 2}
+  - {fileID: 11400000, guid: 5172c8c7e3293814eb4524edecd13561, type: 2}
+  - {fileID: 11400000, guid: 5194d1b8d94329443a400562707a982f, type: 2}
+  - {fileID: 11400000, guid: b706bf07d70f2e14190ebde885a98d55, type: 2}
+  - {fileID: 11400000, guid: b7dcdc4d3fedb1a4786f2c44171a14c0, type: 2}
+  - {fileID: 11400000, guid: bf2960b742ad8f64389969971852ff8e, type: 2}
+  - {fileID: 11400000, guid: c39101a0034d8dd4fb788593887447e4, type: 2}
+  - {fileID: 11400000, guid: a47eed6a33e87ce4db3c9eb9ae8299b0, type: 2}
+  - {fileID: 11400000, guid: ee12ec0dbc848f44ca27980fb27033c4, type: 2}
+  backgroundReference:
+    m_AssetGUID: b6fcf9646a457414588391a09d99a865
+    m_SubObjectName: Buddah_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0412\u0435\u043B\u0438\u043A\u0438\u0439 \u0411\u0443\u0434\u0434\u0430
+      \u041A\u0430\u043C\u0430\u043A\u0443\u0440\u044B"
+    text: "\u0412\u0435\u043B\u0438\u043A\u0438\u0439 \u0411\u0443\u0434\u0434\u0430
+      \u041A\u0430\u043C\u0430\u043A\u0443\u0440\u044B \u0441\u0442\u043E\u0438\u0442
+      \u043F\u043E\u0434 \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u043C \u043D\u0435\u0431\u043E\u043C
+      \u0441 XV \u0432\u0435\u043A\u0430 \u043F\u043E\u0441\u043B\u0435 \u0446\u0443\u043D\u0430\u043C\u0438
+      1498 \u0433\u043E\u0434\u0430, \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u0430\u044F
+      \u0441\u0442\u0430\u0442\u0443\u044F \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F
+      \u0432 \u0445\u0440\u0430\u043C\u0435 \u041A\u043E\u0442\u043E\u043A\u0443-\u0438\u043D."
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  targetExtraWords: 8

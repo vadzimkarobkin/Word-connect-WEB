@@ -1,0 +1,277 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-128814
+  m_EditorClassIdentifier: 
+  number: 197
+  backgroundReference:
+    m_AssetGUID: 9fb4ddde6e8b94f418edfb19386b99d6
+    m_SubObjectName: NationalLibrary_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0433\u0437\u043B\u0440\u0443"
+    wordsAmount: 5
+    words:
+    - "\u0443\u0433\u0430\u0440"
+    - "\u0433\u043B\u0430\u0437"
+    - "\u0440\u0430\u0437\u0433\u0443\u043B"
+    - "\u0433\u0440\u0443\u0437"
+    - "\u0440\u0430\u0433\u0443"
+    - "\u0437\u0430\u0433\u0443\u043B"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0443\u0433\u0430\u0440"
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043B\u0430\u0437"
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0430\u0437\u0433\u0443\u043B"
+        wordNumber: 6
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u0440\u0443\u0437"
+        wordNumber: 5
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0430\u0433\u0443"
+        wordNumber: 2
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0437\u0430\u0433\u0443\u043B"
+        wordNumber: 4
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |  \u0443\u0433\u0430\u0440    |   \u0440 \u0430
+        \u0437  |   \u0443 \u0433\u043B\u0430\u0437 |   \u0437 \u0443 \u0433  |      
+        \u0443  |  \u0440\u0430\u0437\u0433\u0443\u043B  "
+  - language: es
+    letters: eglopo
+    wordsAmount: 5
+    words:
+    - gol
+    - gel
+    - golpe
+    - leo
+    - golpeo
+    - ole
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: golpeo
+        wordNumber: 1
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: leo
+        wordNumber: 5
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gel
+        wordNumber: 4
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: golpe
+        wordNumber: 2
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gol
+        wordNumber: 3
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ole
+        wordNumber: 6
+        startPosition: {x: 8, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '          |  g   g   | golpeo   |  l   leo |  p     l | gel   
+        e |          '
+  - language: de
+    letters: egilte
+    wordsAmount: 5
+    words:
+    - teil
+    - gilt
+    - liegt
+    - geleit
+    - teig
+    - eile
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: geleit
+        wordNumber: 2
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: teil
+        wordNumber: 4
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gilt
+        wordNumber: 6
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: liegt
+        wordNumber: 5
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eile
+        wordNumber: 3
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: teig
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: 'l         |i    t    |e geleit  |g  i i    |teil gilt |  
+        e      |          '
+  - language: pt
+    letters: adnorr
+    wordsAmount: 5
+    words:
+    - ardor
+    - rondar
+    - onda
+    - andor
+    - dano
+    - adro
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: adro
+        wordNumber: 3
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dano
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ardor
+        wordNumber: 5
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: andor
+        wordNumber: 6
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: onda
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rondar
+        wordNumber: 4
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '          |adro r    |   n o    |   dano   |   a d    |    
+        ardor| andor    '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 63f1377c90d84ec478676a869dc2a2c1, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

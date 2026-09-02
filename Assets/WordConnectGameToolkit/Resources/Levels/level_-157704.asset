@@ -1,0 +1,340 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-157704
+  m_EditorClassIdentifier: 
+  number: 470
+  backgroundReference:
+    m_AssetGUID: b6fcf9646a457414588391a09d99a865
+    m_SubObjectName: Buddah_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0435\u0435\u043B\u043D\u043F"
+    wordsAmount: 5
+    words:
+    - "\u043B\u0435\u043D"
+    - "\u043F\u0435\u043B\u0435\u043D\u0430"
+    - "\u043F\u0430\u043D"
+    - "\u043F\u0435\u043D\u0430\u043B"
+    - "\u043F\u043B\u0435\u043D"
+    - "\u043F\u043B\u0430\u043D"
+    - "\u043F\u0435\u043D\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043B\u0435\u043D"
+        wordNumber: 3
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0435\u043B\u0435\u043D\u0430"
+        wordNumber: 2
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0430\u043D"
+        wordNumber: 5
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0435\u043D\u0430\u043B"
+        wordNumber: 4
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u043B\u0435\u043D"
+        wordNumber: 6
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u043B\u0430\u043D"
+        wordNumber: 1
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0435\u043D\u0430"
+        wordNumber: 7
+        startPosition: {x: 8, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "        \u043F |    \u043F \u043F \u0435 |  \u043F \u043B
+        \u043B\u0435\u043D | \u043F\u0435\u043B\u0435\u043D\u0430 \u0430 |  \u043D
+        \u043D \u043D   | \u043F\u0430\u043D      |  \u043B       "
+  - language: es
+    letters: abcloa
+    wordsAmount: 5
+    words:
+    - ola
+    - cal
+    - acabo
+    - caoba
+    - cala
+    - laca
+    - bol
+    - coba
+    - alba
+    - ala
+    - cabo
+    - bala
+    - alcoba
+    - boca
+    crosswordData:
+      columns: 12
+      rows: 10
+      placements:
+      - word: alcoba
+        wordNumber: 9
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: alba
+        wordNumber: 3
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cala
+        wordNumber: 10
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coba
+        wordNumber: 6
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ala
+        wordNumber: 5
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: boca
+        wordNumber: 1
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cabo
+        wordNumber: 4
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bol
+        wordNumber: 14
+        startPosition: {x: 1, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cal
+        wordNumber: 12
+        startPosition: {x: 5, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ola
+        wordNumber: 7
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bala
+        wordNumber: 13
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: acabo
+        wordNumber: 2
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: caoba
+        wordNumber: 11
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: laca
+        wordNumber: 8
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 11, y: 9}
+      serializedGrid: ' o    alcoba| l     a    | alba  cala |    coba    |  ala      
+        |    boca    | cabo a     |   a  o     | bol  b     |   a cal    '
+  - language: de
+    letters: "bder\xFCr"
+    wordsAmount: 5
+    words:
+    - "\xFCber"
+    - "dr\xFCber"
+    - "br\xFCder"
+    - derb
+    - "d\xFCrr"
+    - "r\xFCber"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "br\xFCder"
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "d\xFCrr"
+        wordNumber: 3
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "r\xFCber"
+        wordNumber: 5
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\xFCber"
+        wordNumber: 2
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: derb
+        wordNumber: 4
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "dr\xFCber"
+        wordNumber: 6
+        startPosition: {x: 9, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "         d|         r|  \xFC      \xFC|  br\xFCder b|  e 
+        e   e|d\xFCrr r\xFCber|     b    "
+  - language: pt
+    letters: "bcimo\xE2"
+    wordsAmount: 5
+    words:
+    - com
+    - bico
+    - boi
+    - mico
+    - "c\xE2mbio"
+    - bom
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: mico
+        wordNumber: 4
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bom
+        wordNumber: 5
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bico
+        wordNumber: 2
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: boi
+        wordNumber: 3
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "c\xE2mbio"
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: com
+        wordNumber: 6
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 3, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: "   mico   |     \xE2    |   bom    |     bico |   boi o  |    
+        o m  |          "
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

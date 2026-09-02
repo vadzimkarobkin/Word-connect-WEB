@@ -1,0 +1,398 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-83890
+  m_EditorClassIdentifier: 
+  number: 455
+  backgroundReference:
+    m_AssetGUID: a3fd66d0e6ad8904699a33f343764290
+    m_SubObjectName: SkyBridge_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0434\u0438\u0441\u0442\u044F"
+    wordsAmount: 5
+    words:
+    - "\u0441\u0430\u0434"
+    - "\u0442\u0438\u0441"
+    - "\u0441\u0442\u0430\u0434\u0438\u044F"
+    - "\u0430\u0438\u0441\u0442"
+    - "\u0434\u0438\u0442\u044F"
+    - "\u0441\u0442\u0430\u044F"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0441\u0430\u0434"
+        wordNumber: 3
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0438\u0441"
+        wordNumber: 5
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0442\u0430\u0434\u0438\u044F"
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u0438\u0441\u0442"
+        wordNumber: 2
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0434\u0438\u0442\u044F"
+        wordNumber: 6
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0442\u0430\u044F"
+        wordNumber: 4
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "       \u0441  | \u0441\u0430\u0434   \u0442\u0438\u0441| 
+        \u0438    \u0430  |  \u0441\u0442\u0430\u0434\u0438\u044F  |  \u0442  \u0438   
+        |     \u0442    |     \u044F    "
+  - language: es
+    letters: aclorv
+    wordsAmount: 5
+    words:
+    - roca
+    - volar
+    - loca
+    - calor
+    - caro
+    - volcar
+    - col
+    - ralo
+    - claro
+    - calvo
+    - cola
+    - orca
+    - valor
+    - rol
+    - arco
+    - coral
+    - clavo
+    crosswordData:
+      columns: 15
+      rows: 15
+      placements:
+      - word: cola
+        wordNumber: 6
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arco
+        wordNumber: 11
+        startPosition: {x: 8, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: claro
+        wordNumber: 3
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: caro
+        wordNumber: 1
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: valor
+        wordNumber: 14
+        startPosition: {x: 10, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: roca
+        wordNumber: 4
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: volar
+        wordNumber: 8
+        startPosition: {x: 0, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: loca
+        wordNumber: 15
+        startPosition: {x: 6, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: col
+        wordNumber: 17
+        startPosition: {x: 7, y: 11}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: volcar
+        wordNumber: 5
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rol
+        wordNumber: 9
+        startPosition: {x: 1, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coral
+        wordNumber: 7
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: orca
+        wordNumber: 2
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ralo
+        wordNumber: 13
+        startPosition: {x: 7, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: calvo
+        wordNumber: 10
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: calor
+        wordNumber: 16
+        startPosition: {x: 8, y: 8}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: clavo
+        wordNumber: 12
+        startPosition: {x: 10, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 14, y: 12}
+      serializedGrid: ' v             |cola    c      | l      arco   | claro  l
+        l    | a   r  v a    | r c caro valor|  roca a  o    | r r   l       |volar
+        loca     | l l    a      |        l      |       col     |        r     
+        |               |               '
+  - language: de
+    letters: cegklo
+    wordsAmount: 5
+    words:
+    - gecko
+    - ego
+    - gockel
+    - log
+    - lok
+    - locke
+    - leo
+    - leck
+    - klo
+    - glocke
+    - loge
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: log
+        wordNumber: 4
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: leo
+        wordNumber: 6
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: leck
+        wordNumber: 5
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lok
+        wordNumber: 1
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gecko
+        wordNumber: 7
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ego
+        wordNumber: 9
+        startPosition: {x: 6, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gockel
+        wordNumber: 11
+        startPosition: {x: 4, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: loge
+        wordNumber: 8
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: klo
+        wordNumber: 2
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: glocke
+        wordNumber: 3
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: locke
+        wordNumber: 10
+        startPosition: {x: 8, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 9, y: 9}
+      serializedGrid: '          |  l log   |  o   leo |  g   o   | leck c   |   
+        lok l |gecko ego |        c |        k |    gockel'
+  - language: pt
+    letters: "enost\xE3"
+    wordsAmount: 5
+    words:
+    - "tens\xE3o"
+    - "s\xE3o"
+    - "t\xE3o"
+    - "est\xE3o"
+    - "ent\xE3o"
+    - neto
+    - tenso
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: tenso
+        wordNumber: 3
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "tens\xE3o"
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "s\xE3o"
+        wordNumber: 6
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "ent\xE3o"
+        wordNumber: 5
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: neto
+        wordNumber: 2
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "est\xE3o"
+        wordNumber: 4
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "t\xE3o"
+        wordNumber: 7
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: "          |tenso  t  |  e  e \xE3  |  tens\xE3o  |s\xE3o 
+        t    |     \xE3    | ent\xE3o    "
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 63f1377c90d84ec478676a869dc2a2c1, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

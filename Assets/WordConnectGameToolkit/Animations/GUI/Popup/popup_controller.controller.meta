@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f37e7fb61c77e50429c78c897ea4e3bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Animations/GUI/Popup/popup_controller.controller
+  uploadId: 784234

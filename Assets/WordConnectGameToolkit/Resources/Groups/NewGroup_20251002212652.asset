@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251002212652
+  m_EditorClassIdentifier: 
+  groupName: "\u042D\u0432\u0435\u0440\u0435\u0441\u0442"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 7de9f949f7f1c144fbf263cbeea3f8fc, type: 2}
+  - {fileID: 11400000, guid: f506b93b5bbcd1d4faa4a8c49e3a8d4b, type: 2}
+  - {fileID: 11400000, guid: c761573eba9ae654ba97a0033ca86324, type: 2}
+  - {fileID: 11400000, guid: b531f609b56dd6f4fb60e08f5ceb852c, type: 2}
+  - {fileID: 11400000, guid: 302a54b9d545d114fae6b1870ab89b0e, type: 2}
+  - {fileID: 11400000, guid: 97f0501c2be754241b408348438ce986, type: 2}
+  - {fileID: 11400000, guid: 8198164c9b0abd940a65090738c67374, type: 2}
+  - {fileID: 11400000, guid: 74d0b369153d2c147ab99f1ca3651cf8, type: 2}
+  - {fileID: 11400000, guid: deb16772be5739942b95366c6c9a90c3, type: 2}
+  - {fileID: 11400000, guid: 790dfec131ece5640aeb86addd6e76d1, type: 2}
+  backgroundReference:
+    m_AssetGUID: 07158c2362eaf1c4094df8bf552ce15e
+    m_SubObjectName: Everest_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u042D\u0432\u0435\u0440\u0435\u0441\u0442 "
+    text: "\u041F\u0435\u0440\u0432\u043E\u0439 \u0436\u0435\u043D\u0449\u0438\u043D\u043E\u0439
+      \u043D\u0430 \u042D\u0432\u0435\u0440\u0435\u0441\u0442\u0435 \u0441\u0442\u0430\u043B\u0430
+      \u044F\u043F\u043E\u043D\u043A\u0430 \u0414\u0437\u044E\u043D\u043A\u043E \u0422\u0430\u0431\u044D\u0439:
+      16 \u043C\u0430\u044F 1975 \u0433\u043E\u0434\u0430 \u043E\u043D\u0430 \u043F\u043E\u0434\u043D\u044F\u043B\u0430\u0441\u044C
+      \u043D\u0430 \u0432\u0435\u0440\u0448\u0438\u043D\u0443 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435
+      \u0436\u0435\u043D\u0441\u043A\u043E\u0439 \u044D\u043A\u0441\u043F\u0435\u0434\u0438\u0446\u0438\u0438."
+  colorsTile: {fileID: 11400000, guid: e8a60425bb67f42618a943883b553d29, type: 2}
+  targetExtraWords: 8

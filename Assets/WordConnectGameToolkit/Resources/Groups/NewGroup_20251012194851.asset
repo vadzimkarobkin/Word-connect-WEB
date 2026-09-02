@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251012194851
+  m_EditorClassIdentifier: 
+  groupName: "\u0413\u0440\u0430\u043D\u0434 \u041A\u0430\u043D\u044C\u043E\u043D"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: a96190b3191f37f44ba802080e951977, type: 2}
+  - {fileID: 11400000, guid: 3434e8f85a6e3794aa3735a7028e980d, type: 2}
+  - {fileID: 11400000, guid: 2062ae040dd1f044ca92808e823ea9c4, type: 2}
+  - {fileID: 11400000, guid: 1abac2c50e62ff44b945e9ecd4089aa3, type: 2}
+  - {fileID: 11400000, guid: c114c725328805241b32c62e568246f0, type: 2}
+  - {fileID: 11400000, guid: 1b3707164490dad42abd30ac3bcb007b, type: 2}
+  - {fileID: 11400000, guid: 30e4f52c4a7f95e4c8070ae99fe924ce, type: 2}
+  - {fileID: 11400000, guid: 76ddabebfe7e64b4c960138be25d9e92, type: 2}
+  - {fileID: 11400000, guid: 59646ddfe24a231448cc2f0323237050, type: 2}
+  - {fileID: 11400000, guid: 0f5267920b34d72489f9ce039dd72259, type: 2}
+  - {fileID: 11400000, guid: 4b12fc56521eb2247be1319fedb74e21, type: 2}
+  - {fileID: 11400000, guid: e435a5e78f9940a4ba5319a0530d136d, type: 2}
+  - {fileID: 11400000, guid: 574a19772a1352a41acbe70d6c20b4d4, type: 2}
+  - {fileID: 11400000, guid: bcd924fb83730f34ba9c95133b1133b4, type: 2}
+  - {fileID: 11400000, guid: 8833fcbde7b545543ae31b8cc77b1058, type: 2}
+  backgroundReference:
+    m_AssetGUID: 5c4a1418b3925434ea7ce136123cd753
+    m_SubObjectName: GrandCanion_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0413\u0440\u0430\u043D\u0434 \u041A\u0430\u043D\u044C\u043E\u043D"
+    text: "\u0413\u0440\u0430\u043D\u0434-\u041A\u0430\u043D\u044C\u043E\u043D \u043F\u0440\u043E\u0440\u0435\u0437\u0430\u043D
+      \u0440\u0435\u043A\u043E\u0439 \u041A\u043E\u043B\u043E\u0440\u0430\u0434\u043E
+      \u043D\u0430 \u0433\u043B\u0443\u0431\u0438\u043D\u0443 \u0441\u0432\u044B\u0448\u0435
+      1,6 \u043A\u043C, \u0441\u043B\u043E\u0438 \u043F\u043E\u0440\u043E\u0434 \u0440\u0430\u0441\u043A\u0440\u044B\u0432\u0430\u044E\u0442
+      \u043F\u043E\u0447\u0442\u0438 \u0434\u0432\u0430 \u043C\u0438\u043B\u043B\u0438\u0430\u0440\u0434\u0430
+      \u043B\u0435\u0442 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0417\u0435\u043C\u043B\u0438."
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  targetExtraWords: 8

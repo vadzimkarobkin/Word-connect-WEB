@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a40c9c2c428a705468855dda352c0a68
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Animations/GUI/Buttons/button_controller.controller
+  uploadId: 784234

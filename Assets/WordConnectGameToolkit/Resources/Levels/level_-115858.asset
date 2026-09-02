@@ -1,0 +1,369 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-115858
+  m_EditorClassIdentifier: 
+  number: 275
+  backgroundReference:
+    m_AssetGUID: 8ee56448ebd6a6146888b2d65af4aeee
+    m_SubObjectName: TimeSquare_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0433\u0437\u0438\u043D\u043E\u043F"
+    wordsAmount: 5
+    words:
+    - "\u043F\u043E\u043D\u0438"
+    - "\u043F\u0438\u043E\u043D"
+    - "\u0438\u043E\u043D"
+    - "\u043D\u0438\u0437"
+    - "\u0433\u0438\u043F\u043D\u043E\u0437"
+    - "\u0438\u0433\u043E"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043F\u043E\u043D\u0438"
+        wordNumber: 4
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0438\u043E\u043D"
+        wordNumber: 3
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0438\u043E\u043D"
+        wordNumber: 1
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043D\u0438\u0437"
+        wordNumber: 5
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u0438\u043F\u043D\u043E\u0437"
+        wordNumber: 2
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0438\u0433\u043E"
+        wordNumber: 6
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |     \u0433 \u0438  |  \u043F\u043E\u043D\u0438
+        \u0433  |     \u043F\u0438\u043E\u043D |   \u0438\u043E\u043D    |     \u043E   
+        |   \u043D\u0438\u0437    "
+  - language: es
+    letters: abiors
+    wordsAmount: 5
+    words:
+    - ibas
+    - obra
+    - boa
+    - sobria
+    - bar
+    - iba
+    - sabio
+    - bis
+    - rabo
+    - abro
+    - sabor
+    crosswordData:
+      columns: 12
+      rows: 15
+      placements:
+      - word: bar
+        wordNumber: 5
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: boa
+        wordNumber: 11
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sobria
+        wordNumber: 3
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: abro
+        wordNumber: 1
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sabio
+        wordNumber: 9
+        startPosition: {x: 5, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ibas
+        wordNumber: 4
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rabo
+        wordNumber: 6
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: iba
+        wordNumber: 2
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: obra
+        wordNumber: 8
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bis
+        wordNumber: 7
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sabor
+        wordNumber: 10
+        startPosition: {x: 9, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 8}
+      serializedGrid: 'i    o      |bar  boa    |a a  r      |sobria      |  o b   
+        s  |    abro a  |     i   b  |     sabio  |         r  |            |           
+        |            |            |            |            '
+  - language: de
+    letters: elostl
+    wordsAmount: 5
+    words:
+    - stell
+    - los
+    - lose
+    - tolle
+    - soll
+    - lotse
+    - sollte
+    - toll
+    - lot
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: soll
+        wordNumber: 6
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: stell
+        wordNumber: 8
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sollte
+        wordNumber: 3
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: toll
+        wordNumber: 1
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: los
+        wordNumber: 9
+        startPosition: {x: 3, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tolle
+        wordNumber: 4
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lot
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lose
+        wordNumber: 5
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lotse
+        wordNumber: 7
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 9}
+      serializedGrid: '  soll    |     o    | t   stell|sollte    | l o      | l
+        toll   | e   o    |     t    |   los    |     e    '
+  - language: pt
+    letters: acimrm
+    wordsAmount: 5
+    words:
+    - carmim
+    - cima
+    - mar
+    - cai
+    - rim
+    - miar
+    - cair
+    - cria
+    - mim
+    - rima
+    - rica
+    crosswordData:
+      columns: 9
+      rows: 10
+      placements:
+      - word: cai
+        wordNumber: 11
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mar
+        wordNumber: 8
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cria
+        wordNumber: 3
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mim
+        wordNumber: 6
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rica
+        wordNumber: 2
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rim
+        wordNumber: 10
+        startPosition: {x: 6, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: carmim
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cair
+        wordNumber: 5
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rima
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cima
+        wordNumber: 7
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: miar
+        wordNumber: 9
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 8, y: 9}
+      serializedGrid: '      c  |    cai  |      mar|   cria  | c  i    | a  mim 
+        | rica i  | m a  a  | i i  rim| m r     '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

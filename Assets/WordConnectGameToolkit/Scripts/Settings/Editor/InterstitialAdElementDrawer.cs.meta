@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 868b5f9431a04f3a81e7484ada3d3f8f
+timeCreated: 1756307465
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/Settings/Editor/InterstitialAdElementDrawer.cs
+  uploadId: 784234

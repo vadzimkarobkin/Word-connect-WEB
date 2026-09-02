@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c6f5415eb26649fcb3a50813e95e771
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Animations/green-circle.controller
+  uploadId: 784234

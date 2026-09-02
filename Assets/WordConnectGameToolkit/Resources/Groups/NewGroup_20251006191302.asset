@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251006191302
+  m_EditorClassIdentifier: 
+  groupName: "\u0422\u0430\u0443\u044D\u0440\u0441\u043A\u0438\u0439 \u043C\u043E\u0441\u0442"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 10365e292f781ff49a6a04ce4bb88b35, type: 2}
+  - {fileID: 11400000, guid: 09620ba08a2d64e4dae4a7112c1e4a29, type: 2}
+  - {fileID: 11400000, guid: 2f975784b51097b4095a696257c26250, type: 2}
+  - {fileID: 11400000, guid: 745fe5db150ae7a448561cd1c16ca93a, type: 2}
+  - {fileID: 11400000, guid: dd5183b6f381e7b4eacb26f1b4981f9c, type: 2}
+  - {fileID: 11400000, guid: fe71361c5bfe56a4eae51968c69937c4, type: 2}
+  - {fileID: 11400000, guid: 412511636cd211f48ae7bcd27c02c884, type: 2}
+  - {fileID: 11400000, guid: d414ebe492dbada43b1ba3b28972ee7e, type: 2}
+  - {fileID: 11400000, guid: 42543234cf9d75340b16a7c207f91822, type: 2}
+  - {fileID: 11400000, guid: cac5bae1a10edb046a0900a112152504, type: 2}
+  backgroundReference:
+    m_AssetGUID: 78be36de0d2e1194cbb8165397b74978
+    m_SubObjectName: TowerBridge_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0422\u0430\u0443\u044D\u0440\u0441\u043A\u0438\u0439 \u043C\u043E\u0441\u0442"
+    text: "\u0422\u0430\u0443\u044D\u0440\u0441\u043A\u0438\u0439 \u043C\u043E\u0441\u0442
+      \u0432 \u041B\u043E\u043D\u0434\u043E\u043D\u0435 \u043E\u0442\u043A\u0440\u044B\u0442
+      \u0432 1894 \u0433\u043E\u0434\u0443, \u0440\u0430\u0437\u0432\u043E\u0434\u043D\u044B\u0435
+      \u043F\u0440\u043E\u043B\u0451\u0442\u044B \u043F\u043E\u0434\u043D\u0438\u043C\u0430\u044E\u0442
+      \u0434\u043B\u044F \u0441\u0443\u0434\u043E\u0432, \u0432\u0435\u0440\u0445\u043D\u0438\u0435
+      \u0433\u0430\u043B\u0435\u0440\u0435\u0438 \u0440\u0430\u0431\u043E\u0442\u0430\u044E\u0442
+      \u043A\u0430\u043A \u043C\u0443\u0437\u0435\u0439 \u0441\u043E \u0441\u0442\u0435\u043A\u043B\u044F\u043D\u043D\u044B\u043C\u0438
+      \u043F\u043E\u043B\u0430\u043C\u0438."
+  colorsTile: {fileID: 0}
+  targetExtraWords: 8

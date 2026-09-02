@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12af2fda3fe67f547bb65b1ce71d1cb9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Animations/spin_button.anim
+  uploadId: 784234

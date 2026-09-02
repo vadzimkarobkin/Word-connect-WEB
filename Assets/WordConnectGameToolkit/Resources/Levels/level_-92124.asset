@@ -1,0 +1,369 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-92124
+  m_EditorClassIdentifier: 
+  number: 111
+  backgroundReference:
+    m_AssetGUID: e1e16be7a15fd214ea2f99f7feab2859
+    m_SubObjectName: StMichel_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0430\u0431\u043A\u043B\u043D"
+    wordsAmount: 5
+    words:
+    - "\u043A\u0430\u043D\u0430\u043B"
+    - "\u0431\u043B\u0430\u043D\u043A"
+    - "\u043D\u0430\u043A\u0430\u043B"
+    - "\u0431\u0430\u043D\u043A\u0430"
+    - "\u0431\u0430\u043A\u043B\u0430\u043D"
+    - "\u0431\u0430\u043B\u043A\u0430"
+    - "\u043A\u043B\u0430\u043D"
+    - "\u043A\u0430\u0431\u0430\u043D"
+    - "\u0431\u0430\u043D\u043A"
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: "\u043A\u0430\u043D\u0430\u043B"
+        wordNumber: 5
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u043B\u0430\u043D\u043A"
+        wordNumber: 3
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043D\u0430\u043A\u0430\u043B"
+        wordNumber: 1
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u043D\u043A\u0430"
+        wordNumber: 8
+        startPosition: {x: 5, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u043A\u043B\u0430\u043D"
+        wordNumber: 7
+        startPosition: {x: 0, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u043B\u043A\u0430"
+        wordNumber: 9
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043B\u0430\u043D"
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0430\u0431\u0430\u043D"
+        wordNumber: 6
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u043D\u043A"
+        wordNumber: 4
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 9}
+      serializedGrid: "      \u0431   |     \u043A\u0430\u043D\u0430\u043B|   \u043A 
+        \u043D   |  \u0431\u043B\u0430\u043D\u043A   |   \u0430      | \u0431 \u043D\u0430\u043A\u0430\u043B 
+        | \u0430   \u0430    | \u043B   \u0431\u0430\u043D\u043A\u0430| \u043A  
+        \u0430    |\u0431\u0430\u043A\u043B\u0430\u043D    "
+  - language: es
+    letters: afmors
+    wordsAmount: 5
+    words:
+    - fosa
+    - forma
+    - formas
+    - morsa
+    - afro
+    - mofa
+    - faro
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: formas
+        wordNumber: 3
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: morsa
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mofa
+        wordNumber: 4
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: faro
+        wordNumber: 6
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fosa
+        wordNumber: 5
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: forma
+        wordNumber: 2
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: afro
+        wordNumber: 7
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: '   f      |  formas  |   r      | f morsa  |mofa   f  | s    
+        r  |faro   o  '
+  - language: de
+    letters: abersu
+    wordsAmount: 5
+    words:
+    - aus
+    - sauer
+    - brause
+    - bar
+    - aber
+    - sauber
+    - raus
+    - bauer
+    - baue
+    - bus
+    - rabe
+    - sau
+    - beau
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: bar
+        wordNumber: 12
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: beau
+        wordNumber: 6
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sau
+        wordNumber: 9
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sauber
+        wordNumber: 3
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: baue
+        wordNumber: 11
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: raus
+        wordNumber: 2
+        startPosition: {x: 5, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: brause
+        wordNumber: 8
+        startPosition: {x: 3, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aus
+        wordNumber: 10
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rabe
+        wordNumber: 13
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bus
+        wordNumber: 5
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aber
+        wordNumber: 1
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: bauer
+        wordNumber: 4
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sauer
+        wordNumber: 7
+        startPosition: {x: 8, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 9, y: 11}
+      serializedGrid: '          | bar    b |  u b beau|  sau   u |    sauber|  
+        r b  r |  baue    |   b raus |   e    a |        u |   brause |        r '
+  - language: pt
+    letters: amnoro
+    wordsAmount: 5
+    words:
+    - mora
+    - morno
+    - ramo
+    - moro
+    - norma
+    - amor
+    - romano
+    - mano
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: amor
+        wordNumber: 5
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: morno
+        wordNumber: 3
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mora
+        wordNumber: 2
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mano
+        wordNumber: 4
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: moro
+        wordNumber: 8
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: romano
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ramo
+        wordNumber: 6
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: norma
+        wordNumber: 7
+        startPosition: {x: 9, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '  amor    |   o o   n|   r morno|  mora a r|     n m m|  mano
+        o a|          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: be2ab2563b766494793b64a93af3090a, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

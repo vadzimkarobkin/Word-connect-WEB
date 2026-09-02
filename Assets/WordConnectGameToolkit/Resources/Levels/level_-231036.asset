@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-231036
+  m_EditorClassIdentifier: 
+  number: 234
+  backgroundReference:
+    m_AssetGUID: b8c036f30f9720342930bc08cf54640d
+    m_SubObjectName: StoneHenge_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0430\u043A\u043A\u0440\u0441"
+    wordsAmount: 5
+    words:
+    - "\u0430\u0440\u043A\u0430"
+    - "\u0440\u0430\u0441\u0430"
+    - "\u043A\u0440\u0430\u0441\u043A\u0430"
+    - "\u043A\u0430\u0441\u043A\u0430"
+    - "\u043A\u0440\u0430\u0441\u0430"
+    - "\u043A\u0430\u0440\u0430"
+    - "\u043A\u0430\u0440\u043A\u0430\u0441"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0430\u0440\u043A\u0430"
+        wordNumber: 5
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0430\u0441\u0430"
+        wordNumber: 2
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0440\u0430\u0441\u043A\u0430"
+        wordNumber: 3
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0430\u0441\u043A\u0430"
+        wordNumber: 7
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0440\u0430\u0441\u0430"
+        wordNumber: 4
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0430\u0440\u0430"
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0430\u0440\u043A\u0430\u0441"
+        wordNumber: 6
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "\u0430\u0440\u043A\u0430      |  \u0440  \u043A \u043A  | 
+        \u0430 \u0440\u0430\u0441\u0430  |  \u0441  \u0440 \u0440  |\u043A\u0440\u0430\u0441\u043A\u0430
+        \u043A  |       \u0430  |     \u043A\u0430\u0441\u043A\u0430"
+  - language: es
+    letters: ainrtu
+    wordsAmount: 5
+    words:
+    - ruina
+    - ruin
+    - unir
+    - rutina
+    - urna
+    - nutria
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: unir
+        wordNumber: 3
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: urna
+        wordNumber: 4
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ruina
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nutria
+        wordNumber: 5
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ruin
+        wordNumber: 6
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rutina
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 5}
+      serializedGrid: '  unir    |     urna |r    t    |u  ruina  |i    n    |nutria   
+        |          '
+  - language: de
+    letters: enpstu
+    wordsAmount: 5
+    words:
+    - nest
+    - pusten
+    - tue
+    - pute
+    - pest
+    - tun
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: tun
+        wordNumber: 6
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pusten
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pest
+        wordNumber: 4
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pute
+        wordNumber: 3
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nest
+        wordNumber: 2
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tue
+        wordNumber: 5
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: '          |  tun t   |    e u   |  pusten  |  u t     |  t      
+        | pest     '
+  - language: pt
+    letters: aopsto
+    wordsAmount: 5
+    words:
+    - pato
+    - oposta
+    - posta
+    - sopa
+    - top
+    - topo
+    - apto
+    - posto
+    - aposto
+    - sapo
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: posta
+        wordNumber: 9
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: aposto
+        wordNumber: 5
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pato
+        wordNumber: 1
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: topo
+        wordNumber: 4
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: posto
+        wordNumber: 7
+        startPosition: {x: 5, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sopa
+        wordNumber: 6
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: apto
+        wordNumber: 8
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sapo
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: top
+        wordNumber: 3
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: oposta
+        wordNumber: 10
+        startPosition: {x: 8, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 8}
+      serializedGrid: 's a       |o posta   |p t       |aposto  o |   a    p |  
+        pato o |topo o  s |     posto|        a |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

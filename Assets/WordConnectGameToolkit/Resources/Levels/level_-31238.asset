@@ -1,0 +1,320 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-31238
+  m_EditorClassIdentifier: 
+  number: 154
+  backgroundReference:
+    m_AssetGUID: d3f10ba72c58c51488cca981eae2aca6
+    m_SubObjectName: chichen itza_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0432\u0435\u0440\u0441\u0442"
+    wordsAmount: 5
+    words:
+    - "\u0432\u0435\u0440\u0430"
+    - "\u0432\u0435\u0440\u0441\u0442\u0430"
+    - "\u0441\u0432\u0430\u0442"
+    - "\u0441\u0435\u0440\u0430"
+    - "\u0441\u0432\u0435\u0442"
+    - "\u0430\u0440\u0435\u0441\u0442"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0432\u0435\u0440\u0430"
+        wordNumber: 3
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u0435\u0440\u0441\u0442\u0430"
+        wordNumber: 2
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0432\u0430\u0442"
+        wordNumber: 4
+        startPosition: {x: 1, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0435\u0440\u0430"
+        wordNumber: 6
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0432\u0435\u0442"
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u0440\u0435\u0441\u0442"
+        wordNumber: 5
+        startPosition: {x: 8, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |     \u0441    |   \u0441 \u0432\u0435\u0440\u0430
+        | \u0441 \u0435 \u0435  \u0440 | \u0432\u0435\u0440\u0441\u0442\u0430 \u0435
+        | \u0430 \u0430    \u0441 | \u0442      \u0442 "
+  - language: es
+    letters: aepste
+    wordsAmount: 5
+    words:
+    - peseta
+    - sepa
+    - ese
+    - peste
+    - pese
+    - pase
+    - esta
+    - este
+    - sea
+    - pesa
+    - esa
+    - seta
+    crosswordData:
+      columns: 12
+      rows: 15
+      placements:
+      - word: peseta
+        wordNumber: 10
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: peste
+        wordNumber: 2
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pese
+        wordNumber: 4
+        startPosition: {x: 6, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: esta
+        wordNumber: 3
+        startPosition: {x: 3, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: esa
+        wordNumber: 6
+        startPosition: {x: 1, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pase
+        wordNumber: 11
+        startPosition: {x: 7, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sea
+        wordNumber: 7
+        startPosition: {x: 1, y: 9}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: este
+        wordNumber: 12
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pesa
+        wordNumber: 5
+        startPosition: {x: 3, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ese
+        wordNumber: 9
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sepa
+        wordNumber: 1
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: seta
+        wordNumber: 8
+        startPosition: {x: 8, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 10, y: 11}
+      serializedGrid: '   e        |   s        |   t        |  peseta    |     s     
+        |    peste   |      e     |   p  pese  |   esta e   | s s    t   | esa  
+        pase | a          |            |            |            '
+  - language: de
+    letters: aehlnt
+    wordsAmount: 5
+    words:
+    - nahe
+    - naht
+    - hantel
+    - elan
+    - nah
+    - halten
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: hantel
+        wordNumber: 3
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nahe
+        wordNumber: 5
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: naht
+        wordNumber: 2
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: elan
+        wordNumber: 6
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: halten
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nah
+        wordNumber: 4
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '     h    |  e hantel|  l  l    |  a  t n  |  nahe a  |    
+        naht |          '
+  - language: pt
+    letters: "aclo\xE3\xE7"
+    wordsAmount: 5
+    words:
+    - "a\xE7\xE3o"
+    - "cal\xE7\xE3o"
+    - "c\xE3o"
+    - "la\xE7o"
+    - oca
+    - "a\xE7o"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "a\xE7o"
+        wordNumber: 6
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: oca
+        wordNumber: 4
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "la\xE7o"
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "c\xE3o"
+        wordNumber: 3
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "cal\xE7\xE3o"
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "a\xE7\xE3o"
+        wordNumber: 5
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: "      a   |   c a\xE7o  | oca  \xE3   |   la\xE7o   |   \xE7     
+        |  c\xE3o     |   o      "
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

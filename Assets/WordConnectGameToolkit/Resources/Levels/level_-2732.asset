@@ -1,0 +1,334 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-2732
+  m_EditorClassIdentifier: 
+  number: 237
+  backgroundReference:
+    m_AssetGUID: f1d3c69d224bfc24580210366a25479e
+    m_SubObjectName: Praga_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0431\u0435\u043A\u043D\u0440\u0443"
+    wordsAmount: 5
+    words:
+    - "\u043A\u0443\u0431"
+    - "\u0431\u0443\u043D\u043A\u0435\u0440"
+    - "\u043A\u0440\u0435\u043D"
+    - "\u0431\u0443\u043A"
+    - "\u043A\u0435\u0440\u043D"
+    - "\u0431\u0443\u0440"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043A\u0443\u0431"
+        wordNumber: 6
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0443\u043D\u043A\u0435\u0440"
+        wordNumber: 2
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0440\u0435\u043D"
+        wordNumber: 5
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0443\u043A"
+        wordNumber: 1
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0435\u0440\u043D"
+        wordNumber: 4
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0443\u0440"
+        wordNumber: 3
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 1}
+      maxBounds: {x: 7, y: 6}
+      serializedGrid: "          |     \u043A\u0443\u0431  |   \u0431   \u0443  | 
+        \u0431\u0443\u043D\u043A\u0435\u0440  |   \u043A \u0435    |     \u0440   
+        |  \u043A\u0440\u0435\u043D    "
+  - language: es
+    letters: ceiopr
+    wordsAmount: 5
+    words:
+    - precio
+    - peor
+    - rico
+    - picor
+    - pico
+    - cepo
+    - pero
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: pico
+        wordNumber: 4
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pero
+        wordNumber: 3
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: precio
+        wordNumber: 2
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: peor
+        wordNumber: 6
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: picor
+        wordNumber: 7
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cepo
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rico
+        wordNumber: 5
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: ' p        | i pico   | c   e    | o   pero |precio i  |      
+        c  |     peor '
+  - language: de
+    letters: aefltu
+    wordsAmount: 5
+    words:
+    - tafel
+    - flaute
+    - faul
+    - laut
+    - luft
+    - tau
+    - alte
+    - taufe
+    - alt
+    - lau
+    - taue
+    - tal
+    - falte
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: faul
+        wordNumber: 11
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tafel
+        wordNumber: 3
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: alt
+        wordNumber: 5
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lau
+        wordNumber: 4
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tal
+        wordNumber: 13
+        startPosition: {x: 8, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: taufe
+        wordNumber: 1
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tau
+        wordNumber: 8
+        startPosition: {x: 6, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: luft
+        wordNumber: 7
+        startPosition: {x: 4, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: falte
+        wordNumber: 9
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: taue
+        wordNumber: 10
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: laut
+        wordNumber: 2
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: flaute
+        wordNumber: 6
+        startPosition: {x: 7, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: alte
+        wordNumber: 12
+        startPosition: {x: 8, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 10, y: 11}
+      serializedGrid: 'f  t        |a faul      |l  u        |tafel   a   |e   alt
+        l   |  lau   tal |    taufe   |       l    |      tau   |       u    |   
+        luft    |       e    '
+  - language: pt
+    letters: abijot
+    wordsAmount: 5
+    words:
+    - bota
+    - boia
+    - toa
+    - boi
+    - botija
+    - joia
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: bota
+        wordNumber: 4
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: boi
+        wordNumber: 5
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: joia
+        wordNumber: 1
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: boia
+        wordNumber: 3
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: botija
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: toa
+        wordNumber: 6
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 6, y: 6}
+      serializedGrid: '     t    |   b o    |  bota    |   t      | boi      |  
+        joia   |boia      |          |          |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

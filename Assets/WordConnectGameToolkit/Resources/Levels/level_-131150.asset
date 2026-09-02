@@ -1,0 +1,383 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-131150
+  m_EditorClassIdentifier: 
+  number: 279
+  backgroundReference:
+    m_AssetGUID: de5bf1b2f501ce14e9df99f1b7a877fa
+    m_SubObjectName: Triumph_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 5, y: 3}
+      maxBounds: {x: 5, y: 3}
+      serializedGrid: '          |          |          |          |          |         
+        |          '
+  - language: ru
+    letters: "\u0430\u0438\u043C\u043D\u0442\u044F"
+    wordsAmount: 5
+    words:
+    - "\u043C\u0430\u043D\u0438\u044F"
+    - "\u043C\u0430\u043D\u0442\u0438\u044F"
+    - "\u043C\u0438\u043D\u0430"
+    - "\u0442\u043C\u0438\u043D"
+    - "\u0442\u0438\u043D\u0430"
+    - "\u043C\u044F\u0442\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043C\u0430\u043D\u0438\u044F"
+        wordNumber: 2
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0430\u043D\u0442\u0438\u044F"
+        wordNumber: 3
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0438\u043D\u0430"
+        wordNumber: 6
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u043C\u0438\u043D"
+        wordNumber: 4
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u0438\u043D\u0430"
+        wordNumber: 1
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u044F\u0442\u0430"
+        wordNumber: 5
+        startPosition: {x: 8, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          | \u0442  \u0442     | \u043C\u0430\u043D\u0438\u044F   
+        | \u0438  \u043D   \u043C | \u043D \u043C\u0430\u043D\u0442\u0438\u044F |       
+        \u0442 |     \u043C\u0438\u043D\u0430 "
+  - language: es
+    letters: ejariv
+    wordsAmount: 5
+    words:
+    - viraje
+    - ver
+    - era
+    - viaje
+    - verja
+    - vea
+    - vieja
+    - ave
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: vea
+        wordNumber: 4
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: vieja
+        wordNumber: 2
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: viraje
+        wordNumber: 3
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: era
+        wordNumber: 6
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ver
+        wordNumber: 7
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: viaje
+        wordNumber: 5
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ave
+        wordNumber: 1
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: verja
+        wordNumber: 8
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '          |   vea v  |   i vieja|viraje r  |e  j   j  |r 
+        era a  |          '
+  - language: de
+    letters: egiost
+    wordsAmount: 5
+    words:
+    - ego
+    - teig
+    - steig
+    - egoist
+    - sie
+    - ist
+    - sieg
+    - steg
+    - sei
+    - eis
+    - geist
+    - so
+    - seit
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: ist
+        wordNumber: 1
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: geist
+        wordNumber: 2
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eg
+        wordNumber: 3
+        startPosition: {x: 8, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: egoist
+        wordNumber: 4
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: teig
+        wordNumber: 5
+        startPosition: {x: 0, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sieg
+        wordNumber: 6
+        startPosition: {x: 5, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: so
+        wordNumber: 7
+        startPosition: {x: 1, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sie
+        wordNumber: 8
+        startPosition: {x: 1, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eis
+        wordNumber: 9
+        startPosition: {x: 1, y: 8}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: steig
+        wordNumber: 10
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sei
+        wordNumber: 11
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: steg
+        wordNumber: 12
+        startPosition: {x: 7, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: seit
+        wordNumber: 13
+        startPosition: {x: 8, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 2}
+      maxBounds: {x: 9, y: 10}
+      serializedGrid: '          |          |ist       | i      s |geist s eg|  
+        t  e i |   egoist |   i   t  |teig sieg | i     g  | so       |          '
+  - language: pt
+    letters: eimors
+    wordsAmount: 5
+    words:
+    - imerso
+    - rios
+    - some
+    - rio
+    - meio
+    - som
+    - rei
+    - sem
+    - moer
+    - ermo
+    - riso
+    - remo
+    crosswordData:
+      columns: 9
+      rows: 10
+      placements:
+      - word: imerso
+        wordNumber: 10
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: moer
+        wordNumber: 7
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: sem
+        wordNumber: 8
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ermo
+        wordNumber: 1
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: meio
+        wordNumber: 3
+        startPosition: {x: 0, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: some
+        wordNumber: 4
+        startPosition: {x: 3, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: som
+        wordNumber: 5
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rio
+        wordNumber: 9
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rios
+        wordNumber: 2
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: riso
+        wordNumber: 6
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rei
+        wordNumber: 12
+        startPosition: {x: 6, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: remo
+        wordNumber: 11
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 7, y: 9}
+      serializedGrid: 'imerso   |   i     |  moer r |     i e |     sem |s ermo o
+        |o  i     |meio  r  |   some  |      i  '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c20ba3464f284bed8370fcefe71e9b5d
+timeCreated: 1694162792
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/AnimationBehaviours/DelayBeforeStart.cs
+  uploadId: 784234

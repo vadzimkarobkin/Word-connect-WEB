@@ -1,0 +1,16 @@
+{
+    "name": "Analytic",
+    "rootNamespace": "",
+    "references": [
+        "GUID:db876121bc98d7c49a354cbc7df3f78e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

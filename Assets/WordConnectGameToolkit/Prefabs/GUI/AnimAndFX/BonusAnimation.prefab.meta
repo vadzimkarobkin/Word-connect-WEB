@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72d63649b5b5c43c2918b54c24343860
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Prefabs/GUI/AnimAndFX/BonusAnimation.prefab
+  uploadId: 784234

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251002210555
+  m_EditorClassIdentifier: 
+  groupName: "\u0421\u043E\u0431\u043E\u0440 \u0432\u0430\u0441\u0438\u043B\u0438\u044F
+    \u0411\u043B\u0430\u0436\u0435\u043D\u043D\u043E\u0433\u043E"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 9ad6dafaa56558e4d97e97cd4f82ffa8, type: 2}
+  - {fileID: 11400000, guid: 41e22a39c4c6fcd42babbce92ef6dc6e, type: 2}
+  - {fileID: 11400000, guid: 0016d00f5be133044b88d18864a6cfb8, type: 2}
+  - {fileID: 11400000, guid: 14691ac38d68a5346a172e12629f587d, type: 2}
+  - {fileID: 11400000, guid: fcd685db5a2ce94488f66c632b6c597a, type: 2}
+  - {fileID: 11400000, guid: 158a5d8eded2ba34eb7481f0e8cfb305, type: 2}
+  - {fileID: 11400000, guid: bee21abe3c111c5408c2f538bc7b30f5, type: 2}
+  - {fileID: 11400000, guid: 345aad38c55535a4f89723f26d65a5ab, type: 2}
+  - {fileID: 11400000, guid: 6ac5774e3d737a44d909ed9b2a0a1fe1, type: 2}
+  - {fileID: 11400000, guid: d185c0447d1c9ed47803ae88f191beb6, type: 2}
+  backgroundReference:
+    m_AssetGUID: 5bc7fe25441b7ec4d89a37533d63cd69
+    m_SubObjectName: Kremlin_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0421\u043E\u0431\u043E\u0440 \u0412\u0430\u0441\u0438\u043B\u0438\u044F
+      \u0411\u043B\u0430\u0436\u0435\u043D\u043D\u043E\u0433\u043E"
+    text: "\u0421\u043E\u0431\u043E\u0440 \u0412\u0430\u0441\u0438\u043B\u0438\u044F
+      \u0411\u043B\u0430\u0436\u0435\u043D\u043D\u043E\u0433\u043E \u0432 \u041C\u043E\u0441\u043A\u0432\u0435
+      \u0441\u043E\u0441\u0442\u043E\u0438\u0442 \u0438\u0437 \u0434\u0435\u0432\u044F\u0442\u0438
+      \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u0445 \u0446\u0435\u0440\u043A\u0432\u0435\u0439,
+      \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0451\u043D\u043D\u044B\u0445 \u043F\u043E\u0434
+      \u043E\u0434\u043D\u0438\u043C \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0438\u0435\u043C
+      \u0432 XVI \u0432\u0435\u043A\u0435."
+  colorsTile: {fileID: 11400000, guid: e8a60425bb67f42618a943883b553d29, type: 2}
+  targetExtraWords: 8

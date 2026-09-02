@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e7a3fc0e02ed54267b36a36b295a1466
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/Levels/Editor/ColorsTilePopupWindow.cs
+  uploadId: 784234

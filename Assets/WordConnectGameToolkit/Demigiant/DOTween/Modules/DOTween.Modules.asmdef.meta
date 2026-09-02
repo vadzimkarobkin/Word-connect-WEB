@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b25ad8286798741e3b2cc3883283e669
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Demigiant/DOTween/Modules/DOTween.Modules.asmdef
+  uploadId: 784234

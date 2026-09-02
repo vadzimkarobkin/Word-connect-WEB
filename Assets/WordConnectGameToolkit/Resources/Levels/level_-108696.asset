@@ -1,0 +1,328 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-108696
+  m_EditorClassIdentifier: 
+  number: 366
+  backgroundReference:
+    m_AssetGUID: 75c2d4dd8b326a94ab491e920b2401c8
+    m_SubObjectName: Kilimondjaro_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0433\u0438\u043C\u043D\u043E"
+    wordsAmount: 5
+    words:
+    - "\u0433\u0438\u043C\u043D"
+    - "\u0433\u043D\u043E\u043C"
+    - "\u043C\u0430\u043D\u0433\u043E"
+    - "\u043C\u0438\u043D\u043E\u0433\u0430"
+    - "\u043D\u043E\u0433\u0430"
+    - "\u043C\u0438\u043D\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0433\u0438\u043C\u043D"
+        wordNumber: 3
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043D\u043E\u043C"
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0430\u043D\u0433\u043E"
+        wordNumber: 6
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0438\u043D\u043E\u0433\u0430"
+        wordNumber: 4
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043D\u043E\u0433\u0430"
+        wordNumber: 2
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0438\u043D\u0430"
+        wordNumber: 5
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: " \u043C        |\u0433\u0438\u043C\u043D      | \u043D \u043E     
+        | \u043E \u0433\u043D\u043E\u043C   | \u0433 \u0430  \u0438   | \u0430   
+        \u043D   |     \u043C\u0430\u043D\u0433\u043E"
+  - language: es
+    letters: aclmor
+    wordsAmount: 5
+    words:
+    - claro
+    - marco
+    - molar
+    - croma
+    - colmar
+    - calor
+    - mora
+    - clamor
+    - coral
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: clamor
+        wordNumber: 9
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: calor
+        wordNumber: 6
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: molar
+        wordNumber: 5
+        startPosition: {x: 7, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mora
+        wordNumber: 1
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: claro
+        wordNumber: 3
+        startPosition: {x: 4, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: marco
+        wordNumber: 8
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coral
+        wordNumber: 2
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: colmar
+        wordNumber: 4
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: croma
+        wordNumber: 7
+        startPosition: {x: 10, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 11, y: 9}
+      serializedGrid: ' clamor     |    a     c |    r  c  r |    calor o |    o 
+        l  m |     c molar|    mora    |     r r    |     a      |    claro   |           
+        |            '
+  - language: de
+    letters: chorst
+    wordsAmount: 5
+    words:
+    - roch
+    - chor
+    - ohr
+    - storch
+    - tor
+    - ort
+    - hort
+    - roh
+    - rot
+    - rost
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: ohr
+        wordNumber: 9
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tor
+        wordNumber: 6
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ort
+        wordNumber: 4
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rot
+        wordNumber: 7
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: roch
+        wordNumber: 1
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: roh
+        wordNumber: 3
+        startPosition: {x: 2, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: hort
+        wordNumber: 8
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rost
+        wordNumber: 5
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: storch
+        wordNumber: 2
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: chor
+        wordNumber: 10
+        startPosition: {x: 6, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 7, y: 9}
+      serializedGrid: 'h           |ohr         |r           |tor s       |  ort      
+        |  s o       |rot roch    |    c h     |  roh o     |      r     |           
+        |            '
+  - language: pt
+    letters: abeila
+    wordsAmount: 5
+    words:
+    - baleia
+    - bala
+    - laia
+    - baile
+    - lei
+    - ala
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: bala
+        wordNumber: 3
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: laia
+        wordNumber: 4
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: baleia
+        wordNumber: 2
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: baile
+        wordNumber: 6
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lei
+        wordNumber: 5
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ala
+        wordNumber: 1
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 2}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: '          |          |  bala    |     laia |baleia    |  e      
+        |baile     '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

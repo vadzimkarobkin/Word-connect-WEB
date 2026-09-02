@@ -1,0 +1,369 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-233614
+  m_EditorClassIdentifier: 
+  number: 235
+  backgroundReference:
+    m_AssetGUID: b8c036f30f9720342930bc08cf54640d
+    m_SubObjectName: StoneHenge_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0430\u0431\u043B\u043F\u0443"
+    wordsAmount: 5
+    words:
+    - "\u043F\u0430\u0431"
+    - "\u0430\u0443\u043B"
+    - "\u0431\u0430\u0443\u043B"
+    - "\u043B\u0430\u043F\u0430"
+    - "\u0431\u0430\u043B"
+    - "\u043F\u0430\u043B\u0443\u0431\u0430"
+    - "\u043B\u0443\u043F\u0430"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043F\u0430\u0431"
+        wordNumber: 6
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u0443\u043B"
+        wordNumber: 2
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u0443\u043B"
+        wordNumber: 4
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0430\u043F\u0430"
+        wordNumber: 5
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0431\u0430\u043B"
+        wordNumber: 1
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043F\u0430\u043B\u0443\u0431\u0430"
+        wordNumber: 3
+        startPosition: {x: 6, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0443\u043F\u0430"
+        wordNumber: 7
+        startPosition: {x: 8, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          |      \u043F   |  \u043F\u0430\u0431 \u0430   |   
+        \u0430\u0443\u043B \u043B | \u0431\u0430\u0443\u043B \u0443 \u0443 |     
+        \u0431 \u043F |     \u043B\u0430\u043F\u0430 "
+  - language: es
+    letters: acimoz
+    wordsAmount: 5
+    words:
+    - cazo
+    - mazo
+    - coma
+    - coz
+    - macizo
+    - iza
+    - mico
+    - maiz
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: mico
+        wordNumber: 6
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: macizo
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: maiz
+        wordNumber: 3
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cazo
+        wordNumber: 7
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: iza
+        wordNumber: 4
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coz
+        wordNumber: 2
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coma
+        wordNumber: 5
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mazo
+        wordNumber: 8
+        startPosition: {x: 9, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 9, y: 5}
+      serializedGrid: '          |  mico    |   z   c m|  macizo a|    o  m z| maiz
+        cazo|          '
+  - language: de
+    letters: aeglnn
+    wordsAmount: 5
+    words:
+    - nageln
+    - angel
+    - lage
+    - langen
+    - angeln
+    - lange
+    - egal
+    - alge
+    - nagel
+    - algen
+    - nagen
+    - lang
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: langen
+        wordNumber: 10
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: algen
+        wordNumber: 4
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: angeln
+        wordNumber: 3
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: egal
+        wordNumber: 1
+        startPosition: {x: 4, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nagen
+        wordNumber: 5
+        startPosition: {x: 0, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lage
+        wordNumber: 9
+        startPosition: {x: 0, y: 11}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: angel
+        wordNumber: 6
+        startPosition: {x: 0, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nagel
+        wordNumber: 7
+        startPosition: {x: 2, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nageln
+        wordNumber: 2
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: alge
+        wordNumber: 8
+        startPosition: {x: 6, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lange
+        wordNumber: 12
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: lang
+        wordNumber: 11
+        startPosition: {x: 9, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 11}
+      serializedGrid: '       l    |langen a    |  a    n l  |algen  g a  |  e angeln 
+        |  l g    g  |    egal    |a   l l     |nagen g     |g     e     |e          
+        |lage        '
+  - language: pt
+    letters: aeflor
+    wordsAmount: 5
+    words:
+    - farelo
+    - flor
+    - ralo
+    - ler
+    - for
+    - fel
+    - fora
+    - elo
+    - flora
+    - farol
+    crosswordData:
+      columns: 10
+      rows: 10
+      placements:
+      - word: fel
+        wordNumber: 10
+        startPosition: {x: 0, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ler
+        wordNumber: 6
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ralo
+        wordNumber: 2
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: farelo
+        wordNumber: 3
+        startPosition: {x: 4, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: for
+        wordNumber: 5
+        startPosition: {x: 6, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: flor
+        wordNumber: 7
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: flora
+        wordNumber: 1
+        startPosition: {x: 5, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: fora
+        wordNumber: 9
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: elo
+        wordNumber: 4
+        startPosition: {x: 7, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: farol
+        wordNumber: 8
+        startPosition: {x: 9, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 2}
+      maxBounds: {x: 9, y: 9}
+      serializedGrid: '          |          |  f    f  |fel  f o  |  o  ler f|  ralo
+        a a|     r   r|    farelo|       l l|      for '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

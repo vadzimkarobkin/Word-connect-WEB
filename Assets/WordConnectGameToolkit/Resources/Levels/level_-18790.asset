@@ -1,0 +1,341 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-18790
+  m_EditorClassIdentifier: 
+  number: 292
+  backgroundReference:
+    m_AssetGUID: 386768fce95ec164ba7c36fcdef7a20a
+    m_SubObjectName: BurjDubai_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0432\u0434\u0435\u043E\u0440\u0446"
+    wordsAmount: 5
+    words:
+    - "\u0434\u0432\u043E\u0440"
+    - "\u0434\u0440\u0435\u0432\u043E"
+    - "\u0435\u0432\u0440\u043E"
+    - "\u0434\u0432\u043E\u0440\u0435\u0446"
+    - "\u0432\u0435\u0434\u0440\u043E"
+    - "\u0432\u0440\u0435\u0434"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0434\u0432\u043E\u0440"
+        wordNumber: 3
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0434\u0440\u0435\u0432\u043E"
+        wordNumber: 4
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0435\u0432\u0440\u043E"
+        wordNumber: 2
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0434\u0432\u043E\u0440\u0435\u0446"
+        wordNumber: 5
+        startPosition: {x: 1, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u0435\u0434\u0440\u043E"
+        wordNumber: 1
+        startPosition: {x: 4, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0432\u0440\u0435\u0434"
+        wordNumber: 6
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "          | \u0434 \u0434\u0432\u043E\u0440   | \u0432  \u0435    
+        | \u043E  \u0434\u0440\u0435\u0432\u043E | \u0440  \u0440  \u0440  | \u0435\u0432\u0440\u043E 
+        \u0435  | \u0446     \u0434  "
+  - language: es
+    letters: enortae
+    wordsAmount: 5
+    words:
+    - tenor
+    - enero
+    - reten
+    - neto
+    - entero
+    - reto
+    - entre
+    - tener
+    - reno
+    - tren
+    - eterno
+    - norte
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: reto
+        wordNumber: 12
+        startPosition: {x: 8, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tenor
+        wordNumber: 10
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: eterno
+        wordNumber: 9
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: entre
+        wordNumber: 6
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: norte
+        wordNumber: 1
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: reno
+        wordNumber: 4
+        startPosition: {x: 3, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: enero
+        wordNumber: 3
+        startPosition: {x: 0, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tener
+        wordNumber: 5
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: neto
+        wordNumber: 7
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: entero
+        wordNumber: 2
+        startPosition: {x: 4, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: reten
+        wordNumber: 8
+        startPosition: {x: 8, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: tren
+        wordNumber: 11
+        startPosition: {x: 10, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 11, y: 10}
+      serializedGrid: '        reto|          r |tenor   r e |  e   eterno|entre  
+        t   |  o norte   |t   t   n   |e  reno     |n   r       |enero       |r          
+        |            '
+  - language: de
+    letters: enoptz
+    wordsAmount: 5
+    words:
+    - note
+    - not
+    - top
+    - zen
+    - poet
+    - potenz
+    - zone
+    - netz
+    - ton
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: top
+        wordNumber: 9
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: poet
+        wordNumber: 2
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: not
+        wordNumber: 7
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: note
+        wordNumber: 4
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: netz
+        wordNumber: 3
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: zen
+        wordNumber: 5
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: potenz
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ton
+        wordNumber: 8
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: zone
+        wordNumber: 6
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '   top    |     o  z |  poet not|     e  n |   z note |  netz
+        o  |   n   n  '
+  - language: pt
+    letters: "achno\xE3"
+    wordsAmount: 5
+    words:
+    - "n\xE3o"
+    - "c\xE3o"
+    - cano
+    - "an\xE3o"
+    - "ch\xE3o"
+    - "canh\xE3o"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "n\xE3o"
+        wordNumber: 5
+        startPosition: {x: 7, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "canh\xE3o"
+        wordNumber: 1
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "c\xE3o"
+        wordNumber: 3
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "an\xE3o"
+        wordNumber: 2
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "ch\xE3o"
+        wordNumber: 6
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cano
+        wordNumber: 4
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "       c  |       a  |     c n\xE3o|  canh\xE3o  |   n \xE3   
+        |   \xE3 o    | c\xE3o      "
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  words: 5
+  letters: 7
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

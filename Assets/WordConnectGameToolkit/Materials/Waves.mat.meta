@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a66ce64a535f341cd9f25306ffdd7943
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Materials/Waves.mat
+  uploadId: 784234

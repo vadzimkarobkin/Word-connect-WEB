@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c912612fdd262440c8671324bf615a5d
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/Editor/CandySmith.BlockPuzzle.Drawers.asmdef
+  uploadId: 784234

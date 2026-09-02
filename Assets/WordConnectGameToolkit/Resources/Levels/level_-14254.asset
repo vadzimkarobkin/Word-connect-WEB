@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-14254
+  m_EditorClassIdentifier: 
+  number: 540
+  backgroundReference:
+    m_AssetGUID: 3f67b70f8ffcb9b4d9a7601267741896
+    m_SubObjectName: Westminster_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0430\u0433\u0434\u043A\u043E\u0442"
+    wordsAmount: 5
+    words:
+    - "\u043E\u0434\u0430"
+    - "\u0430\u043A\u0442"
+    - "\u0430\u0433\u0430\u0442"
+    - "\u043E\u0442\u0433\u0430\u0434\u043A\u0430"
+    - "\u043A\u043E\u0434"
+    - "\u0433\u043E\u0434"
+    - "\u043A\u0430\u0442\u043E\u0434"
+    - "\u043A\u043E\u0442"
+    - "\u0433\u0430\u0434"
+    - "\u0434\u043E\u043A"
+    - "\u0434\u0430\u0442\u0430"
+    - "\u0434\u043E\u0433"
+    - "\u0442\u043E\u043A"
+    crosswordData:
+      columns: 12
+      rows: 12
+      placements:
+      - word: "\u0434\u043E\u043A"
+        wordNumber: 13
+        startPosition: {x: 6, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u043A\u0442"
+        wordNumber: 6
+        startPosition: {x: 6, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0430\u0433\u0430\u0442"
+        wordNumber: 3
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043E\u0442\u0433\u0430\u0434\u043A\u0430"
+        wordNumber: 1
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043E\u0434\u0430"
+        wordNumber: 8
+        startPosition: {x: 4, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0434\u043E\u0433"
+        wordNumber: 12
+        startPosition: {x: 7, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0434\u0430\u0442\u0430"
+        wordNumber: 9
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u043E\u0434"
+        wordNumber: 5
+        startPosition: {x: 1, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0442\u043E\u043A"
+        wordNumber: 2
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0433\u0430\u0434"
+        wordNumber: 7
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043E\u0434"
+        wordNumber: 4
+        startPosition: {x: 7, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u043E\u0442"
+        wordNumber: 10
+        startPosition: {x: 8, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043A\u0430\u0442\u043E\u0434"
+        wordNumber: 11
+        startPosition: {x: 8, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 2}
+      maxBounds: {x: 9, y: 10}
+      serializedGrid: "            |            |\u0434     \u0434\u043E\u043A  
+        |\u0430       \u043E   |\u0442     \u0430\u043A\u0442   |\u0430\u0433\u0430\u0442  
+        \u043E    | \u043E \u043E\u0442\u0433\u0430\u0434\u043A\u0430  | \u0434 \u043A
+        \u0430  \u0430   |    \u043E\u0434\u0430 \u0442   |       \u0434\u043E\u0433 
+        |        \u0434   |            "
+  - language: es
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  - language: de
+    letters: eghoste
+    wordsAmount: 5
+    words:
+    - goethe
+    - stehe
+    - geste
+    - these
+    - goethes
+    - gehst
+    crosswordData:
+      columns: 9
+      rows: 12
+      placements:
+      - word: goethe
+        wordNumber: 5
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: geste
+        wordNumber: 6
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: goethes
+        wordNumber: 3
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: stehe
+        wordNumber: 1
+        startPosition: {x: 2, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: gehst
+        wordNumber: 2
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: these
+        wordNumber: 4
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 7}
+      serializedGrid: '  goethe |     h   |    geste|  g  s   |goethes  |  h     
+        |  stehe  |  t      |         |         |         |         '
+  - language: pt
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 63f1377c90d84ec478676a869dc2a2c1, type: 2}
+  words: 5
+  letters: 7
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 1

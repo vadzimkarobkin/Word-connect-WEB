@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251012192310
+  m_EditorClassIdentifier: 
+  groupName: "\u041D\u0438\u0430\u0433\u0430\u0440\u0441\u043A\u0438\u0439 \u0432\u043E\u0434\u043E\u043F\u0430\u0434"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: bace1b8c6093cbb428cebcf2f69581ed, type: 2}
+  - {fileID: 11400000, guid: 840f519e30b59e34181c5372b74b1aba, type: 2}
+  - {fileID: 11400000, guid: 154335d241a73b04ea1455cd317a05c0, type: 2}
+  - {fileID: 11400000, guid: 9b6c3308de892224cafe5864b4e05675, type: 2}
+  - {fileID: 11400000, guid: 060b25bee427cb44cbf71ac2e9dbcdc9, type: 2}
+  - {fileID: 11400000, guid: baf2e9410507cd341a38743e85cabe9b, type: 2}
+  - {fileID: 11400000, guid: f51e470346edae446ac2fa2c2236ac02, type: 2}
+  - {fileID: 11400000, guid: 92143a5ecc2e8ab4f9845776c73a5ba1, type: 2}
+  - {fileID: 11400000, guid: 4bcc983a7c304d045a870538a97c8515, type: 2}
+  - {fileID: 11400000, guid: d20bd43763a0ea84cac5aecb4beff568, type: 2}
+  - {fileID: 11400000, guid: 904a18ce05568754f904e3f4d95a8f2d, type: 2}
+  - {fileID: 11400000, guid: da7c6506bd38fc6468360e961ad14069, type: 2}
+  - {fileID: 11400000, guid: 5bd5fa864fa3bd34a87e05945f857e09, type: 2}
+  - {fileID: 11400000, guid: c6dd87e37bd4dcd4592a433388737162, type: 2}
+  - {fileID: 11400000, guid: 73822bd3bf02511439d29e6c662e9d3c, type: 2}
+  backgroundReference:
+    m_AssetGUID: 60e42c8401f3fbd47ac810c1795a1087
+    m_SubObjectName: NiagaraFalls_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u041D\u0438\u0430\u0433\u0430\u0440\u0441\u043A\u0438\u0439 \u0432\u043E\u0434\u043E\u043F\u0430\u0434"
+    text: "\u041D\u0438\u0430\u0433\u0430\u0440\u0441\u043A\u0438\u0439 \u0432\u043E\u0434\u043E\u043F\u0430\u0434
+      \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0438\u0432\u0430\u0435\u0442 \u0433\u0438\u0434\u0440\u043E\u044D\u043D\u0435\u0440\u0433\u0438\u0435\u0439
+      \u0421\u0428\u0410 \u0438 \u041A\u0430\u043D\u0430\u0434\u0443, \u0430 \u0441
+      1960-\u0445 \u043F\u043E\u0442\u043E\u043A \u0447\u0430\u0441\u0442\u0438\u0447\u043D\u043E
+      \u0440\u0435\u0433\u0443\u043B\u0438\u0440\u0443\u044E\u0442 \u0448\u043B\u044E\u0437\u0430\u043C\u0438,
+      \u0447\u0442\u043E\u0431\u044B \u0441\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044C
+      \u044D\u0440\u043E\u0437\u0438\u044E \u0443\u0441\u0442\u0443\u043F\u0430."
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  targetExtraWords: 8

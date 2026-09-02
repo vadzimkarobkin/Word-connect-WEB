@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: dcd967d55bd245408860956770845c3d
+timeCreated: 1612009947
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/VContainer/Runtime/Annotations/IPostLateTickable.cs
+  uploadId: 784234

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d61482bfb464443ab0b6c5f62ace5646
+timeCreated: 1727850912
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Materials/Shaders/GlowOverlay.shader
+  uploadId: 784234

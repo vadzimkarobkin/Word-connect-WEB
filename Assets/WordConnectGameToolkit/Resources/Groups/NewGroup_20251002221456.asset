@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251002221456
+  m_EditorClassIdentifier: 
+  groupName: "\u041E\u0431\u043B\u0430\u0447\u043D\u044B\u0435 \u0432\u043E\u0440\u043E\u0442\u0430"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 1409bc01b687cc54f9d879c107d2b613, type: 2}
+  - {fileID: 11400000, guid: 7cf38a34622bcd849ae6a2a18f956243, type: 2}
+  - {fileID: 11400000, guid: 4733b9ae6b7b2794998e9bcaf07aa5cb, type: 2}
+  - {fileID: 11400000, guid: 168e7183c4a1de046b46333829944b10, type: 2}
+  - {fileID: 11400000, guid: 8e31e8121c2053c4599c3b16c77cb0f0, type: 2}
+  - {fileID: 11400000, guid: c6698558ce7d8a94c8a6bc099a6093f9, type: 2}
+  - {fileID: 11400000, guid: 1f681e5d76a558143b5b0791cf2ebec9, type: 2}
+  - {fileID: 11400000, guid: 2fc7a9a062e78064fa2d2740571805fc, type: 2}
+  - {fileID: 11400000, guid: 7d209a7f5d4e2924492e745b75f64a38, type: 2}
+  - {fileID: 11400000, guid: bdd07c81dca4fc34e9c9df76ec24be87, type: 2}
+  backgroundReference:
+    m_AssetGUID: b97d4a1730eb23748bdb1d1e3969a68a
+    m_SubObjectName: ChicagoBean_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u041E\u0431\u043B\u0430\u0447\u043D\u044B\u0435 \u0432\u043E\u0440\u043E\u0442\u0430"
+    text: "\xAB\u041E\u0431\u043B\u0430\u0447\u043D\u044B\u0435 \u0432\u043E\u0440\u043E\u0442\u0430\xBB
+      \u0432 \u0427\u0438\u043A\u0430\u0433\u043E \u2014 \u043F\u043E\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0430\u044F
+      \u0441\u0442\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u043A\u0443\u043B\u044C\u043F\u0442\u0443\u0440\u0430
+      \u0410\u043D\u0438\u0448\u0430 \u041A\u0430\u043F\u0443\u0440\u0430 \u0432\u0435\u0441\u043E\u043C
+      \u043E\u043A\u043E\u043B\u043E 110 \u0442\u043E\u043D\u043D, \u043E\u0442\u0440\u0430\u0436\u0430\u0435\u0442
+      \u0433\u043E\u0440\u0438\u0437\u043E\u043D\u0442 \u0438 \u043D\u0435\u0431\u043E
+      \u043A\u0430\u043A \u0433\u0438\u0433\u0430\u043D\u0442\u0441\u043A\u043E\u0435
+      \u0437\u0435\u0440\u043A\u0430\u043B\u043E."
+  colorsTile: {fileID: 11400000, guid: 530ee400bda75ad44bcc4067e5f57ab8, type: 2}
+  targetExtraWords: 8

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251013143603
+  m_EditorClassIdentifier: 
+  groupName: "\u0421\u043A\u0430\u043B\u0430 \u0413\u0438\u0431\u0440\u043E\u043B\u0442\u0430\u0440"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 08523650322e6bc478ca216d3c5d329a, type: 2}
+  - {fileID: 11400000, guid: 30f03668181ce484fbdc8b93038793be, type: 2}
+  - {fileID: 11400000, guid: c3d86c1fd18800d4ebfdb5f9d5a3bbbd, type: 2}
+  - {fileID: 11400000, guid: bdf704bf3a3f4b84c83a8ffe7d4edfeb, type: 2}
+  - {fileID: 11400000, guid: bef861dec3ebbba4ea0d94ccd5dcfb4f, type: 2}
+  - {fileID: 11400000, guid: 9f9d43ad42a58a9418043ae7023c022a, type: 2}
+  - {fileID: 11400000, guid: 2ed4fe04be953aa4daaeb6d8a0d28338, type: 2}
+  - {fileID: 11400000, guid: 42c5b1bc45a6c4742b0643faba1b421b, type: 2}
+  - {fileID: 11400000, guid: 6de25c1d140a0964baab53cf3df9d524, type: 2}
+  - {fileID: 11400000, guid: 3f94dd6b86cedb54996c2b10450b530a, type: 2}
+  - {fileID: 11400000, guid: a16e7f3b72fb99f42af77fd668b3a71c, type: 2}
+  - {fileID: 11400000, guid: b13f33054d122aa4c9db34054155faab, type: 2}
+  - {fileID: 11400000, guid: 78dcd1f5ec328cc49a85afd2fb59183a, type: 2}
+  - {fileID: 11400000, guid: b1d1937d6100bce45851fc55ac7a0215, type: 2}
+  - {fileID: 11400000, guid: 6783917525052414392fd19c5e519f71, type: 2}
+  - {fileID: 11400000, guid: 36bc1fb94240faf42978e7987425c8b6, type: 2}
+  - {fileID: 11400000, guid: 1ea4f2d04309a7747902766da052ca30, type: 2}
+  - {fileID: 11400000, guid: 3f2b9ee8ed87dc5419c23b8141bf70e7, type: 2}
+  - {fileID: 11400000, guid: 67f15579c65b4264097d2e7bd0d743e6, type: 2}
+  - {fileID: 11400000, guid: 465b344025926e8459642349a05a50e3, type: 2}
+  backgroundReference:
+    m_AssetGUID: 8059626392ec2df41baa319a9edbf36b
+    m_SubObjectName: Gibroltar_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0421\u043A\u0430\u043B\u0430 \u0413\u0438\u0431\u0440\u043E\u043B\u0442\u0430\u0440"
+    text: "\u0421\u043A\u0430\u043B\u0430 \u0413\u0438\u0431\u0440\u0430\u043B\u0442\u0430\u0440\u0430
+      \u0441\u043E\u0441\u0442\u043E\u0438\u0442 \u0438\u0437 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044F\u043A\u0430
+      \u044E\u0440\u0441\u043A\u043E\u0433\u043E \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u0430
+      \u0438 \u0441\u043E\u0434\u0435\u0440\u0436\u0438\u0442 \u0441\u0435\u0442\u0438
+      \u0442\u043E\u043D\u043D\u0435\u043B\u0435\u0439, \u0442\u0430\u043C \u0436\u0438\u0432\u0451\u0442
+      \u043F\u043E\u043F\u0443\u043B\u044F\u0446\u0438\u044F \u043C\u0430\u043A\u0430\u043A
+      \u0431\u0435\u0440\u0431\u0435\u0440\u0441\u043A\u0438\u0445 \u0431\u0435\u0437
+      \u0445\u0432\u043E\u0441\u0442\u043E\u0432"
+  colorsTile: {fileID: 11400000, guid: c196518ac79cb9e40a9cbf03edcae82e, type: 2}
+  targetExtraWords: 8

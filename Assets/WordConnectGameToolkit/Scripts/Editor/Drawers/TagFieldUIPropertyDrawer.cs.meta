@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 6919d8875d47445b8a6d10d54e7cd8b2
+timeCreated: 1747970167
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/Editor/Drawers/TagFieldUIPropertyDrawer.cs
+  uploadId: 784234

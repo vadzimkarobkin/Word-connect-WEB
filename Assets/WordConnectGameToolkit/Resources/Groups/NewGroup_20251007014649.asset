@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251007014649
+  m_EditorClassIdentifier: 
+  groupName: "\u0417\u0430\u043C\u043E\u043A \u041A\u0440\u043E\u043D\u0431\u043E\u0440\u0433"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: d16d58e021ebc1b43905dd01dcf81510, type: 2}
+  - {fileID: 11400000, guid: 1a36eb802499d4044942175c2475f172, type: 2}
+  - {fileID: 11400000, guid: 34007c89afc696c4683e34cb6f421274, type: 2}
+  - {fileID: 11400000, guid: 75eeb6b27bc67dd49b2b0c055bf0b3f3, type: 2}
+  - {fileID: 11400000, guid: 6c293d2604da2ef40a2085c5ffbf75cd, type: 2}
+  - {fileID: 11400000, guid: 61e0338bd06fbd845a9f98cb9208c824, type: 2}
+  - {fileID: 11400000, guid: 00bb766bad7ad6f47a9b9075fb19aa42, type: 2}
+  - {fileID: 11400000, guid: 570fa1ac5e8200440a591789cc71de83, type: 2}
+  - {fileID: 11400000, guid: 307d3d77f33604049a9c89c632dc3e51, type: 2}
+  - {fileID: 11400000, guid: 2350581ad4a89c0418cfc5a40c452c12, type: 2}
+  backgroundReference:
+    m_AssetGUID: 0e0dcdde9d3c11a4d8bd73f5274fe484
+    m_SubObjectName: Kronborg_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u0417\u0430\u043C\u043E\u043A \u041A\u0440\u043E\u043D\u0431\u043E\u0440\u0433"
+    text: "\u0417\u0430\u043C\u043E\u043A \u041A\u0440\u043E\u043D\u0431\u043E\u0440\u0433
+      \u0432 \u0425\u0435\u043B\u044C\u0441\u0438\u043D\u0433\u0451\u0440\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D
+      \u043A\u0430\u043A \u042D\u043B\u044C\u0441\u0438\u043D\u043E\u0440 \u0438\u0437
+      \xAB\u0413\u0430\u043C\u043B\u0435\u0442\u0430\xBB \u0438 \u0441 2000 \u0433\u043E\u0434\u0430
+      \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0441\u043F\u0438\u0441\u043E\u043A
+      \u0412\u0441\u0435\u043C\u0438\u0440\u043D\u043E\u0433\u043E \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u044F
+      \u042E\u041D\u0415\u0421\u041A\u041E."
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  targetExtraWords: 8

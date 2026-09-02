@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fb2735e9cfb14f5a8cd82921f773105, type: 3}
+  m_Name: NewGroup_20251013141126
+  m_EditorClassIdentifier: 
+  groupName: "\u043C\u043E\u0441\u0442 \u0420\u0438\u0430\u043B\u044C\u0442\u043E"
+  parentGroup: {fileID: 0}
+  levels:
+  - {fileID: 11400000, guid: 1a9dad1deac76494f948e363b0aba6d2, type: 2}
+  - {fileID: 11400000, guid: 64248d5ff1f76df4fbe04aa7ad42c574, type: 2}
+  - {fileID: 11400000, guid: fb7cb30b9e880654f8b2487d7236e61c, type: 2}
+  - {fileID: 11400000, guid: fb192ecf8f620be458314dd592fafbc9, type: 2}
+  - {fileID: 11400000, guid: cc81b40093c789f48a3fb1b3fbbdb857, type: 2}
+  - {fileID: 11400000, guid: 60ffabd28fb437c4d9a62e1f9104cf62, type: 2}
+  - {fileID: 11400000, guid: d8655771216fde24280debe499866d5e, type: 2}
+  - {fileID: 11400000, guid: 0f1172575e081a74d89bec1e0756bd83, type: 2}
+  - {fileID: 11400000, guid: 2dd3c6b4892109a4287e717ab73d58e0, type: 2}
+  - {fileID: 11400000, guid: 490f9e3f3ce67024e9053e8019401f0b, type: 2}
+  - {fileID: 11400000, guid: 810f5f8e56749cb43b6298f2387e2ffc, type: 2}
+  - {fileID: 11400000, guid: 39d32b75b2dea2f4a8d36cdbb8389ecf, type: 2}
+  - {fileID: 11400000, guid: 5ac00b0702f8f914e9be7ed1f0c8b423, type: 2}
+  - {fileID: 11400000, guid: d3ab8b14a0dde7f40ba6b8682b2835fd, type: 2}
+  - {fileID: 11400000, guid: e0c8b65a1bd5fae439e58c32fa859077, type: 2}
+  - {fileID: 11400000, guid: e9e2d2bf6ea71a049ad841827add4643, type: 2}
+  - {fileID: 11400000, guid: 8811820d999085947b6959b2eb833a25, type: 2}
+  - {fileID: 11400000, guid: 90e1b179d0a58a2489378ca82fa57e4b, type: 2}
+  - {fileID: 11400000, guid: ee500fb7c68e9f1479979706fdfab961, type: 2}
+  - {fileID: 11400000, guid: e09736cb7533cf940bb1721b0083abd2, type: 2}
+  backgroundReference:
+    m_AssetGUID: 700897bda58965d48a0809242e393d95
+    m_SubObjectName: Ponte di Rialto_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  localizedTexts:
+  - language: en
+    title: 
+    text: 
+  - language: ru
+    title: "\u043C\u043E\u0441\u0442 \u0420\u0438\u0430\u043B\u044C\u0442\u043E"
+    text: "\u041C\u043E\u0441\u0442 \u0420\u0438\u0430\u043B\u044C\u0442\u043E \u0432
+      \u0412\u0435\u043D\u0435\u0446\u0438\u0438 \u2014 \u043A\u0430\u043C\u0435\u043D\u043D\u0430\u044F
+      \u0430\u0440\u043A\u0430 XVI \u0432\u0435\u043A\u0430 \u0434\u043B\u0438\u043D\u043E\u0439
+      48 \u043C, \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D \u043D\u0430 \u0441\u0432\u0430\u044F\u0445,
+      \u043F\u043E \u043E\u0431\u0435\u0438\u043C \u0441\u0442\u043E\u0440\u043E\u043D\u0430\u043C
+      \u0438\u0434\u0443\u0442 \u0442\u043E\u0440\u0433\u043E\u0432\u044B\u0435 \u0440\u044F\u0434\u044B
+      \u0438 \u043B\u0435\u0441\u0442\u043D\u0438\u0446\u044B"
+  colorsTile: {fileID: 11400000, guid: d129003572c2d4b159bffaa89a976492, type: 2}
+  targetExtraWords: 8

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb009419e6f7b4af8abb567061b9dfaf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Resources/Popups/ComingSoon.prefab
+  uploadId: 784234

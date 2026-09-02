@@ -1,0 +1,377 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-131062
+  m_EditorClassIdentifier: 
+  number: 198
+  backgroundReference:
+    m_AssetGUID: 9fb4ddde6e8b94f418edfb19386b99d6
+    m_SubObjectName: NationalLibrary_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: 
+  - language: ru
+    letters: "\u0430\u0435\u0437\u043C\u043D\u0440"
+    wordsAmount: 5
+    words:
+    - "\u043C\u0435\u0440\u0430"
+    - "\u0437\u0430\u0435\u043C"
+    - "\u0437\u0430\u043C\u0435\u0440"
+    - "\u043D\u0430\u0435\u043C"
+    - "\u0440\u0430\u0437\u043C\u0435\u043D"
+    - "\u043C\u0430\u043D\u0435\u0440"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u043C\u0435\u0440\u0430"
+        wordNumber: 4
+        startPosition: {x: 3, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0437\u0430\u0435\u043C"
+        wordNumber: 2
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0437\u0430\u043C\u0435\u0440"
+        wordNumber: 3
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043D\u0430\u0435\u043C"
+        wordNumber: 6
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0430\u0437\u043C\u0435\u043D"
+        wordNumber: 1
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043C\u0430\u043D\u0435\u0440"
+        wordNumber: 5
+        startPosition: {x: 8, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 2, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: "   \u043C\u0435\u0440\u0430   |     \u0430    |     \u0437\u0430\u0435\u043C
+        |   \u043D \u043C  \u0430 |  \u0437\u0430\u043C\u0435\u0440 \u043D |   \u0435
+        \u043D  \u0435 |   \u043C    \u0440 "
+  - language: es
+    letters: acorso
+    wordsAmount: 5
+    words:
+    - orco
+    - ocaso
+    - arcos
+    - corso
+    - acoso
+    - coro
+    - rocosa
+    crosswordData:
+      columns: 10
+      rows: 12
+      placements:
+      - word: ocaso
+        wordNumber: 6
+        startPosition: {x: 2, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: orco
+        wordNumber: 5
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arcos
+        wordNumber: 3
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: corso
+        wordNumber: 2
+        startPosition: {x: 2, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coro
+        wordNumber: 1
+        startPosition: {x: 3, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: acoso
+        wordNumber: 4
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rocosa
+        wordNumber: 7
+        startPosition: {x: 6, y: 6}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 0}
+      maxBounds: {x: 7, y: 11}
+      serializedGrid: '  ocaso   |    c     |    orco  |    s     | arcos    |  
+        o      |   r  r   |  corso   |      c   |      o   |      s   |      a   '
+  - language: de
+    letters: eprstu
+    wordsAmount: 5
+    words:
+    - super
+    - spurte
+    - spur
+    - spreu
+    - erst
+    - pest
+    - pute
+    - rute
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: pest
+        wordNumber: 8
+        startPosition: {x: 5, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rute
+        wordNumber: 6
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: super
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: spur
+        wordNumber: 3
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: pute
+        wordNumber: 7
+        startPosition: {x: 1, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: erst
+        wordNumber: 4
+        startPosition: {x: 3, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: spreu
+        wordNumber: 2
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: spurte
+        wordNumber: 5
+        startPosition: {x: 7, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 6}
+      serializedGrid: ' p   pest |rute   p  | t r s u  | e super  |   t r t  |    
+        e e  |   spur   '
+  - language: pt
+    letters: acdimo
+    wordsAmount: 5
+    words:
+    - comida
+    - macio
+    - cima
+    - moda
+    - maio
+    - dia
+    - dom
+    - cai
+    - mico
+    - coima
+    - oca
+    - amo
+    - dica
+    - ida
+    - cio
+    - com
+    - coma
+    crosswordData:
+      columns: 15
+      rows: 15
+      placements:
+      - word: mico
+        wordNumber: 17
+        startPosition: {x: 6, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cio
+        wordNumber: 8
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: comida
+        wordNumber: 4
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ida
+        wordNumber: 9
+        startPosition: {x: 0, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: amo
+        wordNumber: 1
+        startPosition: {x: 6, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dica
+        wordNumber: 11
+        startPosition: {x: 1, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coma
+        wordNumber: 6
+        startPosition: {x: 7, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cai
+        wordNumber: 15
+        startPosition: {x: 2, y: 11}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dom
+        wordNumber: 5
+        startPosition: {x: 6, y: 11}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: com
+        wordNumber: 13
+        startPosition: {x: 7, y: 14}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: oca
+        wordNumber: 7
+        startPosition: {x: 2, y: 4}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cima
+        wordNumber: 14
+        startPosition: {x: 3, y: 8}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: moda
+        wordNumber: 10
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dia
+        wordNumber: 2
+        startPosition: {x: 6, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coima
+        wordNumber: 16
+        startPosition: {x: 7, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: macio
+        wordNumber: 3
+        startPosition: {x: 7, y: 7}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: maio
+        wordNumber: 12
+        startPosition: {x: 8, y: 11}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 1}
+      maxBounds: {x: 10, y: 14}
+      serializedGrid: '               |       c       |       o       |      mico    
+        |cio    m       |  comida       |ida o i        |    d amo      | dica  a      
+        |   i   coma    |   m   i       |  cai dom      |        a      |       
+        i      |       com     '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: 63f1377c90d84ec478676a869dc2a2c1, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0

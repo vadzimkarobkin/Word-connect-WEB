@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c9659348afa04bc6bb30eb6900f94b65
+timeCreated: 1725694504
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314832
+  packageName: 'Word Connect: Game Toolkit | 500 levels'
+  packageVersion: 1.1.2
+  assetPath: Assets/WordConnectGameToolkit/Scripts/GUI/Buttons/CustomButton.cs
+  uploadId: 784234

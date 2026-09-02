@@ -1,0 +1,406 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6b786b482ba477f8b77ebd212edd6f0, type: 3}
+  m_Name: level_-68796
+  m_EditorClassIdentifier: 
+  number: 259
+  backgroundReference:
+    m_AssetGUID: a9f27e5f37e8b714983d774f7aa38001
+    m_SubObjectName: Sydney_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 1
+  languages:
+  - language: en
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements: []
+      specialItems: []
+      minBounds: {x: 5, y: 3}
+      maxBounds: {x: 5, y: 3}
+      serializedGrid: '          |          |          |          |          |         
+        |          '
+  - language: ru
+    letters: "\u0430\u043B\u043E\u0440\u0441\u0441"
+    wordsAmount: 5
+    words:
+    - "\u0441\u043E\u0440"
+    - "\u0441\u0430\u043B\u043E"
+    - "\u0440\u0430\u0441\u0441\u043E\u043B"
+    - "\u0440\u043E\u0441\u0430"
+    - "\u0441\u0441\u043E\u0440\u0430"
+    - "\u043B\u0430\u0441\u0441\u043E"
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: "\u0441\u043E\u0440"
+        wordNumber: 1
+        startPosition: {x: 4, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0430\u043B\u043E"
+        wordNumber: 5
+        startPosition: {x: 1, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u0430\u0441\u0441\u043E\u043B"
+        wordNumber: 3
+        startPosition: {x: 4, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0440\u043E\u0441\u0430"
+        wordNumber: 4
+        startPosition: {x: 1, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u0441\u0441\u043E\u0440\u0430"
+        wordNumber: 2
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: "\u043B\u0430\u0441\u0441\u043E"
+        wordNumber: 6
+        startPosition: {x: 8, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 1, y: 1}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: "          |        \u043B |    \u0441   \u0430 |    \u0441\u043E\u0440
+        \u0441 | \u0441\u0430\u043B\u043E   \u0441 |    \u0440\u0430\u0441\u0441\u043E\u043B|
+        \u0440\u043E\u0441\u0430     "
+  - language: es
+    letters: adnrza
+    wordsAmount: 5
+    words:
+    - rana
+    - danzar
+    - nadar
+    - danza
+    - raza
+    - dar
+    - zar
+    - azar
+    - andar
+    crosswordData:
+      columns: 10
+      rows: 7
+      placements:
+      - word: danza
+        wordNumber: 4
+        startPosition: {x: 5, y: 1}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: andar
+        wordNumber: 1
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: azar
+        wordNumber: 6
+        startPosition: {x: 0, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: danzar
+        wordNumber: 7
+        startPosition: {x: 3, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: nadar
+        wordNumber: 8
+        startPosition: {x: 0, y: 1}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: dar
+        wordNumber: 2
+        startPosition: {x: 3, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: raza
+        wordNumber: 3
+        startPosition: {x: 6, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rana
+        wordNumber: 5
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: zar
+        wordNumber: 9
+        startPosition: {x: 9, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 9, y: 6}
+      serializedGrid: '      r  z|n    danza|a  d  z  r|d  andar  |azar   a  |r     
+        n  |   danzar '
+  - language: de
+    letters: aekmnr
+    wordsAmount: 5
+    words:
+    - anker
+    - armen
+    - amen
+    - mark
+    - kamen
+    - kran
+    - name
+    - man
+    - kramen
+    - arme
+    - ranke
+    - kern
+    - ren
+    - marke
+    crosswordData:
+      columns: 10
+      rows: 15
+      placements:
+      - word: kamen
+        wordNumber: 14
+        startPosition: {x: 0, y: 0}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: amen
+        wordNumber: 9
+        startPosition: {x: 2, y: 3}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kern
+        wordNumber: 6
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arme
+        wordNumber: 2
+        startPosition: {x: 5, y: 6}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: anker
+        wordNumber: 4
+        startPosition: {x: 1, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: armen
+        wordNumber: 3
+        startPosition: {x: 2, y: 9}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kran
+        wordNumber: 13
+        startPosition: {x: 4, y: 12}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ranke
+        wordNumber: 7
+        startPosition: {x: 0, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: ren
+        wordNumber: 5
+        startPosition: {x: 2, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: man
+        wordNumber: 8
+        startPosition: {x: 3, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: name
+        wordNumber: 12
+        startPosition: {x: 4, y: 0}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: mark
+        wordNumber: 11
+        startPosition: {x: 4, y: 9}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: marke
+        wordNumber: 1
+        startPosition: {x: 5, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: kramen
+        wordNumber: 10
+        startPosition: {x: 7, y: 3}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 8, y: 12}
+      serializedGrid: 'kamen     |    a     |r   m     |a amen k  |n  a   r  |kern
+        m a  |e e  arme | anker e  |     k n  |  armen   |    a     |    r     |   
+        kran  |          |          '
+  - language: pt
+    letters: aceors
+    wordsAmount: 5
+    words:
+    - caro
+    - cores
+    - rosca
+    - coar
+    - secar
+    - arco
+    - roca
+    - rosa
+    - escoar
+    - coser
+    - cera
+    - orca
+    - soar
+    crosswordData:
+      columns: 10
+      rows: 15
+      placements:
+      - word: secar
+        wordNumber: 6
+        startPosition: {x: 4, y: 2}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coser
+        wordNumber: 4
+        startPosition: {x: 5, y: 4}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: soar
+        wordNumber: 7
+        startPosition: {x: 0, y: 5}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cores
+        wordNumber: 1
+        startPosition: {x: 3, y: 7}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: orca
+        wordNumber: 5
+        startPosition: {x: 0, y: 8}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rosa
+        wordNumber: 10
+        startPosition: {x: 2, y: 10}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: rosca
+        wordNumber: 13
+        startPosition: {x: 5, y: 11}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: coar
+        wordNumber: 12
+        startPosition: {x: 4, y: 13}
+        isHorizontal: 1
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: cera
+        wordNumber: 8
+        startPosition: {x: 2, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: caro
+        wordNumber: 9
+        startPosition: {x: 2, y: 8}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: roca
+        wordNumber: 2
+        startPosition: {x: 3, y: 5}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: escoar
+        wordNumber: 3
+        startPosition: {x: 5, y: 2}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      - word: arco
+        wordNumber: 11
+        startPosition: {x: 5, y: 10}
+        isHorizontal: 0
+        isSpecialItem: 0
+        specialItemPath: 
+      specialItems: []
+      minBounds: {x: 0, y: 2}
+      maxBounds: {x: 9, y: 13}
+      serializedGrid: '          |          |  c secar |  e  s    |  r  coser|soar
+        o    |   o a    |   cores  |orca      |  a       |  rosa    |  o  rosca|    
+        c    |    coar  |          '
+  - language: tr
+    letters: 
+    wordsAmount: 5
+    words: []
+    crosswordData:
+      columns: 0
+      rows: 0
+      placements: []
+      specialItems: []
+      minBounds: {x: 0, y: 0}
+      maxBounds: {x: 0, y: 0}
+      serializedGrid: 
+  colorsTile: {fileID: 11400000, guid: e8a60425bb67f42618a943883b553d29, type: 2}
+  words: 5
+  letters: 6
+  min: 3
+  max: 6
+  difficulty: 0
+  enableTimer: 0
+  timerDuration: 120
+  isHardLevel: 0
